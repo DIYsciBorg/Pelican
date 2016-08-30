@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('1081-932B-CLR internal geometry.STEP',
+    '2015-02-25T10:02:29',
+    ( 'pelican' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2014',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #10, .NOT_KNOWN. ) ;
+#2 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #1, #11 ) ;
+#3 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #10 ) ) ;
+#4 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#5 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #2 ) ;
+#6 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#7 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #6 ) ;
+#8 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #4 ) ;
+#9 = PRODUCT_CONTEXT ( 'NONE', #6, 'mechanical' ) ;
+#10 = PRODUCT ( '1081-932B-CLR internal geometry', '1081-932B-CLR internal geometry', '', ( #9 ) ) ;
+#11 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #4, 'design' ) ;
+ENDSEC;
+END-ISO-10303-21;

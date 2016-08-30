@@ -1,0 +1,2645 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('1520-CASE-BOT-US.STEP',
+    '2008-03-03T22:48:39',
+    ( ' ' ),
+    ( ' ' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2007',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = EDGE_LOOP ( 'NONE', ( #116, #117, #118 ) ) ;
+#2 = EDGE_CURVE ( 'NONE', #27, #548, #693, .T. ) ;
+#3 = EDGE_CURVE ( 'NONE', #548, #573, #689, .T. ) ;
+#4 = ORIENTED_EDGE ( 'NONE', *, *, #33, .T. ) ;
+#5 = ORIENTED_EDGE ( 'NONE', *, *, #2, .T. ) ;
+#6 = ADVANCED_FACE ( 'NONE', ( #685 ), #684, .F. ) ;
+#7 = ORIENTED_EDGE ( 'NONE', *, *, #3, .T. ) ;
+#8 = EDGE_CURVE ( 'NONE', #570, #27, #679, .T. ) ;
+#9 = ORIENTED_EDGE ( 'NONE', *, *, #38, .F. ) ;
+#10 = ORIENTED_EDGE ( 'NONE', *, *, #23, .T. ) ;
+#11 = ORIENTED_EDGE ( 'NONE', *, *, #515, .F. ) ;
+#12 = EDGE_LOOP ( 'NONE', ( #29, #14, #13, #9, #39 ) ) ;
+#13 = ORIENTED_EDGE ( 'NONE', *, *, #8, .T. ) ;
+#14 = ORIENTED_EDGE ( 'NONE', *, *, #540, .T. ) ;
+#15 = ORIENTED_EDGE ( 'NONE', *, *, #482, .F. ) ;
+#16 = EDGE_CURVE ( 'NONE', #85, #56, #674, .T. ) ;
+#17 = ADVANCED_FACE ( 'NONE', ( #670 ), #669, .F. ) ;
+#18 = ORIENTED_EDGE ( 'NONE', *, *, #139, .T. ) ;
+#19 = EDGE_LOOP ( 'NONE', ( #10, #21, #22, #4, #185 ) ) ;
+#20 = ORIENTED_EDGE ( 'NONE', *, *, #16, .F. ) ;
+#21 = ORIENTED_EDGE ( 'NONE', *, *, #559, .T. ) ;
+#22 = ORIENTED_EDGE ( 'NONE', *, *, #24, .T. ) ;
+#23 = EDGE_CURVE ( 'NONE', #616, #560, #668, .T. ) ;
+#24 = EDGE_CURVE ( 'NONE', #557, #34, #658, .T. ) ;
+#25 = ORIENTED_EDGE ( 'NONE', *, *, #444, .F. ) ;
+#26 = ORIENTED_EDGE ( 'NONE', *, *, #486, .F. ) ;
+#27 = VERTEX_POINT ( 'NONE', #660 ) ;
+#28 = ORIENTED_EDGE ( 'NONE', *, *, #45, .F. ) ;
+#29 = ORIENTED_EDGE ( 'NONE', *, *, #76, .F. ) ;
+#30 = ORIENTED_EDGE ( 'NONE', *, *, #504, .F. ) ;
+#31 = EDGE_LOOP ( 'NONE', ( #32, #15, #11 ) ) ;
+#32 = ORIENTED_EDGE ( 'NONE', *, *, #421, .F. ) ;
+#33 = EDGE_CURVE ( 'NONE', #34, #450, #659, .T. ) ;
+#34 = VERTEX_POINT ( 'NONE', #650 ) ;
+#35 = ORIENTED_EDGE ( 'NONE', *, *, #36, .T. ) ;
+#36 = EDGE_CURVE ( 'NONE', #34, #517, #727, .T. ) ;
+#37 = EDGE_LOOP ( 'NONE', ( #28, #41, #122 ) ) ;
+#38 = EDGE_CURVE ( 'NONE', #596, #27, #723, .T. ) ;
+#39 = ORIENTED_EDGE ( 'NONE', *, *, #595, .T. ) ;
+#40 = ADVANCED_FACE ( 'NONE', ( #719, #718, #717, #716 ), #715, .F. ) ;
+#41 = ORIENTED_EDGE ( 'NONE', *, *, #288, .F. ) ;
+#42 = ADVANCED_FACE ( 'NONE', ( #710 ), #709, .F. ) ;
+#43 = ORIENTED_EDGE ( 'NONE', *, *, #53, .T. ) ;
+#44 = ORIENTED_EDGE ( 'NONE', *, *, #121, .T. ) ;
+#45 = EDGE_CURVE ( 'NONE', #584, #47, #703, .T. ) ;
+#46 = EDGE_LOOP ( 'NONE', ( #129, #52 ) ) ;
+#47 = VERTEX_POINT ( 'NONE', #699 ) ;
+#48 = ORIENTED_EDGE ( 'NONE', *, *, #139, .F. ) ;
+#49 = EDGE_LOOP ( 'NONE', ( #50, #109 ) ) ;
+#50 = ORIENTED_EDGE ( 'NONE', *, *, #101, .F. ) ;
+#51 = EDGE_CURVE ( 'NONE', #84, #66, #698, .T. ) ;
+#52 = ORIENTED_EDGE ( 'NONE', *, *, #53, .F. ) ;
+#53 = EDGE_CURVE ( 'NONE', #132, #131, #975, .T. ) ;
+#54 = ADVANCED_FACE ( 'NONE', ( #970 ), #969, .T. ) ;
+#55 = EDGE_LOOP ( 'NONE', ( #43, #44 ) ) ;
+#56 = VERTEX_POINT ( 'NONE', #964 ) ;
+#57 = VERTEX_POINT ( 'NONE', #963 ) ;
+#58 = ADVANCED_FACE ( 'NONE', ( #962 ), #959, .T. ) ;
+#59 = ADVANCED_FACE ( 'NONE', ( #960 ), #955, .F. ) ;
+#60 = ADVANCED_FACE ( 'NONE', ( #950 ), #949, .T. ) ;
+#61 = ORIENTED_EDGE ( 'NONE', *, *, #106, .T. ) ;
+#62 = VERTEX_POINT ( 'NONE', #944 ) ;
+#63 = EDGE_CURVE ( 'NONE', #66, #84, #844, .T. ) ;
+#64 = ADVANCED_FACE ( 'NONE', ( #846 ), #845, .T. ) ;
+#65 = ORIENTED_EDGE ( 'NONE', *, *, #70, .T. ) ;
+#66 = VERTEX_POINT ( 'NONE', #839 ) ;
+#67 = VERTEX_POINT ( 'NONE', #834 ) ;
+#68 = VERTEX_POINT ( 'NONE', #833 ) ;
+#69 = EDGE_LOOP ( 'NONE', ( #65, #71 ) ) ;
+#70 = EDGE_CURVE ( 'NONE', #67, #68, #832, .T. ) ;
+#71 = ORIENTED_EDGE ( 'NONE', *, *, #101, .T. ) ;
+#72 = ORIENTED_EDGE ( 'NONE', *, *, #619, .T. ) ;
+#73 = EDGE_LOOP ( 'NONE', ( #74, #75 ) ) ;
+#74 = ORIENTED_EDGE ( 'NONE', *, *, #631, .T. ) ;
+#75 = ORIENTED_EDGE ( 'NONE', *, *, #635, .F. ) ;
+#76 = EDGE_CURVE ( 'NONE', #517, #591, #828, .T. ) ;
+#77 = ORIENTED_EDGE ( 'NONE', *, *, #408, .T. ) ;
+#78 = ORIENTED_EDGE ( 'NONE', *, *, #410, .F. ) ;
+#79 = EDGE_LOOP ( 'NONE', ( #80, #5, #7, #96 ) ) ;
+#80 = ORIENTED_EDGE ( 'NONE', *, *, #38, .T. ) ;
+#81 = ORIENTED_EDGE ( 'NONE', *, *, #76, .T. ) ;
+#82 = ORIENTED_EDGE ( 'NONE', *, *, #449, .F. ) ;
+#83 = EDGE_LOOP ( 'NONE', ( #25, #26, #30 ) ) ;
+#84 = VERTEX_POINT ( 'NONE', #822 ) ;
+#85 = VERTEX_POINT ( 'NONE', #824 ) ;
+#86 = ORIENTED_EDGE ( 'NONE', *, *, #643, .F. ) ;
+#87 = ADVANCED_FACE ( 'NONE', ( #823, #821, #820, #819, #818 ), #817, .F. ) ;
+#88 = EDGE_LOOP ( 'NONE', ( #89, #35, #81, #82 ) ) ;
+#89 = ORIENTED_EDGE ( 'NONE', *, *, #33, .F. ) ;
+#90 = EDGE_CURVE ( 'NONE', #281, #47, #811, .T. ) ;
+#91 = ORIENTED_EDGE ( 'NONE', *, *, #344, .T. ) ;
+#92 = ORIENTED_EDGE ( 'NONE', *, *, #390, .T. ) ;
+#93 = ADVANCED_FACE ( 'NONE', ( #807 ), #806, .F. ) ;
+#94 = EDGE_LOOP ( 'NONE', ( #95, #112, #113, #20, #18 ) ) ;
+#95 = ORIENTED_EDGE ( 'NONE', *, *, #3, .F. ) ;
+#96 = ORIENTED_EDGE ( 'NONE', *, *, #649, .T. ) ;
+#97 = VERTEX_POINT ( 'NONE', #801 ) ;
+#98 = EDGE_CURVE ( 'NONE', #57, #97, #800, .T. ) ;
+#99 = EDGE_LOOP ( 'NONE', ( #134, #141 ) ) ;
+#100 = EDGE_CURVE ( 'NONE', #97, #57, #796, .T. ) ;
+#101 = EDGE_CURVE ( 'NONE', #68, #67, #896, .T. ) ;
+#102 = EDGE_LOOP ( 'NONE', ( #104, #108 ) ) ;
+#103 = ADVANCED_FACE ( 'NONE', ( #891 ), #890, .T. ) ;
+#104 = ORIENTED_EDGE ( 'NONE', *, *, #51, .F. ) ;
+#105 = ORIENTED_EDGE ( 'NONE', *, *, #106, .F. ) ;
+#106 = EDGE_CURVE ( 'NONE', #57, #97, #884, .T. ) ;
+#107 = EDGE_CURVE ( 'NONE', #84, #66, #880, .T. ) ;
+#108 = ORIENTED_EDGE ( 'NONE', *, *, #63, .F. ) ;
+#109 = ORIENTED_EDGE ( 'NONE', *, *, #110, .F. ) ;
+#110 = EDGE_CURVE ( 'NONE', #67, #68, #876, .T. ) ;
+#111 = EDGE_LOOP ( 'NONE', ( #105, #143 ) ) ;
+#112 = ORIENTED_EDGE ( 'NONE', *, *, #547, .T. ) ;
+#113 = ORIENTED_EDGE ( 'NONE', *, *, #114, .T. ) ;
+#114 = EDGE_CURVE ( 'NONE', #528, #56, #907, .T. ) ;
+#115 = EDGE_LOOP ( 'NONE', ( #77, #78 ) ) ;
+#116 = ORIENTED_EDGE ( 'NONE', *, *, #494, .T. ) ;
+#117 = ORIENTED_EDGE ( 'NONE', *, *, #453, .T. ) ;
+#118 = ORIENTED_EDGE ( 'NONE', *, *, #751, .T. ) ;
+#119 = EDGE_LOOP ( 'NONE', ( #120, #91, #92 ) ) ;
+#120 = ORIENTED_EDGE ( 'NONE', *, *, #354, .T. ) ;
+#121 = EDGE_CURVE ( 'NONE', #131, #132, #902, .T. ) ;
+#122 = ORIENTED_EDGE ( 'NONE', *, *, #90, .T. ) ;
+#123 = EDGE_LOOP ( 'NONE', ( #124, #86 ) ) ;
+#124 = ORIENTED_EDGE ( 'NONE', *, *, #606, .T. ) ;
+#125 = ORIENTED_EDGE ( 'NONE', *, *, #51, .T. ) ;
+#126 = ORIENTED_EDGE ( 'NONE', *, *, #127, .T. ) ;
+#127 = EDGE_CURVE ( 'NONE', #47, #616, #941, .T. ) ;
+#128 = ADVANCED_FACE ( 'NONE', ( #937 ), #936, .T. ) ;
+#129 = ORIENTED_EDGE ( 'NONE', *, *, #130, .F. ) ;
+#130 = EDGE_CURVE ( 'NONE', #131, #132, #931, .T. ) ;
+#131 = VERTEX_POINT ( 'NONE', #927 ) ;
+#132 = VERTEX_POINT ( 'NONE', #926 ) ;
+#133 = ORIENTED_EDGE ( 'NONE', *, *, #144, .T. ) ;
+#134 = ORIENTED_EDGE ( 'NONE', *, *, #142, .F. ) ;
+#135 = EDGE_LOOP ( 'NONE', ( #133, #305 ) ) ;
+#136 = VERTEX_POINT ( 'NONE', #925 ) ;
+#137 = EDGE_LOOP ( 'NONE', ( #61, #138 ) ) ;
+#138 = ORIENTED_EDGE ( 'NONE', *, *, #100, .T. ) ;
+#139 = EDGE_CURVE ( 'NONE', #85, #573, #924, .T. ) ;
+#140 = ADVANCED_FACE ( 'NONE', ( #919 ), #918, .T. ) ;
+#141 = ORIENTED_EDGE ( 'NONE', *, *, #144, .F. ) ;
+#142 = EDGE_CURVE ( 'NONE', #62, #136, #913, .T. ) ;
+#143 = ORIENTED_EDGE ( 'NONE', *, *, #98, .T. ) ;
+#144 = EDGE_CURVE ( 'NONE', #136, #62, #792, .T. ) ;
+#145 = ADVANCED_FACE ( 'NONE', ( #787 ), #786, .T. ) ;
+#146 = ADVANCED_FACE ( 'NONE', ( #780 ), #785, .T. ) ;
+#147 = EDGE_LOOP ( 'NONE', ( #148, #154 ) ) ;
+#148 = ORIENTED_EDGE ( 'NONE', *, *, #152, .F. ) ;
+#149 = VERTEX_POINT ( 'NONE', #775 ) ;
+#150 = EDGE_CURVE ( 'NONE', #62, #136, #774, .T. ) ;
+#151 = EDGE_LOOP ( 'NONE', ( #279, #339, #295, #306 ) ) ;
+#152 = EDGE_CURVE ( 'NONE', #149, #153, #875, .T. ) ;
+#153 = VERTEX_POINT ( 'NONE', #871 ) ;
+#154 = ORIENTED_EDGE ( 'NONE', *, *, #155, .F. ) ;
+#155 = EDGE_CURVE ( 'NONE', #153, #149, #870, .T. ) ;
+#156 = ADVANCED_FACE ( 'NONE', ( #865 ), #864, .T. ) ;
+#157 = EDGE_LOOP ( 'NONE', ( #287, #167 ) ) ;
+#158 = ADVANCED_FACE ( 'NONE', ( #858 ), #857, .T. ) ;
+#159 = EDGE_LOOP ( 'NONE', ( #160, #303, #414 ) ) ;
+#160 = ORIENTED_EDGE ( 'NONE', *, *, #292, .T. ) ;
+#161 = EDGE_CURVE ( 'NONE', #338, #311, #856, .T. ) ;
+#162 = ORIENTED_EDGE ( 'NONE', *, *, #307, .F. ) ;
+#163 = ORIENTED_EDGE ( 'NONE', *, *, #164, .F. ) ;
+#164 = EDGE_CURVE ( 'NONE', #311, #297, #847, .T. ) ;
+#165 = ADVANCED_FACE ( 'NONE', ( #1033, #1032 ), #1031, .F. ) ;
+#166 = EDGE_LOOP ( 'NONE', ( #304, #473 ) ) ;
+#167 = ORIENTED_EDGE ( 'NONE', *, *, #168, .T. ) ;
+#168 = EDGE_CURVE ( 'NONE', #149, #153, #1026, .T. ) ;
+#169 = ORIENTED_EDGE ( 'NONE', *, *, #268, .F. ) ;
+#170 = EDGE_CURVE ( 'NONE', #736, #264, #1020, .T. ) ;
+#171 = EDGE_LOOP ( 'NONE', ( #299, #300 ) ) ;
+#172 = ORIENTED_EDGE ( 'NONE', *, *, #70, .F. ) ;
+#173 = EDGE_LOOP ( 'NONE', ( #174, #175 ) ) ;
+#174 = ORIENTED_EDGE ( 'NONE', *, *, #63, .T. ) ;
+#175 = ORIENTED_EDGE ( 'NONE', *, *, #107, .T. ) ;
+#176 = EDGE_LOOP ( 'NONE', ( #284, #169, #177, #243 ) ) ;
+#177 = ORIENTED_EDGE ( 'NONE', *, *, #230, .F. ) ;
+#178 = ADVANCED_FACE ( 'NONE', ( #1021 ), #1013, .T. ) ;
+#179 = ORIENTED_EDGE ( 'NONE', *, *, #261, .T. ) ;
+#180 = EDGE_LOOP ( 'NONE', ( #236, #237, #240, #241 ) ) ;
+#181 = ORIENTED_EDGE ( 'NONE', *, *, #468, .F. ) ;
+#182 = ADVANCED_FACE ( 'NONE', ( #1015 ), #1124, .T. ) ;
+#183 = ORIENTED_EDGE ( 'NONE', *, *, #184, .T. ) ;
+#184 = EDGE_CURVE ( 'NONE', #27, #433, #1125, .T. ) ;
+#185 = ORIENTED_EDGE ( 'NONE', *, *, #617, .F. ) ;
+#186 = ORIENTED_EDGE ( 'NONE', *, *, #164, .T. ) ;
+#187 = ORIENTED_EDGE ( 'NONE', *, *, #220, .T. ) ;
+#188 = ORIENTED_EDGE ( 'NONE', *, *, #90, .F. ) ;
+#189 = ADVANCED_FACE ( 'NONE', ( #1007 ), #1135, .T. ) ;
+#190 = EDGE_LOOP ( 'NONE', ( #274, #181, #232, #234 ) ) ;
+#191 = ADVANCED_FACE ( 'NONE', ( #1137 ), #1136, .T. ) ;
+#192 = EDGE_LOOP ( 'NONE', ( #195, #198 ) ) ;
+#193 = VERTEX_POINT ( 'NONE', #1134 ) ;
+#194 = EDGE_CURVE ( 'NONE', #85, #281, #1133, .T. ) ;
+#195 = ORIENTED_EDGE ( 'NONE', *, *, #196, .F. ) ;
+#196 = EDGE_CURVE ( 'NONE', #193, #197, #1129, .T. ) ;
+#197 = VERTEX_POINT ( 'NONE', #1060 ) ;
+#198 = ORIENTED_EDGE ( 'NONE', *, *, #199, .F. ) ;
+#199 = EDGE_CURVE ( 'NONE', #197, #193, #1059, .T. ) ;
+#200 = EDGE_LOOP ( 'NONE', ( #245, #201, #248, #203 ) ) ;
+#201 = ORIENTED_EDGE ( 'NONE', *, *, #769, .F. ) ;
+#202 = ORIENTED_EDGE ( 'NONE', *, *, #550, .F. ) ;
+#203 = ORIENTED_EDGE ( 'NONE', *, *, #8, .F. ) ;
+#204 = ADVANCED_FACE ( 'NONE', ( #1054, #1053, #1052, #1051 ), #1050, .F. ) ;
+#205 = EDGE_LOOP ( 'NONE', ( #216, #217 ) ) ;
+#206 = ORIENTED_EDGE ( 'NONE', *, *, #735, .F. ) ;
+#207 = EDGE_LOOP ( 'NONE', ( #229, #211, #186, #221 ) ) ;
+#208 = ORIENTED_EDGE ( 'NONE', *, *, #212, .T. ) ;
+#209 = ORIENTED_EDGE ( 'NONE', *, *, #142, .T. ) ;
+#210 = EDGE_LOOP ( 'NONE', ( #206, #222, #223, #244 ) ) ;
+#211 = ORIENTED_EDGE ( 'NONE', *, *, #290, .T. ) ;
+#212 = EDGE_CURVE ( 'NONE', #281, #739, #1045, .T. ) ;
+#213 = ORIENTED_EDGE ( 'NONE', *, *, #383, .F. ) ;
+#214 = ORIENTED_EDGE ( 'NONE', *, *, #196, .T. ) ;
+#215 = ORIENTED_EDGE ( 'NONE', *, *, #212, .F. ) ;
+#216 = ORIENTED_EDGE ( 'NONE', *, *, #121, .F. ) ;
+#217 = ORIENTED_EDGE ( 'NONE', *, *, #130, .T. ) ;
+#218 = EDGE_LOOP ( 'NONE', ( #219, #265, #269, #270 ) ) ;
+#219 = ORIENTED_EDGE ( 'NONE', *, *, #220, .F. ) ;
+#220 = EDGE_CURVE ( 'NONE', #264, #47, #1041, .T. ) ;
+#221 = ORIENTED_EDGE ( 'NONE', *, *, #296, .F. ) ;
+#222 = ORIENTED_EDGE ( 'NONE', *, *, #467, .F. ) ;
+#223 = ORIENTED_EDGE ( 'NONE', *, *, #230, .T. ) ;
+#224 = ORIENTED_EDGE ( 'NONE', *, *, #100, .F. ) ;
+#225 = ORIENTED_EDGE ( 'NONE', *, *, #98, .F. ) ;
+#226 = EDGE_LOOP ( 'NONE', ( #257, #209 ) ) ;
+#227 = ADVANCED_FACE ( 'NONE', ( #1037 ), #1035, .T. ) ;
+#228 = ORIENTED_EDGE ( 'NONE', *, *, #16, .T. ) ;
+#229 = ORIENTED_EDGE ( 'NONE', *, *, #458, .F. ) ;
+#230 = EDGE_CURVE ( 'NONE', #466, #264, #1154, .T. ) ;
+#231 = ORIENTED_EDGE ( 'NONE', *, *, #432, .F. ) ;
+#232 = ORIENTED_EDGE ( 'NONE', *, *, #741, .F. ) ;
+#233 = ORIENTED_EDGE ( 'NONE', *, *, #556, .F. ) ;
+#234 = ORIENTED_EDGE ( 'NONE', *, *, #253, .F. ) ;
+#235 = ADVANCED_FACE ( 'NONE', ( #1150 ), #1149, .T. ) ;
+#236 = ORIENTED_EDGE ( 'NONE', *, *, #537, .T. ) ;
+#237 = ORIENTED_EDGE ( 'NONE', *, *, #36, .F. ) ;
+#238 = EDGE_LOOP ( 'NONE', ( #183, #231, #202, #247 ) ) ;
+#239 = ORIENTED_EDGE ( 'NONE', *, *, #765, .F. ) ;
+#240 = ORIENTED_EDGE ( 'NONE', *, *, #261, .F. ) ;
+#241 = ORIENTED_EDGE ( 'NONE', *, *, #434, .F. ) ;
+#242 = EDGE_LOOP ( 'NONE', ( #233, #239, #179, #259 ) ) ;
+#243 = ORIENTED_EDGE ( 'NONE', *, *, #760, .F. ) ;
+#244 = ORIENTED_EDGE ( 'NONE', *, *, #170, .F. ) ;
+#245 = ORIENTED_EDGE ( 'NONE', *, *, #569, .F. ) ;
+#246 = CLOSED_SHELL ( 'NONE', ( #564, #538, #532, #543, #742, #512, #748, #524, #428, #357, #373, #332, #472, #326, #755, #638, #601, #587, #641, #611, #607, #627, #632, #404, #405, #398, #348, #401, #457, #495, #417, #423, #413, #446, #478, #618, #612, #103, #64, #58, #59, #60, #140, #145, #293, #278, #308, #165, #158, #146, #156, #191, #275, #384, #128, #54, #42, #6, #40, #87, #93, #17, #286, #204, #301, #189, #298, #227, #178, #250, #235, #182, #249 ) ) ;
+#247 = ORIENTED_EDGE ( 'NONE', *, *, #2, .F. ) ;
+#248 = ORIENTED_EDGE ( 'NONE', *, *, #184, .F. ) ;
+#249 = ADVANCED_FACE ( 'NONE', ( #1144 ), #1002, .T. ) ;
+#250 = ADVANCED_FACE ( 'NONE', ( #1238 ), #1163, .T. ) ;
+#251 = ORIENTED_EDGE ( 'NONE', *, *, #462, .F. ) ;
+#252 = EDGE_CURVE ( 'NONE', #56, #465, #1266, .T. ) ;
+#253 = EDGE_CURVE ( 'NONE', #56, #739, #1267, .T. ) ;
+#254 = EDGE_LOOP ( 'NONE', ( #255, #172 ) ) ;
+#255 = ORIENTED_EDGE ( 'NONE', *, *, #110, .T. ) ;
+#256 = ORIENTED_EDGE ( 'NONE', *, *, #194, .F. ) ;
+#257 = ORIENTED_EDGE ( 'NONE', *, *, #150, .F. ) ;
+#258 = EDGE_LOOP ( 'NONE', ( #260, #251, #262, #263 ) ) ;
+#259 = ORIENTED_EDGE ( 'NONE', *, *, #24, .F. ) ;
+#260 = ORIENTED_EDGE ( 'NONE', *, *, #527, .F. ) ;
+#261 = EDGE_CURVE ( 'NONE', #397, #34, #1221, .T. ) ;
+#262 = ORIENTED_EDGE ( 'NONE', *, *, #252, .F. ) ;
+#263 = ORIENTED_EDGE ( 'NONE', *, *, #114, .F. ) ;
+#264 = VERTEX_POINT ( 'NONE', #1222 ) ;
+#265 = ORIENTED_EDGE ( 'NONE', *, *, #268, .T. ) ;
+#266 = ORIENTED_EDGE ( 'NONE', *, *, #170, .T. ) ;
+#267 = ORIENTED_EDGE ( 'NONE', *, *, #253, .T. ) ;
+#268 = EDGE_CURVE ( 'NONE', #264, #560, #1216, .T. ) ;
+#269 = ORIENTED_EDGE ( 'NONE', *, *, #23, .F. ) ;
+#270 = ORIENTED_EDGE ( 'NONE', *, *, #127, .F. ) ;
+#271 = EDGE_LOOP ( 'NONE', ( #213, #214 ) ) ;
+#272 = EDGE_LOOP ( 'NONE', ( #228, #267, #215, #256 ) ) ;
+#273 = ORIENTED_EDGE ( 'NONE', *, *, #738, .T. ) ;
+#274 = ORIENTED_EDGE ( 'NONE', *, *, #252, .T. ) ;
+#275 = ADVANCED_FACE ( 'NONE', ( #1178 ), #1177, .T. ) ;
+#276 = EDGE_LOOP ( 'NONE', ( #277, #382 ) ) ;
+#277 = ORIENTED_EDGE ( 'NONE', *, *, #199, .T. ) ;
+#278 = ADVANCED_FACE ( 'NONE', ( #1176 ), #1171, .F. ) ;
+#279 = ORIENTED_EDGE ( 'NONE', *, *, #337, .F. ) ;
+#280 = VERTEX_POINT ( 'NONE', #1166 ) ;
+#281 = VERTEX_POINT ( 'NONE', #1165 ) ;
+#282 = ORIENTED_EDGE ( 'NONE', *, *, #337, .T. ) ;
+#283 = ORIENTED_EDGE ( 'NONE', *, *, #161, .T. ) ;
+#284 = ORIENTED_EDGE ( 'NONE', *, *, #562, .T. ) ;
+#285 = EDGE_LOOP ( 'NONE', ( #224, #225 ) ) ;
+#286 = ADVANCED_FACE ( 'NONE', ( #1262, #1261, #1260, #1259, #1258, #1257 ), #1256, .F. ) ;
+#287 = ORIENTED_EDGE ( 'NONE', *, *, #155, .T. ) ;
+#288 = EDGE_CURVE ( 'NONE', #281, #584, #1249, .T. ) ;
+#289 = ORIENTED_EDGE ( 'NONE', *, *, #290, .F. ) ;
+#290 = EDGE_CURVE ( 'NONE', #381, #311, #1250, .T. ) ;
+#291 = ORIENTED_EDGE ( 'NONE', *, *, #292, .F. ) ;
+#292 = EDGE_CURVE ( 'NONE', #280, #381, #1193, .T. ) ;
+#293 = ADVANCED_FACE ( 'NONE', ( #1189 ), #1185, .F. ) ;
+#294 = VERTEX_POINT ( 'NONE', #1001 ) ;
+#295 = ORIENTED_EDGE ( 'NONE', *, *, #296, .T. ) ;
+#296 = EDGE_CURVE ( 'NONE', #294, #297, #1000, .T. ) ;
+#297 = VERTEX_POINT ( 'NONE', #996 ) ;
+#298 = ADVANCED_FACE ( 'NONE', ( #995 ), #994, .T. ) ;
+#299 = ORIENTED_EDGE ( 'NONE', *, *, #168, .F. ) ;
+#300 = ORIENTED_EDGE ( 'NONE', *, *, #152, .T. ) ;
+#301 = ADVANCED_FACE ( 'NONE', ( #992 ), #988, .F. ) ;
+#302 = EDGE_LOOP ( 'NONE', ( #208, #273, #266, #187, #188 ) ) ;
+#303 = ORIENTED_EDGE ( 'NONE', *, *, #458, .T. ) ;
+#304 = ORIENTED_EDGE ( 'NONE', *, *, #368, .F. ) ;
+#305 = ORIENTED_EDGE ( 'NONE', *, *, #150, .T. ) ;
+#306 = ORIENTED_EDGE ( 'NONE', *, *, #307, .T. ) ;
+#307 = EDGE_CURVE ( 'NONE', #297, #338, #1353, .T. ) ;
+#308 = ADVANCED_FACE ( 'NONE', ( #1284 ), #1272, .T. ) ;
+#309 = EDGE_LOOP ( 'NONE', ( #310, #162, #163 ) ) ;
+#310 = ORIENTED_EDGE ( 'NONE', *, *, #161, .F. ) ;
+#311 = VERTEX_POINT ( 'NONE', #1268 ) ;
+#312 = ORIENTED_EDGE ( 'NONE', *, *, #313, .T. ) ;
+#313 = EDGE_CURVE ( 'NONE', #330, #325, #1303, .T. ) ;
+#314 = ORIENTED_EDGE ( 'NONE', *, *, #319, .F. ) ;
+#315 = ORIENTED_EDGE ( 'NONE', *, *, #360, .F. ) ;
+#316 = EDGE_LOOP ( 'NONE', ( #318, #312, #440, #471 ) ) ;
+#317 = EDGE_CURVE ( 'NONE', #330, #436, #1299, .T. ) ;
+#318 = ORIENTED_EDGE ( 'NONE', *, *, #317, .F. ) ;
+#319 = EDGE_CURVE ( 'NONE', #361, #367, #1364, .T. ) ;
+#320 = EDGE_LOOP ( 'NONE', ( #314, #315 ) ) ;
+#321 = ORIENTED_EDGE ( 'NONE', *, *, #313, .F. ) ;
+#322 = EDGE_LOOP ( 'NONE', ( #463, #469, #464, #461, #460, #459, #768, #767, #766, #764, #761, #763 ) ) ;
+#323 = EDGE_CURVE ( 'NONE', #325, #369, #1363, .T. ) ;
+#324 = ORIENTED_EDGE ( 'NONE', *, *, #194, .T. ) ;
+#325 = VERTEX_POINT ( 'NONE', #1347 ) ;
+#326 = ADVANCED_FACE ( 'NONE', ( #1346, #1345 ), #1341, .T. ) ;
+#327 = EDGE_CURVE ( 'NONE', #335, #369, #1358, .T. ) ;
+#328 = EDGE_LOOP ( 'NONE', ( #331, #387, #388, #321 ) ) ;
+#329 = EDGE_CURVE ( 'NONE', #335, #330, #1354, .T. ) ;
+#330 = VERTEX_POINT ( 'NONE', #1279 ) ;
+#331 = ORIENTED_EDGE ( 'NONE', *, *, #329, .F. ) ;
+#332 = ADVANCED_FACE ( 'NONE', ( #1278 ), #1277, .T. ) ;
+#333 = ORIENTED_EDGE ( 'NONE', *, *, #334, .F. ) ;
+#334 = EDGE_CURVE ( 'NONE', #369, #378, #1276, .T. ) ;
+#335 = VERTEX_POINT ( 'NONE', #1330 ) ;
+#336 = ORIENTED_EDGE ( 'NONE', *, *, #327, .F. ) ;
+#337 = EDGE_CURVE ( 'NONE', #280, #338, #1329, .T. ) ;
+#338 = VERTEX_POINT ( 'NONE', #1306 ) ;
+#339 = ORIENTED_EDGE ( 'NONE', *, *, #340, .F. ) ;
+#340 = EDGE_CURVE ( 'NONE', #294, #280, #1305, .T. ) ;
+#341 = ORIENTED_EDGE ( 'NONE', *, *, #583, .T. ) ;
+#342 = ORIENTED_EDGE ( 'NONE', *, *, #430, .F. ) ;
+#343 = ORIENTED_EDGE ( 'NONE', *, *, #344, .F. ) ;
+#344 = EDGE_CURVE ( 'NONE', #345, #391, #1324, .T. ) ;
+#345 = VERTEX_POINT ( 'NONE', #1323 ) ;
+#346 = ORIENTED_EDGE ( 'NONE', *, *, #347, .F. ) ;
+#347 = EDGE_CURVE ( 'NONE', #437, #345, #1321, .T. ) ;
+#348 = ADVANCED_FACE ( 'NONE', ( #1322 ), #1316, .F. ) ;
+#349 = EDGE_LOOP ( 'NONE', ( #350, #351, #352 ) ) ;
+#350 = ORIENTED_EDGE ( 'NONE', *, *, #429, .T. ) ;
+#351 = ORIENTED_EDGE ( 'NONE', *, *, #347, .T. ) ;
+#352 = ORIENTED_EDGE ( 'NONE', *, *, #354, .F. ) ;
+#353 = EDGE_LOOP ( 'NONE', ( #409, #500 ) ) ;
+#354 = EDGE_CURVE ( 'NONE', #392, #345, #1294, .T. ) ;
+#355 = ORIENTED_EDGE ( 'NONE', *, *, #586, .T. ) ;
+#356 = EDGE_CURVE ( 'NONE', #436, #435, #1290, .T. ) ;
+#357 = ADVANCED_FACE ( 'NONE', ( #1425 ), #1428, .T. ) ;
+#358 = ORIENTED_EDGE ( 'NONE', *, *, #356, .F. ) ;
+#359 = EDGE_LOOP ( 'NONE', ( #358, #431, #379, #376 ) ) ;
+#360 = EDGE_CURVE ( 'NONE', #367, #361, #1413, .T. ) ;
+#361 = VERTEX_POINT ( 'NONE', #1414 ) ;
+#362 = ORIENTED_EDGE ( 'NONE', *, *, #363, .F. ) ;
+#363 = EDGE_CURVE ( 'NONE', #427, #361, #1451, .T. ) ;
+#364 = ORIENTED_EDGE ( 'NONE', *, *, #365, .T. ) ;
+#365 = EDGE_CURVE ( 'NONE', #366, #367, #1490, .T. ) ;
+#366 = VERTEX_POINT ( 'NONE', #1486 ) ;
+#367 = VERTEX_POINT ( 'NONE', #1381 ) ;
+#368 = EDGE_CURVE ( 'NONE', #427, #366, #1380, .T. ) ;
+#369 = VERTEX_POINT ( 'NONE', #1431 ) ;
+#370 = ORIENTED_EDGE ( 'NONE', *, *, #374, .T. ) ;
+#371 = EDGE_CURVE ( 'NONE', #435, #335, #1462, .T. ) ;
+#372 = VERTEX_POINT ( 'NONE', #1458 ) ;
+#373 = ADVANCED_FACE ( 'NONE', ( #1457 ), #1456, .T. ) ;
+#374 = EDGE_CURVE ( 'NONE', #435, #378, #1398, .T. ) ;
+#375 = EDGE_LOOP ( 'NONE', ( #439, #370, #333, #336 ) ) ;
+#376 = ORIENTED_EDGE ( 'NONE', *, *, #374, .F. ) ;
+#377 = EDGE_CURVE ( 'NONE', #378, #372, #1394, .T. ) ;
+#378 = VERTEX_POINT ( 'NONE', #1390 ) ;
+#379 = ORIENTED_EDGE ( 'NONE', *, *, #377, .F. ) ;
+#380 = EDGE_CURVE ( 'NONE', #436, #372, #1389, .T. ) ;
+#381 = VERTEX_POINT ( 'NONE', #1385 ) ;
+#382 = ORIENTED_EDGE ( 'NONE', *, *, #383, .T. ) ;
+#383 = EDGE_CURVE ( 'NONE', #193, #197, #1382, .T. ) ;
+#384 = ADVANCED_FACE ( 'NONE', ( #1384 ), #1383, .F. ) ;
+#385 = ORIENTED_EDGE ( 'NONE', *, *, #621, .F. ) ;
+#386 = EDGE_LOOP ( 'NONE', ( #289, #291, #282, #283 ) ) ;
+#387 = ORIENTED_EDGE ( 'NONE', *, *, #327, .T. ) ;
+#388 = ORIENTED_EDGE ( 'NONE', *, *, #323, .F. ) ;
+#389 = ORIENTED_EDGE ( 'NONE', *, *, #390, .F. ) ;
+#390 = EDGE_CURVE ( 'NONE', #391, #392, #1419, .T. ) ;
+#391 = VERTEX_POINT ( 'NONE', #1421 ) ;
+#392 = VERTEX_POINT ( 'NONE', #1420 ) ;
+#393 = ORIENTED_EDGE ( 'NONE', *, *, #368, .T. ) ;
+#394 = ORIENTED_EDGE ( 'NONE', *, *, #360, .T. ) ;
+#395 = ORIENTED_EDGE ( 'NONE', *, *, #430, .T. ) ;
+#396 = EDGE_LOOP ( 'NONE', ( #393, #364, #394, #362 ) ) ;
+#397 = VERTEX_POINT ( 'NONE', #1374 ) ;
+#398 = ADVANCED_FACE ( 'NONE', ( #1373 ), #1370, .T. ) ;
+#399 = EDGE_LOOP ( 'NONE', ( #342, #343, #346 ) ) ;
+#400 = ORIENTED_EDGE ( 'NONE', *, *, #45, .T. ) ;
+#401 = ADVANCED_FACE ( 'NONE', ( #1371 ), #1366, .T. ) ;
+#402 = EDGE_LOOP ( 'NONE', ( #403, #452, #455 ) ) ;
+#403 = ORIENTED_EDGE ( 'NONE', *, *, #520, .F. ) ;
+#404 = ADVANCED_FACE ( 'NONE', ( #1521 ), #1515, .T. ) ;
+#405 = ADVANCED_FACE ( 'NONE', ( #1516 ), #1412, .T. ) ;
+#406 = ORIENTED_EDGE ( 'NONE', *, *, #501, .F. ) ;
+#407 = ORIENTED_EDGE ( 'NONE', *, *, #408, .F. ) ;
+#408 = EDGE_CURVE ( 'NONE', #411, #499, #1407, .T. ) ;
+#409 = ORIENTED_EDGE ( 'NONE', *, *, #410, .T. ) ;
+#410 = EDGE_CURVE ( 'NONE', #411, #499, #1402, .T. ) ;
+#411 = VERTEX_POINT ( 'NONE', #1485 ) ;
+#412 = EDGE_CURVE ( 'NONE', #487, #509, #1484, .T. ) ;
+#413 = ADVANCED_FACE ( 'NONE', ( #1479 ), #1478, .F. ) ;
+#414 = ORIENTED_EDGE ( 'NONE', *, *, #340, .T. ) ;
+#415 = ORIENTED_EDGE ( 'NONE', *, *, #412, .T. ) ;
+#416 = EDGE_CURVE ( 'NONE', #498, #745, #1473, .T. ) ;
+#417 = ADVANCED_FACE ( 'NONE', ( #1468 ), #1467, .F. ) ;
+#418 = EDGE_LOOP ( 'NONE', ( #419, #420, #422 ) ) ;
+#419 = ORIENTED_EDGE ( 'NONE', *, *, #416, .F. ) ;
+#420 = ORIENTED_EDGE ( 'NONE', *, *, #421, .T. ) ;
+#421 = EDGE_CURVE ( 'NONE', #498, #571, #1506, .T. ) ;
+#422 = ORIENTED_EDGE ( 'NONE', *, *, #747, .F. ) ;
+#423 = ADVANCED_FACE ( 'NONE', ( #1502 ), #1501, .T. ) ;
+#424 = EDGE_LOOP ( 'NONE', ( #484, #485, #415 ) ) ;
+#425 = ORIENTED_EDGE ( 'NONE', *, *, #288, .T. ) ;
+#426 = ORIENTED_EDGE ( 'NONE', *, *, #619, .F. ) ;
+#427 = VERTEX_POINT ( 'NONE', #1500 ) ;
+#428 = ADVANCED_FACE ( 'NONE', ( #1494 ), #1446, .F. ) ;
+#429 = EDGE_CURVE ( 'NONE', #392, #437, #1442, .T. ) ;
+#430 = EDGE_CURVE ( 'NONE', #391, #437, #1438, .T. ) ;
+#431 = ORIENTED_EDGE ( 'NONE', *, *, #380, .T. ) ;
+#432 = EDGE_CURVE ( 'NONE', #554, #433, #1433, .T. ) ;
+#433 = VERTEX_POINT ( 'NONE', #1600 ) ;
+#434 = EDGE_CURVE ( 'NONE', #567, #397, #1598, .T. ) ;
+#435 = VERTEX_POINT ( 'NONE', #1566 ) ;
+#436 = VERTEX_POINT ( 'NONE', #1574 ) ;
+#437 = VERTEX_POINT ( 'NONE', #1597 ) ;
+#438 = ORIENTED_EDGE ( 'NONE', *, *, #429, .F. ) ;
+#439 = ORIENTED_EDGE ( 'NONE', *, *, #371, .F. ) ;
+#440 = ORIENTED_EDGE ( 'NONE', *, *, #470, .F. ) ;
+#441 = EDGE_LOOP ( 'NONE', ( #442, #443, #445 ) ) ;
+#442 = ORIENTED_EDGE ( 'NONE', *, *, #412, .F. ) ;
+#443 = ORIENTED_EDGE ( 'NONE', *, *, #444, .T. ) ;
+#444 = EDGE_CURVE ( 'NONE', #487, #505, #1547, .T. ) ;
+#445 = ORIENTED_EDGE ( 'NONE', *, *, #511, .F. ) ;
+#446 = ADVANCED_FACE ( 'NONE', ( #1522 ), #1571, .F. ) ;
+#447 = EDGE_LOOP ( 'NONE', ( #448, #451, #475, #476 ) ) ;
+#448 = ORIENTED_EDGE ( 'NONE', *, *, #449, .T. ) ;
+#449 = EDGE_CURVE ( 'NONE', #450, #591, #1611, .T. ) ;
+#450 = VERTEX_POINT ( 'NONE', #1523 ) ;
+#451 = ORIENTED_EDGE ( 'NONE', *, *, #590, .F. ) ;
+#452 = ORIENTED_EDGE ( 'NONE', *, *, #453, .F. ) ;
+#453 = EDGE_CURVE ( 'NONE', #454, #752, #1589, .T. ) ;
+#454 = VERTEX_POINT ( 'NONE', #1599 ) ;
+#455 = ORIENTED_EDGE ( 'NONE', *, *, #456, .F. ) ;
+#456 = EDGE_CURVE ( 'NONE', #521, #454, #1565, .T. ) ;
+#457 = ADVANCED_FACE ( 'NONE', ( #1616 ), #1560, .F. ) ;
+#458 = EDGE_CURVE ( 'NONE', #381, #294, #1617, .T. ) ;
+#459 = ORIENTED_EDGE ( 'NONE', *, *, #432, .T. ) ;
+#460 = ORIENTED_EDGE ( 'NONE', *, *, #552, .T. ) ;
+#461 = ORIENTED_EDGE ( 'NONE', *, *, #462, .T. ) ;
+#462 = EDGE_CURVE ( 'NONE', #465, #553, #1613, .T. ) ;
+#463 = ORIENTED_EDGE ( 'NONE', *, *, #467, .T. ) ;
+#464 = ORIENTED_EDGE ( 'NONE', *, *, #468, .T. ) ;
+#465 = VERTEX_POINT ( 'NONE', #1614 ) ;
+#466 = VERTEX_POINT ( 'NONE', #1612 ) ;
+#467 = EDGE_CURVE ( 'NONE', #466, #546, #1573, .T. ) ;
+#468 = EDGE_CURVE ( 'NONE', #733, #465, #1540, .T. ) ;
+#469 = ORIENTED_EDGE ( 'NONE', *, *, #732, .T. ) ;
+#470 = EDGE_CURVE ( 'NONE', #372, #325, #1536, .T. ) ;
+#471 = ORIENTED_EDGE ( 'NONE', *, *, #380, .F. ) ;
+#472 = ADVANCED_FACE ( 'NONE', ( #1532, #1531 ), #1529, .T. ) ;
+#473 = ORIENTED_EDGE ( 'NONE', *, *, #730, .F. ) ;
+#474 = EDGE_LOOP ( 'NONE', ( #406, #407 ) ) ;
+#475 = ORIENTED_EDGE ( 'NONE', *, *, #604, .T. ) ;
+#476 = ORIENTED_EDGE ( 'NONE', *, *, #477, .T. ) ;
+#477 = EDGE_CURVE ( 'NONE', #578, #450, #1530, .T. ) ;
+#478 = ADVANCED_FACE ( 'NONE', ( #1555 ), #1554, .F. ) ;
+#479 = EDGE_LOOP ( 'NONE', ( #480, #48, #72 ) ) ;
+#480 = ORIENTED_EDGE ( 'NONE', *, *, #575, .T. ) ;
+#481 = ORIENTED_EDGE ( 'NONE', *, *, #482, .T. ) ;
+#482 = EDGE_CURVE ( 'NONE', #572, #498, #1549, .T. ) ;
+#483 = ORIENTED_EDGE ( 'NONE', *, *, #416, .T. ) ;
+#484 = ORIENTED_EDGE ( 'NONE', *, *, #508, .F. ) ;
+#485 = ORIENTED_EDGE ( 'NONE', *, *, #486, .T. ) ;
+#486 = EDGE_CURVE ( 'NONE', #506, #487, #1585, .T. ) ;
+#487 = VERTEX_POINT ( 'NONE', #1584 ) ;
+#488 = EDGE_LOOP ( 'NONE', ( #385, #355, #400, #126 ) ) ;
+#489 = EDGE_LOOP ( 'NONE', ( #341, #426, #324, #425 ) ) ;
+#490 = EDGE_LOOP ( 'NONE', ( #491, #492, #493 ) ) ;
+#491 = ORIENTED_EDGE ( 'NONE', *, *, #523, .T. ) ;
+#492 = ORIENTED_EDGE ( 'NONE', *, *, #456, .T. ) ;
+#493 = ORIENTED_EDGE ( 'NONE', *, *, #494, .F. ) ;
+#494 = EDGE_CURVE ( 'NONE', #518, #454, #1591, .T. ) ;
+#495 = ADVANCED_FACE ( 'NONE', ( #1631 ), #1630, .T. ) ;
+#496 = EDGE_LOOP ( 'NONE', ( #497, #481, #483 ) ) ;
+#497 = ORIENTED_EDGE ( 'NONE', *, *, #744, .F. ) ;
+#498 = VERTEX_POINT ( 'NONE', #1649 ) ;
+#499 = VERTEX_POINT ( 'NONE', #1641 ) ;
+#500 = ORIENTED_EDGE ( 'NONE', *, *, #501, .T. ) ;
+#501 = EDGE_CURVE ( 'NONE', #499, #411, #1640, .T. ) ;
+#502 = EDGE_LOOP ( 'NONE', ( #503, #507, #510 ) ) ;
+#503 = ORIENTED_EDGE ( 'NONE', *, *, #504, .T. ) ;
+#504 = EDGE_CURVE ( 'NONE', #505, #506, #1634, .T. ) ;
+#505 = VERTEX_POINT ( 'NONE', #1635 ) ;
+#506 = VERTEX_POINT ( 'NONE', #1633 ) ;
+#507 = ORIENTED_EDGE ( 'NONE', *, *, #508, .T. ) ;
+#508 = EDGE_CURVE ( 'NONE', #506, #509, #1628, .T. ) ;
+#509 = VERTEX_POINT ( 'NONE', #1624 ) ;
+#510 = ORIENTED_EDGE ( 'NONE', *, *, #511, .T. ) ;
+#511 = EDGE_CURVE ( 'NONE', #509, #505, #1623, .T. ) ;
+#512 = ADVANCED_FACE ( 'NONE', ( #1762 ), #1737, .T. ) ;
+#513 = EDGE_LOOP ( 'NONE', ( #514, #743, #746 ) ) ;
+#514 = ORIENTED_EDGE ( 'NONE', *, *, #515, .T. ) ;
+#515 = EDGE_CURVE ( 'NONE', #571, #572, #1697, .T. ) ;
+#516 = ORIENTED_EDGE ( 'NONE', *, *, #540, .F. ) ;
+#517 = VERTEX_POINT ( 'NONE', #1744 ) ;
+#518 = VERTEX_POINT ( 'NONE', #1694 ) ;
+#519 = ORIENTED_EDGE ( 'NONE', *, *, #520, .T. ) ;
+#520 = EDGE_CURVE ( 'NONE', #752, #521, #1727, .T. ) ;
+#521 = VERTEX_POINT ( 'NONE', #1720 ) ;
+#522 = ORIENTED_EDGE ( 'NONE', *, *, #523, .F. ) ;
+#523 = EDGE_CURVE ( 'NONE', #518, #521, #1718, .T. ) ;
+#524 = ADVANCED_FACE ( 'NONE', ( #1719 ), #1712, .T. ) ;
+#525 = EDGE_LOOP ( 'NONE', ( #389, #395, #438 ) ) ;
+#526 = ORIENTED_EDGE ( 'NONE', *, *, #527, .T. ) ;
+#527 = EDGE_CURVE ( 'NONE', #553, #528, #1746, .T. ) ;
+#528 = VERTEX_POINT ( 'NONE', #1747 ) ;
+#529 = ORIENTED_EDGE ( 'NONE', *, *, #547, .F. ) ;
+#530 = EDGE_LOOP ( 'NONE', ( #531, #568, #516, #541 ) ) ;
+#531 = ORIENTED_EDGE ( 'NONE', *, *, #565, .F. ) ;
+#532 = ADVANCED_FACE ( 'NONE', ( #1672 ), #1738, .T. ) ;
+#533 = ORIENTED_EDGE ( 'NONE', *, *, #534, .F. ) ;
+#534 = EDGE_CURVE ( 'NONE', #535, #536, #1721, .T. ) ;
+#535 = VERTEX_POINT ( 'NONE', #1740 ) ;
+#536 = VERTEX_POINT ( 'NONE', #1739 ) ;
+#537 = EDGE_CURVE ( 'NONE', #567, #517, #1775, .T. ) ;
+#538 = ADVANCED_FACE ( 'NONE', ( #1770 ), #1743, .T. ) ;
+#539 = ORIENTED_EDGE ( 'NONE', *, *, #552, .F. ) ;
+#540 = EDGE_CURVE ( 'NONE', #517, #570, #1859, .T. ) ;
+#541 = ORIENTED_EDGE ( 'NONE', *, *, #537, .F. ) ;
+#542 = EDGE_LOOP ( 'NONE', ( #539, #526, #529, #549 ) ) ;
+#543 = ADVANCED_FACE ( 'NONE', ( #1858 ), #1843, .T. ) ;
+#544 = EDGE_LOOP ( 'NONE', ( #545, #734, #737, #740 ) ) ;
+#545 = ORIENTED_EDGE ( 'NONE', *, *, #732, .F. ) ;
+#546 = VERTEX_POINT ( 'NONE', #1844 ) ;
+#547 = EDGE_CURVE ( 'NONE', #548, #528, #1893, .T. ) ;
+#548 = VERTEX_POINT ( 'NONE', #1892 ) ;
+#549 = ORIENTED_EDGE ( 'NONE', *, *, #550, .T. ) ;
+#550 = EDGE_CURVE ( 'NONE', #548, #554, #1821, .T. ) ;
+#551 = EDGE_LOOP ( 'NONE', ( #533, #555, #558, #561 ) ) ;
+#552 = EDGE_CURVE ( 'NONE', #553, #554, #1801, .T. ) ;
+#553 = VERTEX_POINT ( 'NONE', #1800 ) ;
+#554 = VERTEX_POINT ( 'NONE', #1802 ) ;
+#555 = ORIENTED_EDGE ( 'NONE', *, *, #556, .T. ) ;
+#556 = EDGE_CURVE ( 'NONE', #535, #557, #1795, .T. ) ;
+#557 = VERTEX_POINT ( 'NONE', #1833 ) ;
+#558 = ORIENTED_EDGE ( 'NONE', *, *, #559, .F. ) ;
+#559 = EDGE_CURVE ( 'NONE', #560, #557, #1828, .T. ) ;
+#560 = VERTEX_POINT ( 'NONE', #1827 ) ;
+#561 = ORIENTED_EDGE ( 'NONE', *, *, #562, .F. ) ;
+#562 = EDGE_CURVE ( 'NONE', #536, #560, #1870, .T. ) ;
+#563 = MANIFOLD_SOLID_BREP ( 'NONE', #246 ) ;
+#564 = ADVANCED_FACE ( 'NONE', ( #1776 ), #1842, .T. ) ;
+#565 = EDGE_CURVE ( 'NONE', #566, #567, #2024, .T. ) ;
+#566 = VERTEX_POINT ( 'NONE', #1928 ) ;
+#567 = VERTEX_POINT ( 'NONE', #1929 ) ;
+#568 = ORIENTED_EDGE ( 'NONE', *, *, #569, .T. ) ;
+#569 = EDGE_CURVE ( 'NONE', #566, #570, #1952, .T. ) ;
+#570 = VERTEX_POINT ( 'NONE', #1953 ) ;
+#571 = VERTEX_POINT ( 'NONE', #1989 ) ;
+#572 = VERTEX_POINT ( 'NONE', #1988 ) ;
+#573 = VERTEX_POINT ( 'NONE', #1987 ) ;
+#574 = ORIENTED_EDGE ( 'NONE', *, *, #575, .F. ) ;
+#575 = EDGE_CURVE ( 'NONE', #581, #573, #2011, .T. ) ;
+#576 = ORIENTED_EDGE ( 'NONE', *, *, #580, .F. ) ;
+#577 = VERTEX_POINT ( 'NONE', #2012 ) ;
+#578 = VERTEX_POINT ( 'NONE', #1993 ) ;
+#579 = ORIENTED_EDGE ( 'NONE', *, *, #580, .T. ) ;
+#580 = EDGE_CURVE ( 'NONE', #577, #581, #1992, .T. ) ;
+#581 = VERTEX_POINT ( 'NONE', #1932 ) ;
+#582 = ORIENTED_EDGE ( 'NONE', *, *, #583, .F. ) ;
+#583 = EDGE_CURVE ( 'NONE', #584, #581, #1931, .T. ) ;
+#584 = VERTEX_POINT ( 'NONE', #2015 ) ;
+#585 = ORIENTED_EDGE ( 'NONE', *, *, #586, .F. ) ;
+#586 = EDGE_CURVE ( 'NONE', #578, #584, #2014, .T. ) ;
+#587 = ADVANCED_FACE ( 'NONE', ( #1925 ), #1924, .F. ) ;
+#588 = EDGE_LOOP ( 'NONE', ( #589, #594, #597 ) ) ;
+#589 = ORIENTED_EDGE ( 'NONE', *, *, #590, .T. ) ;
+#590 = EDGE_CURVE ( 'NONE', #577, #591, #1943, .T. ) ;
+#591 = VERTEX_POINT ( 'NONE', #2028 ) ;
+#592 = ORIENTED_EDGE ( 'NONE', *, *, #365, .F. ) ;
+#593 = ORIENTED_EDGE ( 'NONE', *, *, #730, .T. ) ;
+#594 = ORIENTED_EDGE ( 'NONE', *, *, #595, .F. ) ;
+#595 = EDGE_CURVE ( 'NONE', #596, #591, #2027, .T. ) ;
+#596 = VERTEX_POINT ( 'NONE', #2004 ) ;
+#597 = ORIENTED_EDGE ( 'NONE', *, *, #598, .F. ) ;
+#598 = EDGE_CURVE ( 'NONE', #577, #596, #2002, .T. ) ;
+#599 = EDGE_LOOP ( 'NONE', ( #642, #609 ) ) ;
+#600 = ORIENTED_EDGE ( 'NONE', *, *, #319, .T. ) ;
+#601 = ADVANCED_FACE ( 'NONE', ( #2003 ), #1938, .T. ) ;
+#602 = EDGE_LOOP ( 'NONE', ( #603, #579, #582, #585 ) ) ;
+#603 = ORIENTED_EDGE ( 'NONE', *, *, #604, .F. ) ;
+#604 = EDGE_CURVE ( 'NONE', #577, #578, #1899, .T. ) ;
+#605 = ORIENTED_EDGE ( 'NONE', *, *, #606, .F. ) ;
+#606 = EDGE_CURVE ( 'NONE', #644, #645, #1895, .T. ) ;
+#607 = ADVANCED_FACE ( 'NONE', ( #1998 ), #1997, .T. ) ;
+#608 = EDGE_LOOP ( 'NONE', ( #634, #625 ) ) ;
+#609 = ORIENTED_EDGE ( 'NONE', *, *, #610, .T. ) ;
+#610 = EDGE_CURVE ( 'NONE', #645, #644, #2018, .T. ) ;
+#611 = ADVANCED_FACE ( 'NONE', ( #1961 ), #1960, .T. ) ;
+#612 = ADVANCED_FACE ( 'NONE', ( #1959 ), #1958, .F. ) ;
+#613 = EDGE_LOOP ( 'NONE', ( #125, #614 ) ) ;
+#614 = ORIENTED_EDGE ( 'NONE', *, *, #107, .F. ) ;
+#615 = ORIENTED_EDGE ( 'NONE', *, *, #621, .T. ) ;
+#616 = VERTEX_POINT ( 'NONE', #1919 ) ;
+#617 = EDGE_CURVE ( 'NONE', #616, #450, #1918, .T. ) ;
+#618 = ADVANCED_FACE ( 'NONE', ( #1913 ), #1912, .F. ) ;
+#619 = EDGE_CURVE ( 'NONE', #85, #581, #1986, .T. ) ;
+#620 = EDGE_LOOP ( 'NONE', ( #623, #615, #622 ) ) ;
+#621 = EDGE_CURVE ( 'NONE', #578, #616, #1982, .T. ) ;
+#622 = ORIENTED_EDGE ( 'NONE', *, *, #617, .T. ) ;
+#623 = ORIENTED_EDGE ( 'NONE', *, *, #477, .F. ) ;
+#624 = ORIENTED_EDGE ( 'NONE', *, *, #371, .T. ) ;
+#625 = ORIENTED_EDGE ( 'NONE', *, *, #626, .T. ) ;
+#626 = EDGE_CURVE ( 'NONE', #637, #636, #1977, .T. ) ;
+#627 = ADVANCED_FACE ( 'NONE', ( #1972 ), #1971, .T. ) ;
+#628 = EDGE_LOOP ( 'NONE', ( #629, #630 ) ) ;
+#629 = ORIENTED_EDGE ( 'NONE', *, *, #626, .F. ) ;
+#630 = ORIENTED_EDGE ( 'NONE', *, *, #631, .F. ) ;
+#631 = EDGE_CURVE ( 'NONE', #636, #637, #1966, .T. ) ;
+#632 = ADVANCED_FACE ( 'NONE', ( #1841 ), #1839, .F. ) ;
+#633 = EDGE_LOOP ( 'NONE', ( #647, #648, #574, #576 ) ) ;
+#634 = ORIENTED_EDGE ( 'NONE', *, *, #635, .T. ) ;
+#635 = EDGE_CURVE ( 'NONE', #636, #637, #1794, .T. ) ;
+#636 = VERTEX_POINT ( 'NONE', #1790 ) ;
+#637 = VERTEX_POINT ( 'NONE', #1789 ) ;
+#638 = ADVANCED_FACE ( 'NONE', ( #1788 ), #2146, .F. ) ;
+#639 = EDGE_LOOP ( 'NONE', ( #592, #593, #731, #600 ) ) ;
+#640 = ORIENTED_EDGE ( 'NONE', *, *, #329, .T. ) ;
+#641 = ADVANCED_FACE ( 'NONE', ( #2138 ), #2112, .T. ) ;
+#642 = ORIENTED_EDGE ( 'NONE', *, *, #643, .T. ) ;
+#643 = EDGE_CURVE ( 'NONE', #644, #645, #2093, .T. ) ;
+#644 = VERTEX_POINT ( 'NONE', #2081 ) ;
+#645 = VERTEX_POINT ( 'NONE', #2058 ) ;
+#646 = ORIENTED_EDGE ( 'NONE', *, *, #317, .T. ) ;
+#647 = ORIENTED_EDGE ( 'NONE', *, *, #598, .T. ) ;
+#648 = ORIENTED_EDGE ( 'NONE', *, *, #649, .F. ) ;
+#649 = EDGE_CURVE ( 'NONE', #573, #596, #2077, .T. ) ;
+#650 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757901300, -0.02895301509892499200, -6.442860934130886000 ) ) ;
+#651 = DIRECTION ( 'NONE',  ( -0.03487826274237462000, -0.9987827659587182900, 0.03487826274237462000 ) ) ;
+#652 = VECTOR ( 'NONE', #651, 39.37007874015748900 ) ;
+#653 = CARTESIAN_POINT ( 'NONE',  ( 8.350624183372851000, 0.03831387647125901500, -6.445209945745834700 ) ) ;
+#654 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757901300, -0.02895301509892499200, -6.442860934130886000 ) ) ;
+#655 = CARTESIAN_POINT ( 'NONE',  ( 8.531004405408619800, -0.02867219838543305600, -6.442870740466607200 ) ) ;
+#656 = CARTESIAN_POINT ( 'NONE',  ( 8.699756631724982400, -0.02852024063393166600, -6.373003702579959300 ) ) ;
+#657 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152471300, -0.02852024063393166600, -6.243880167152471300 ) ) ;
+#658 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #657, #656, #655, #654 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 0.0000000000000000000, 0.7847891758118366000 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#659 = LINE ( 'NONE', #653, #652 ) ;
+#660 = CARTESIAN_POINT ( 'NONE',  ( -9.027860934130886900, -0.02895301509892499500, -5.763275171757900500 ) ) ;
+#661 = DIRECTION ( 'NONE',  ( 0.03487826274237462000, 0.9987827659587182900, -0.03487826274237462000 ) ) ;
+#662 = VECTOR ( 'NONE', #661, 39.37007874015748900 ) ;
+#663 = CARTESIAN_POINT ( 'NONE',  ( 9.030209945745836500, 0.03831387647125902200, -5.765624183372849200 ) ) ;
+#664 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.03489949670250094800, 0.9993908270190957600 ) ) ;
+#665 = DIRECTION ( 'NONE',  ( 0.03487826274237462700, 0.9987827659587184000, -0.03487826274237462700 ) ) ;
+#666 = CARTESIAN_POINT ( 'NONE',  ( 8.350624183372851000, 0.06204553422895969800, -5.765624183372849200 ) ) ;
+#667 = AXIS2_PLACEMENT_3D ( 'NONE', #666, #665, #664 ) ;
+#668 = LINE ( 'NONE', #663, #662 ) ;
+#669 = CYLINDRICAL_SURFACE ( 'NONE', #667, 0.6800000000000002700 ) ;
+#670 = FACE_OUTER_BOUND ( 'NONE', #19, .T. ) ;
+#671 = DIRECTION ( 'NONE',  ( -0.03487826274237462000, 0.9987827659587182900, 0.03487826274237461300 ) ) ;
+#672 = VECTOR ( 'NONE', #671, 39.37007874015748900 ) ;
+#673 = CARTESIAN_POINT ( 'NONE',  ( -8.350624183372851000, 0.03831387647125902900, 6.445209945745834700 ) ) ;
+#674 = LINE ( 'NONE', #673, #672 ) ;
+#675 = CARTESIAN_POINT ( 'NONE',  ( -9.027860934130886900, -0.02895301509892499500, -5.763275171757900500 ) ) ;
+#676 = CARTESIAN_POINT ( 'NONE',  ( -9.027870740466609000, -0.02867219838543305600, -5.946004405408619000 ) ) ;
+#677 = CARTESIAN_POINT ( 'NONE',  ( -8.958003702579961900, -0.02852024063393166600, -6.114756631724982400 ) ) ;
+#678 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393166600, -6.243880167152471300 ) ) ;
+#679 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #678, #677, #676, #675 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 0.0000000000000000000, 0.7847891758118366000 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#680 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.03489949670250094800, 0.9993908270190957600 ) ) ;
+#681 = DIRECTION ( 'NONE',  ( -0.03487826274237462700, 0.9987827659587184000, -0.03487826274237462700 ) ) ;
+#682 = CARTESIAN_POINT ( 'NONE',  ( -8.350624183372851000, 0.06204553422895969800, -5.765624183372849200 ) ) ;
+#683 = AXIS2_PLACEMENT_3D ( 'NONE', #682, #681, #680 ) ;
+#684 = CYLINDRICAL_SURFACE ( 'NONE', #683, 0.6800000000000002700 ) ;
+#685 = FACE_OUTER_BOUND ( 'NONE', #12, .T. ) ;
+#686 = DIRECTION ( 'NONE',  ( 0.03487826274237462000, -0.9987827659587182900, -0.03487826274237461300 ) ) ;
+#687 = VECTOR ( 'NONE', #686, 39.37007874015748900 ) ;
+#688 = CARTESIAN_POINT ( 'NONE',  ( -9.030209945745836500, 0.03831387647125901500, 5.765624183372849200 ) ) ;
+#689 = LINE ( 'NONE', #688, #687 ) ;
+#690 = DIRECTION ( 'NONE',  ( -8.211145156790692900E-017, 3.849513439804000600E-034, 1.000000000000000000 ) ) ;
+#691 = VECTOR ( 'NONE', #690, 39.37007874015748100 ) ;
+#692 = CARTESIAN_POINT ( 'NONE',  ( -9.027860934130888600, -0.02895301509892492200, 5.764286233324261500 ) ) ;
+#693 = LINE ( 'NONE', #692, #691 ) ;
+#694 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#695 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#696 = CARTESIAN_POINT ( 'NONE',  ( -5.100000000000000500, -1.000000000000000000, 6.443871995697250600 ) ) ;
+#697 = AXIS2_PLACEMENT_3D ( 'NONE', #696, #695, #694 ) ;
+#698 = CIRCLE ( 'NONE', #697, 0.1125000000000005000 ) ;
+#699 = CARTESIAN_POINT ( 'NONE',  ( 8.881026828386778100, -4.233731657757700400, 5.616441066013790000 ) ) ;
+#700 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#701 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#702 = AXIS2_PLACEMENT_3D ( 'NONE', #708, #701, #700 ) ;
+#703 = CIRCLE ( 'NONE', #702, 0.6800000000000003800 ) ;
+#704 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#705 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#706 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013792600, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#707 = AXIS2_PLACEMENT_3D ( 'NONE', #706, #705, #704 ) ;
+#708 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013792600, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#709 = SPHERICAL_SURFACE ( 'NONE', #707, 0.6800000000000001600 ) ;
+#710 = FACE_OUTER_BOUND ( 'NONE', #37, .T. ) ;
+#711 = DIRECTION ( 'NONE',  ( -0.03489949670250096900, 0.9993908270190957600, 0.0000000000000000000 ) ) ;
+#712 = DIRECTION ( 'NONE',  ( -0.9993908270190957600, -0.03489949670250096900, -8.206143149018893900E-017 ) ) ;
+#713 = CARTESIAN_POINT ( 'NONE',  ( -9.029127926325990900, 0.007328894307525202200, -6.653999999999999900 ) ) ;
+#714 = AXIS2_PLACEMENT_3D ( 'NONE', #713, #712, #711 ) ;
+#715 = PLANE ( 'NONE',  #714 ) ;
+#716 = FACE_BOUND ( 'NONE', #123, .T. ) ;
+#717 = FACE_BOUND ( 'NONE', #73, .T. ) ;
+#718 = FACE_OUTER_BOUND ( 'NONE', #79, .T. ) ;
+#719 = FACE_BOUND ( 'NONE', #115, .T. ) ;
+#720 = DIRECTION ( 'NONE',  ( -0.03487826274237462000, 0.9987827659587182900, -0.03487826274237462000 ) ) ;
+#721 = VECTOR ( 'NONE', #720, 39.37007874015748900 ) ;
+#722 = CARTESIAN_POINT ( 'NONE',  ( -9.030209945745836500, 0.03831387647125902200, -5.765624183372849200 ) ) ;
+#723 = LINE ( 'NONE', #722, #721 ) ;
+#724 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#725 = VECTOR ( 'NONE', #724, 39.37007874015748100 ) ;
+#726 = CARTESIAN_POINT ( 'NONE',  ( -8.349286233324262300, -0.02895301509892492900, -6.442860934130886900 ) ) ;
+#727 = LINE ( 'NONE', #726, #725 ) ;
+#728 = EDGE_LOOP ( 'NONE', ( #729, #605 ) ) ;
+#729 = ORIENTED_EDGE ( 'NONE', *, *, #610, .F. ) ;
+#730 = EDGE_CURVE ( 'NONE', #366, #427, #2139, .T. ) ;
+#731 = ORIENTED_EDGE ( 'NONE', *, *, #363, .T. ) ;
+#732 = EDGE_CURVE ( 'NONE', #546, #733, #2078, .T. ) ;
+#733 = VERTEX_POINT ( 'NONE', #2080 ) ;
+#734 = ORIENTED_EDGE ( 'NONE', *, *, #735, .T. ) ;
+#735 = EDGE_CURVE ( 'NONE', #546, #736, #2074, .T. ) ;
+#736 = VERTEX_POINT ( 'NONE', #2075 ) ;
+#737 = ORIENTED_EDGE ( 'NONE', *, *, #738, .F. ) ;
+#738 = EDGE_CURVE ( 'NONE', #739, #736, #2070, .T. ) ;
+#739 = VERTEX_POINT ( 'NONE', #2117 ) ;
+#740 = ORIENTED_EDGE ( 'NONE', *, *, #741, .T. ) ;
+#741 = EDGE_CURVE ( 'NONE', #739, #733, #2109, .T. ) ;
+#742 = ADVANCED_FACE ( 'NONE', ( #2104 ), #2103, .T. ) ;
+#743 = ORIENTED_EDGE ( 'NONE', *, *, #744, .T. ) ;
+#744 = EDGE_CURVE ( 'NONE', #572, #745, #2102, .T. ) ;
+#745 = VERTEX_POINT ( 'NONE', #2094 ) ;
+#746 = ORIENTED_EDGE ( 'NONE', *, *, #747, .T. ) ;
+#747 = EDGE_CURVE ( 'NONE', #745, #571, #2129, .T. ) ;
+#748 = ADVANCED_FACE ( 'NONE', ( #2124 ), #2123, .T. ) ;
+#749 = EDGE_LOOP ( 'NONE', ( #750, #519, #522 ) ) ;
+#750 = ORIENTED_EDGE ( 'NONE', *, *, #751, .F. ) ;
+#751 = EDGE_CURVE ( 'NONE', #752, #518, #2066, .T. ) ;
+#752 = VERTEX_POINT ( 'NONE', #2068 ) ;
+#753 = ORIENTED_EDGE ( 'NONE', *, *, #470, .T. ) ;
+#754 = ORIENTED_EDGE ( 'NONE', *, *, #334, .T. ) ;
+#755 = ADVANCED_FACE ( 'NONE', ( #2061 ), #2067, .F. ) ;
+#756 = ORIENTED_EDGE ( 'NONE', *, *, #356, .T. ) ;
+#757 = ORIENTED_EDGE ( 'NONE', *, *, #323, .T. ) ;
+#758 = EDGE_LOOP ( 'NONE', ( #756, #624, #640, #646 ) ) ;
+#759 = EDGE_LOOP ( 'NONE', ( #762, #753, #757, #754 ) ) ;
+#760 = EDGE_CURVE ( 'NONE', #536, #466, #2086, .T. ) ;
+#761 = ORIENTED_EDGE ( 'NONE', *, *, #534, .T. ) ;
+#762 = ORIENTED_EDGE ( 'NONE', *, *, #377, .T. ) ;
+#763 = ORIENTED_EDGE ( 'NONE', *, *, #760, .T. ) ;
+#764 = ORIENTED_EDGE ( 'NONE', *, *, #765, .T. ) ;
+#765 = EDGE_CURVE ( 'NONE', #397, #535, #2082, .T. ) ;
+#766 = ORIENTED_EDGE ( 'NONE', *, *, #434, .T. ) ;
+#767 = ORIENTED_EDGE ( 'NONE', *, *, #565, .T. ) ;
+#768 = ORIENTED_EDGE ( 'NONE', *, *, #769, .T. ) ;
+#769 = EDGE_CURVE ( 'NONE', #433, #566, #2050, .T. ) ;
+#770 = CARTESIAN_POINT ( 'NONE',  ( 5.893057071958431900, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#771 = CARTESIAN_POINT ( 'NONE',  ( 5.934018987271039200, -4.592234802298262900, 6.283507622714289200 ) ) ;
+#772 = CARTESIAN_POINT ( 'NONE',  ( 6.065981012728962600, -4.592234802298262900, 6.283507622714289200 ) ) ;
+#773 = CARTESIAN_POINT ( 'NONE',  ( 6.106942928041569000, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#774 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #773, #772, #771, #770 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883568600, 4.396767997296017900 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5402712266173470600, 0.5402712266173470600, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#775 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205499700, -1.000000000000000000, -3.637468785505858300 ) ) ;
+#776 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#777 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#778 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -1.000000000000000000, -3.529999999999999800 ) ) ;
+#779 = AXIS2_PLACEMENT_3D ( 'NONE', #778, #777, #776 ) ;
+#780 = FACE_OUTER_BOUND ( 'NONE', #147, .T. ) ;
+#781 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#782 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#783 = CARTESIAN_POINT ( 'NONE',  ( 6.000000000000000900, -19685.03937007874300, 6.443871995697250600 ) ) ;
+#784 = AXIS2_PLACEMENT_3D ( 'NONE', #783, #782, #781 ) ;
+#785 = PLANE ( 'NONE',  #779 ) ;
+#786 = CYLINDRICAL_SURFACE ( 'NONE', #784, 0.1125000000000005000 ) ;
+#787 = FACE_OUTER_BOUND ( 'NONE', #135, .T. ) ;
+#788 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#789 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#790 = CARTESIAN_POINT ( 'NONE',  ( 6.000000000000000900, -1.000000000000000000, 6.443871995697250600 ) ) ;
+#791 = AXIS2_PLACEMENT_3D ( 'NONE', #790, #789, #788 ) ;
+#792 = CIRCLE ( 'NONE', #791, 0.1125000000000005000 ) ;
+#793 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 1.182746181908978700E-016 ) ) ;
+#794 = VECTOR ( 'NONE', #793, 39.37007874015748100 ) ;
+#795 = CARTESIAN_POINT ( 'NONE',  ( 5.206942928041569600, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#796 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #795, #899, #898, #897 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883568600, 4.396767997296017900 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5402712266173470600, 0.5402712266173470600, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#797 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, -1.182746181908978700E-016 ) ) ;
+#798 = VECTOR ( 'NONE', #797, 39.37007874015748100 ) ;
+#799 = CARTESIAN_POINT ( 'NONE',  ( 9.239000000000000800, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#800 = LINE ( 'NONE', #799, #798 ) ;
+#801 = CARTESIAN_POINT ( 'NONE',  ( 5.206942928041569600, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#802 = DIRECTION ( 'NONE',  ( 0.9993908270190957600, 0.03489949670250094800, 0.0000000000000000000 ) ) ;
+#803 = DIRECTION ( 'NONE',  ( -0.03487826274237462700, 0.9987827659587184000, 0.03487826274237462000 ) ) ;
+#804 = CARTESIAN_POINT ( 'NONE',  ( -8.350624183372851000, 0.06204553422895969800, 5.765624183372849200 ) ) ;
+#805 = AXIS2_PLACEMENT_3D ( 'NONE', #804, #803, #802 ) ;
+#806 = CYLINDRICAL_SURFACE ( 'NONE', #805, 0.6800000000000002700 ) ;
+#807 = FACE_OUTER_BOUND ( 'NONE', #94, .T. ) ;
+#808 = DIRECTION ( 'NONE',  ( -0.9993908270190957600, 0.03489949670250135100, 0.0000000000000000000 ) ) ;
+#809 = DIRECTION ( 'NONE',  ( 0.03487826274237462700, 0.9987827659587184000, 0.03487826274237462000 ) ) ;
+#810 = AXIS2_PLACEMENT_3D ( 'NONE', #816, #809, #808 ) ;
+#811 = CIRCLE ( 'NONE', #810, 0.6800000000000002700 ) ;
+#812 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.9993908270190957600, -0.03489949670250096900 ) ) ;
+#813 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -0.03489949670250096900, -0.9993908270190957600 ) ) ;
+#814 = CARTESIAN_POINT ( 'NONE',  ( -9.239000000000000800, 0.007328894307525202200, -6.444127926325989200 ) ) ;
+#815 = AXIS2_PLACEMENT_3D ( 'NONE', #814, #813, #812 ) ;
+#816 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013792600, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#817 = PLANE ( 'NONE',  #815 ) ;
+#818 = FACE_BOUND ( 'NONE', #119, .T. ) ;
+#819 = FACE_BOUND ( 'NONE', #1, .T. ) ;
+#820 = FACE_BOUND ( 'NONE', #31, .T. ) ;
+#821 = FACE_BOUND ( 'NONE', #83, .T. ) ;
+#822 = CARTESIAN_POINT ( 'NONE',  ( -4.993057071958432400, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#823 = FACE_OUTER_BOUND ( 'NONE', #88, .T. ) ;
+#824 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013792600, -4.233731657757700400, 6.296026828386775500 ) ) ;
+#825 = DIRECTION ( 'NONE',  ( 0.03487826274237462000, -0.9987827659587182900, 0.03487826274237462000 ) ) ;
+#826 = VECTOR ( 'NONE', #825, 39.37007874015748900 ) ;
+#827 = CARTESIAN_POINT ( 'NONE',  ( -8.350624183372851000, 0.03831387647125901500, -6.445209945745834700 ) ) ;
+#828 = LINE ( 'NONE', #827, #826 ) ;
+#829 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 1.182746181908978700E-016 ) ) ;
+#830 = VECTOR ( 'NONE', #829, 39.37007874015748100 ) ;
+#831 = CARTESIAN_POINT ( 'NONE',  ( -9.239000000000000800, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#832 = LINE ( 'NONE', #831, #830 ) ;
+#833 = CARTESIAN_POINT ( 'NONE',  ( -5.893057071958431900, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#834 = CARTESIAN_POINT ( 'NONE',  ( -6.106942928041569000, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#835 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#836 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#837 = CARTESIAN_POINT ( 'NONE',  ( -6.000000000000000900, -1.000000000000000000, 6.443871995697250600 ) ) ;
+#838 = AXIS2_PLACEMENT_3D ( 'NONE', #837, #836, #835 ) ;
+#839 = CARTESIAN_POINT ( 'NONE',  ( -5.206942928041569600, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#840 = CARTESIAN_POINT ( 'NONE',  ( -4.993057071958432400, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#841 = CARTESIAN_POINT ( 'NONE',  ( -5.034018987271038800, -4.592234802298262900, 6.283507622714289200 ) ) ;
+#842 = CARTESIAN_POINT ( 'NONE',  ( -5.165981012728962300, -4.592234802298262900, 6.283507622714289200 ) ) ;
+#843 = CARTESIAN_POINT ( 'NONE',  ( -5.206942928041569600, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#844 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #843, #842, #841, #840 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883568600, 4.396767997296017900 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5402712266173470600, 0.5402712266173470600, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#845 = PLANE ( 'NONE',  #838 ) ;
+#846 = FACE_OUTER_BOUND ( 'NONE', #69, .T. ) ;
+#847 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1141, #1140, #1139, #1138 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.141897390914960100, 4.712693717709849600 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8047378541243667100, 0.8047378541243667100, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#848 = CARTESIAN_POINT ( 'NONE',  ( -8.960348301935141500, 5.703187625295358900E-013, -6.065103744595479200 ) ) ;
+#849 = CARTESIAN_POINT ( 'NONE',  ( -8.986079899082398000, -4.268512490100411300E-018, -6.077788909305961200 ) ) ;
+#850 = DIRECTION ( 'NONE',  ( -0.008726535498373953800, -0.9999619230641712000, 0.0000000000000000000 ) ) ;
+#851 = VECTOR ( 'NONE', #850, 39.37007874015748100 ) ;
+#852 = CARTESIAN_POINT ( 'NONE',  ( 0.2825119952461826500, -3.546477407267574200, 6.319998849290253200 ) ) ;
+#853 = DIRECTION ( 'NONE',  ( 0.9999619230641713100, 0.008726535498371384600, 0.0000000000000000000 ) ) ;
+#854 = DIRECTION ( 'NONE',  ( -0.008726535498373953800, 0.9999619230641713100, 0.0000000000000000000 ) ) ;
+#855 = AXIS2_PLACEMENT_3D ( 'NONE', #863, #854, #853 ) ;
+#856 = LINE ( 'NONE', #852, #851 ) ;
+#857 = CYLINDRICAL_SURFACE ( 'NONE', #855, 0.09000000000000002400 ) ;
+#858 = FACE_OUTER_BOUND ( 'NONE', #159, .T. ) ;
+#859 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#860 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#861 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -19685.03937007874300, -3.529999999999999800 ) ) ;
+#862 = AXIS2_PLACEMENT_3D ( 'NONE', #861, #860, #859 ) ;
+#863 = CARTESIAN_POINT ( 'NONE',  ( -0.2824535476099492800, -3.553174843006800200, 6.409998849290253100 ) ) ;
+#864 = CYLINDRICAL_SURFACE ( 'NONE', #862, 0.1130000000000001300 ) ;
+#865 = FACE_OUTER_BOUND ( 'NONE', #157, .T. ) ;
+#866 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#867 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#868 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -1.000000000000000000, -3.529999999999999800 ) ) ;
+#869 = AXIS2_PLACEMENT_3D ( 'NONE', #868, #867, #866 ) ;
+#870 = CIRCLE ( 'NONE', #869, 0.1130000000000001300 ) ;
+#871 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205499700, -1.000000000000000000, -3.422531214494141300 ) ) ;
+#872 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#873 = VECTOR ( 'NONE', #872, 39.37007874015748100 ) ;
+#874 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205499700, -1.000000000000000000, -6.653999999999999900 ) ) ;
+#875 = LINE ( 'NONE', #874, #873 ) ;
+#876 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #911, #910, #909, #908 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883568600, 4.396767997296017900 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5402712266173470600, 0.5402712266173470600, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#877 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, -1.182746181908978700E-016 ) ) ;
+#878 = VECTOR ( 'NONE', #877, 39.37007874015748100 ) ;
+#879 = CARTESIAN_POINT ( 'NONE',  ( -9.239000000000000800, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#880 = LINE ( 'NONE', #879, #878 ) ;
+#881 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#882 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#883 = AXIS2_PLACEMENT_3D ( 'NONE', #889, #882, #881 ) ;
+#884 = CIRCLE ( 'NONE', #883, 0.1125000000000005000 ) ;
+#885 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#886 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#887 = CARTESIAN_POINT ( 'NONE',  ( -5.100000000000000500, -19685.03937007874300, 6.443871995697250600 ) ) ;
+#888 = AXIS2_PLACEMENT_3D ( 'NONE', #887, #886, #885 ) ;
+#889 = CARTESIAN_POINT ( 'NONE',  ( 5.100000000000000500, -1.000000000000000000, 6.443871995697250600 ) ) ;
+#890 = CYLINDRICAL_SURFACE ( 'NONE', #888, 0.1125000000000005000 ) ;
+#891 = FACE_OUTER_BOUND ( 'NONE', #102, .T. ) ;
+#892 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#893 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#894 = CARTESIAN_POINT ( 'NONE',  ( -6.000000000000000900, -1.000000000000000000, 6.443871995697250600 ) ) ;
+#895 = AXIS2_PLACEMENT_3D ( 'NONE', #894, #893, #892 ) ;
+#896 = CIRCLE ( 'NONE', #895, 0.1125000000000005000 ) ;
+#897 = CARTESIAN_POINT ( 'NONE',  ( 4.993057071958432400, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#898 = CARTESIAN_POINT ( 'NONE',  ( 5.034018987271038800, -4.592234802298262900, 6.283507622714289200 ) ) ;
+#899 = CARTESIAN_POINT ( 'NONE',  ( 5.165981012728962300, -4.592234802298262900, 6.283507622714289200 ) ) ;
+#900 = CARTESIAN_POINT ( 'NONE',  ( 8.867617353472629900, -4.617728777792366100, -0.06641801873736238900 ) ) ;
+#901 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205501500, -1.000000000000000000, -0.1074687855058586200 ) ) ;
+#902 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #901, #900, #943, #942 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.884972798286152400, 4.398212508893434100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5393555722222839200, 0.5393555722222839200, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#903 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757903100, -0.02895301509892499900, 6.442860934130886000 ) ) ;
+#904 = CARTESIAN_POINT ( 'NONE',  ( -8.531004405408619800, -0.02867219838543305600, 6.442870740466607200 ) ) ;
+#905 = CARTESIAN_POINT ( 'NONE',  ( -8.699756631724982400, -0.02852024063393166600, 6.373003702579959300 ) ) ;
+#906 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393166600, 6.243880167152471300 ) ) ;
+#907 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #906, #905, #904, #903 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.205227056028351400E-015, 0.7847891758118381600 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#908 = CARTESIAN_POINT ( 'NONE',  ( -5.893057071958431900, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#909 = CARTESIAN_POINT ( 'NONE',  ( -5.934018987271039200, -4.592234802298262900, 6.283507622714289200 ) ) ;
+#910 = CARTESIAN_POINT ( 'NONE',  ( -6.065981012728962600, -4.592234802298262900, 6.283507622714289200 ) ) ;
+#911 = CARTESIAN_POINT ( 'NONE',  ( -6.106942928041569000, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#912 = CARTESIAN_POINT ( 'NONE',  ( 9.239000000000000800, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#913 = LINE ( 'NONE', #912, #794 ) ;
+#914 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#915 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#916 = CARTESIAN_POINT ( 'NONE',  ( 6.000000000000000900, -1.000000000000000000, 6.443871995697250600 ) ) ;
+#917 = AXIS2_PLACEMENT_3D ( 'NONE', #916, #915, #914 ) ;
+#918 = PLANE ( 'NONE',  #917 ) ;
+#919 = FACE_OUTER_BOUND ( 'NONE', #99, .T. ) ;
+#920 = DIRECTION ( 'NONE',  ( 0.9993908270190957600, 0.03489949670250135100, 0.0000000000000000000 ) ) ;
+#921 = DIRECTION ( 'NONE',  ( 0.03487826274237462700, -0.9987827659587184000, -0.03487826274237462000 ) ) ;
+#922 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013792600, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#923 = AXIS2_PLACEMENT_3D ( 'NONE', #922, #921, #920 ) ;
+#924 = CIRCLE ( 'NONE', #923, 0.6800000000000002700 ) ;
+#925 = CARTESIAN_POINT ( 'NONE',  ( 5.893057071958431900, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#926 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205501500, -1.000000000000000000, 0.1074687855058586200 ) ) ;
+#927 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205501500, -1.000000000000000000, -0.1074687855058586200 ) ) ;
+#928 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#929 = VECTOR ( 'NONE', #928, 39.37007874015748100 ) ;
+#930 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205499700, -1.000000000000000000, -6.653999999999999900 ) ) ;
+#931 = LINE ( 'NONE', #930, #929 ) ;
+#932 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#933 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#934 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#935 = AXIS2_PLACEMENT_3D ( 'NONE', #934, #933, #932 ) ;
+#936 = PLANE ( 'NONE',  #935 ) ;
+#937 = FACE_OUTER_BOUND ( 'NONE', #46, .T. ) ;
+#938 = DIRECTION ( 'NONE',  ( -8.201144188335078300E-017, 2.863902657694357800E-018, -1.000000000000000000 ) ) ;
+#939 = VECTOR ( 'NONE', #938, 39.37007874015748100 ) ;
+#940 = CARTESIAN_POINT ( 'NONE',  ( 8.881026828386776400, -4.233731657757700400, -6.653999999999999900 ) ) ;
+#941 = LINE ( 'NONE', #940, #939 ) ;
+#942 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205501500, -1.000000000000000000, 0.1074687855058586200 ) ) ;
+#943 = CARTESIAN_POINT ( 'NONE',  ( 8.867617353472629900, -4.617728777792366100, 0.06641801873736240300 ) ) ;
+#944 = CARTESIAN_POINT ( 'NONE',  ( 6.106942928041569000, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#945 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#946 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#947 = CARTESIAN_POINT ( 'NONE',  ( 5.100000000000000500, -19685.03937007874300, 6.443871995697250600 ) ) ;
+#948 = AXIS2_PLACEMENT_3D ( 'NONE', #947, #946, #945 ) ;
+#949 = CYLINDRICAL_SURFACE ( 'NONE', #948, 0.1125000000000005000 ) ;
+#950 = FACE_OUTER_BOUND ( 'NONE', #137, .T. ) ;
+#951 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#952 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#953 = CARTESIAN_POINT ( 'NONE',  ( 5.100000000000000500, -1.000000000000000000, 6.443871995697250600 ) ) ;
+#954 = AXIS2_PLACEMENT_3D ( 'NONE', #953, #952, #951 ) ;
+#955 = PLANE ( 'NONE',  #954 ) ;
+#956 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#957 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#958 = AXIS2_PLACEMENT_3D ( 'NONE', #961, #957, #956 ) ;
+#959 = CYLINDRICAL_SURFACE ( 'NONE', #958, 0.1125000000000005000 ) ;
+#960 = FACE_OUTER_BOUND ( 'NONE', #111, .T. ) ;
+#961 = CARTESIAN_POINT ( 'NONE',  ( -6.000000000000000900, -19685.03937007874300, 6.443871995697250600 ) ) ;
+#962 = FACE_OUTER_BOUND ( 'NONE', #49, .T. ) ;
+#963 = CARTESIAN_POINT ( 'NONE',  ( 4.993057071958432400, -1.000000000000000000, 6.408951226205498800 ) ) ;
+#964 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757903100, -0.02895301509892499900, 6.442860934130886000 ) ) ;
+#965 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#966 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#967 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -19685.03937007874300, 0.0000000000000000000 ) ) ;
+#968 = AXIS2_PLACEMENT_3D ( 'NONE', #967, #966, #965 ) ;
+#969 = CYLINDRICAL_SURFACE ( 'NONE', #968, 0.1130000000000000000 ) ;
+#970 = FACE_OUTER_BOUND ( 'NONE', #55, .T. ) ;
+#971 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#972 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#973 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#974 = AXIS2_PLACEMENT_3D ( 'NONE', #973, #972, #971 ) ;
+#975 = CIRCLE ( 'NONE', #974, 0.1130000000000000000 ) ;
+#976 = CARTESIAN_POINT ( 'NONE',  ( -8.938081613191553000, -0.02856749526140318200, -6.103928182262571100 ) ) ;
+#977 = CARTESIAN_POINT ( 'NONE',  ( -8.939267480533530400, 8.581787397217139900E-013, -6.104611536574071600 ) ) ;
+#978 = CARTESIAN_POINT ( 'NONE',  ( -8.964088429017927200, -4.268512490100411300E-018, -6.118942934959708400 ) ) ;
+#979 = CARTESIAN_POINT ( 'NONE',  ( -8.888672656731095900, -0.02852976445936258900, -6.177890130798661300 ) ) ;
+#980 = CARTESIAN_POINT ( 'NONE',  ( -8.889786381686331400, -8.570289091696932200E-013, -6.178743046312756200 ) ) ;
+#981 = CARTESIAN_POINT ( 'NONE',  ( -8.912498289937293100, -4.268512490100411300E-018, -6.196166534919623100 ) ) ;
+#982 = CARTESIAN_POINT ( 'NONE',  ( -8.860326541808506200, -0.02852024063393165200, -6.212433792496433700 ) ) ;
+#983 = CARTESIAN_POINT ( 'NONE',  ( -8.861387714326621500, -1.735495333518539200E-012, -6.213364517474438700 ) ) ;
+#984 = CARTESIAN_POINT ( 'NONE',  ( -8.882901263869118900, -4.268512490100411300E-018, -6.232233834440322100 ) ) ;
+#985 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393165200, -6.243880167152469500 ) ) ;
+#986 = CARTESIAN_POINT ( 'NONE',  ( -8.829876115901498700, 7.341841482972707300E-016, -6.244876115901497800 ) ) ;
+#987 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154720900, -4.268512490100411300E-018, -6.265067549154720100 ) ) ;
+#988 = CYLINDRICAL_SURFACE ( 'NONE', #1283, 0.6800000000000002700 ) ;
+#989 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#990 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#991 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, -0.02999999999999999900, -6.653999999999999900 ) ) ;
+#992 = FACE_OUTER_BOUND ( 'NONE', #302, .T. ) ;
+#993 = AXIS2_PLACEMENT_3D ( 'NONE', #991, #990, #989 ) ;
+#994 = CYLINDRICAL_SURFACE ( 'NONE', #993, 0.03000000000000049800 ) ;
+#995 = FACE_OUTER_BOUND ( 'NONE', #176, .T. ) ;
+#996 = CARTESIAN_POINT ( 'NONE',  ( 0.3949999999999984100, -0.9700000000000000800, 6.409998849290252200 ) ) ;
+#997 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#998 = VECTOR ( 'NONE', #997, 39.37007874015748100 ) ;
+#999 = CARTESIAN_POINT ( 'NONE',  ( -0.3950000000000000200, -0.9700000000000003100, 6.409998849290253100 ) ) ;
+#1000 = LINE ( 'NONE', #999, #998 ) ;
+#1001 = CARTESIAN_POINT ( 'NONE',  ( -0.3949999999999984100, -0.9700000000000000800, 6.409998849290252200 ) ) ;
+#1002 =( BOUNDED_SURFACE ( )  B_SPLINE_SURFACE ( 3, 2, ( 
+ ( #987, #986, #985 ),
+ ( #984, #983, #982 ),
+ ( #981, #980, #979 ),
+ ( #978, #977, #976 ),
+ ( #849, #848, #1184 ),
+ ( #1224, #1223, #1241 ),
+ ( #1158, #1182, #1243 ),
+ ( #1164, #1196, #1244 ),
+ ( #1242, #1239, #1240 ),
+ ( #1183, #1226, #1225 ) ),
+ .UNSPECIFIED., .F., .F., .T. ) 
+ B_SPLINE_SURFACE_WITH_KNOTS ( ( 4, 2, 2, 2, 4 ),
+ ( 3, 3 ),
+ ( 0.0000000000000000000, 0.1961972939529591200, 0.3923945879059182500, 0.5885918818588773400, 0.7847891758118364900 ),
+ ( 0.0000000000000000000, 1.000000000000000000 ),
+ .UNSPECIFIED. ) 
+ GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_SURFACE ( (
+ ( 1.000000000000000000, 0.7243360104959070100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243361323128561000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7242264651622275500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7237921843405229500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7234674561512199900, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7226144169696715500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7220861205406549100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7208449313871486700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7201321616992925100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7193398003386509700, 1.000000000000000000) ) ) 
+ REPRESENTATION_ITEM ( '' )  SURFACE ( )  );
+#1003 = CARTESIAN_POINT ( 'NONE',  ( 9.239000000000000800, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#1004 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152471300, -0.02852024063393165200, -6.243880167152469500 ) ) ;
+#1005 = CARTESIAN_POINT ( 'NONE',  ( 8.829876115901498700, 7.341841482972707300E-016, -6.244876115901497800 ) ) ;
+#1006 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154720900, -4.268512490100411300E-018, -6.265067549154720100 ) ) ;
+#1007 = FACE_OUTER_BOUND ( 'NONE', #210, .T. ) ;
+#1008 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1009 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1010 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941460500, -0.02999999999999999900, -5.763275171757900500 ) ) ;
+#1011 = AXIS2_PLACEMENT_3D ( 'NONE', #1010, #1009, #1008 ) ;
+#1012 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1013 =( BOUNDED_SURFACE ( )  B_SPLINE_SURFACE ( 3, 2, ( 
+ ( #1006, #1005, #1004 ),
+ ( #1121, #1120, #1119 ),
+ ( #1118, #1117, #1116 ),
+ ( #1115, #1114, #1113 ),
+ ( #1112, #1111, #1110 ),
+ ( #1109, #1108, #1107 ),
+ ( #1106, #1105, #1104 ),
+ ( #1103, #1102, #1101 ),
+ ( #1100, #1099, #1098 ),
+ ( #1097, #1096, #1095 ) ),
+ .UNSPECIFIED., .F., .F., .T. ) 
+ B_SPLINE_SURFACE_WITH_KNOTS ( ( 4, 2, 2, 2, 4 ),
+ ( 3, 3 ),
+ ( 0.0000000000000000000, 0.1961972939529591200, 0.3923945879059182500, 0.5885918818588773400, 0.7847891758118364900 ),
+ ( 0.0000000000000000000, 1.000000000000000000 ),
+ .UNSPECIFIED. ) 
+ GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_SURFACE ( (
+ ( 1.000000000000000000, 0.7243360104959070100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243361323128597600, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7242264651622275500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7237921843405229500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7234674561512194300, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7226144169696709900, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7220861205406549100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7208449313871486700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7201321616992991700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7193398003386509700, 1.000000000000000000) ) ) 
+ REPRESENTATION_ITEM ( '' )  SURFACE ( )  );
+#1014 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941462200, -0.02999999999999999900, 6.654000000000001700 ) ) ;
+#1015 = FACE_OUTER_BOUND ( 'NONE', #238, .T. ) ;
+#1016 = CARTESIAN_POINT ( 'NONE',  ( 9.027860934130886900, -0.02895301509892491200, 5.763275171757900500 ) ) ;
+#1017 = CARTESIAN_POINT ( 'NONE',  ( 9.027870740466609000, -0.02867219838543305600, 5.946004405408620700 ) ) ;
+#1018 = CARTESIAN_POINT ( 'NONE',  ( 8.958003702579961900, -0.02852024063393166600, 6.114756631724982400 ) ) ;
+#1019 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152471300, -0.02852024063393166600, 6.243880167152471300 ) ) ;
+#1020 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1019, #1018, #1017, #1016 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( -8.881784197001252300E-016, 0.7847891758118367100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732177700, 0.9493306762732177700, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1021 = FACE_OUTER_BOUND ( 'NONE', #242, .T. ) ;
+#1022 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205499700, -1.000000000000000000, -3.422531214494141300 ) ) ;
+#1023 = CARTESIAN_POINT ( 'NONE',  ( 8.867617353472629900, -4.617728777792371500, -3.463581981262637400 ) ) ;
+#1024 = CARTESIAN_POINT ( 'NONE',  ( 8.867617353472629900, -4.617728777792371500, -3.596418018737362700 ) ) ;
+#1025 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205499700, -1.000000000000000000, -3.637468785505858300 ) ) ;
+#1026 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1025, #1024, #1023, #1022 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.884972798286152400, 4.398212508893434100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5393555722222839200, 0.5393555722222839200, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1027 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1028 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1029 = CARTESIAN_POINT ( 'NONE',  ( -0.3950000000000000200, -3.547262795462427800, 6.319998849290253200 ) ) ;
+#1030 = AXIS2_PLACEMENT_3D ( 'NONE', #1029, #1028, #1027 ) ;
+#1031 = PLANE ( 'NONE',  #1030 ) ;
+#1032 = FACE_OUTER_BOUND ( 'NONE', #386, .T. ) ;
+#1033 = FACE_BOUND ( 'NONE', #166, .T. ) ;
+#1034 = AXIS2_PLACEMENT_3D ( 'NONE', #1157, #1156, #1155 ) ;
+#1035 = CYLINDRICAL_SURFACE ( 'NONE', #1034, 0.03000000000000049800 ) ;
+#1036 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941462200, -0.02999999999999999900, 5.763275171757900500 ) ) ;
+#1037 = FACE_OUTER_BOUND ( 'NONE', #190, .T. ) ;
+#1038 = DIRECTION ( 'NONE',  ( -0.03487826274237462000, -0.9987827659587182900, -0.03487826274237461300 ) ) ;
+#1039 = VECTOR ( 'NONE', #1038, 39.37007874015748900 ) ;
+#1040 = CARTESIAN_POINT ( 'NONE',  ( 9.030209945745836500, 0.03831387647125901500, 5.765624183372849200 ) ) ;
+#1041 = LINE ( 'NONE', #1040, #1039 ) ;
+#1042 = DIRECTION ( 'NONE',  ( 0.03487826274237462000, 0.9987827659587182900, 0.03487826274237461300 ) ) ;
+#1043 = VECTOR ( 'NONE', #1042, 39.37007874015748900 ) ;
+#1044 = CARTESIAN_POINT ( 'NONE',  ( 8.350624183372851000, 0.03831387647125902900, 6.445209945745834700 ) ) ;
+#1045 = LINE ( 'NONE', #1044, #1043 ) ;
+#1046 = DIRECTION ( 'NONE',  ( 0.03489949670250096900, 0.9993908270190957600, 0.0000000000000000000 ) ) ;
+#1047 = DIRECTION ( 'NONE',  ( 0.9993908270190957600, -0.03489949670250096900, -8.206143149018893900E-017 ) ) ;
+#1048 = CARTESIAN_POINT ( 'NONE',  ( 9.029127926325990900, 0.007328894307525202200, -6.653999999999999900 ) ) ;
+#1049 = AXIS2_PLACEMENT_3D ( 'NONE', #1048, #1047, #1046 ) ;
+#1050 = PLANE ( 'NONE',  #1049 ) ;
+#1051 = FACE_BOUND ( 'NONE', #171, .T. ) ;
+#1052 = FACE_BOUND ( 'NONE', #271, .T. ) ;
+#1053 = FACE_OUTER_BOUND ( 'NONE', #218, .T. ) ;
+#1054 = FACE_BOUND ( 'NONE', #205, .T. ) ;
+#1055 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1056 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1057 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -1.000000000000000000, 3.430000000000000200 ) ) ;
+#1058 = AXIS2_PLACEMENT_3D ( 'NONE', #1057, #1056, #1055 ) ;
+#1059 = CIRCLE ( 'NONE', #1058, 0.1124999999999999600 ) ;
+#1060 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205501500, -1.000000000000000000, 3.536942928041569600 ) ) ;
+#1061 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1062 = VECTOR ( 'NONE', #1061, 39.37007874015748100 ) ;
+#1063 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205499700, -1.000000000000000000, -6.653999999999999900 ) ) ;
+#1064 = CARTESIAN_POINT ( 'NONE',  ( 9.027860934130886900, -0.02895301509892497800, 5.763275171757900500 ) ) ;
+#1065 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, 1.046719297181810300E-015, 5.763275171757900500 ) ) ;
+#1066 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, -8.537024980200822600E-018, 5.763275171757900500 ) ) ;
+#1067 = CARTESIAN_POINT ( 'NONE',  ( 9.027863322338078000, -0.02888462579295667300, 5.807776531016307000 ) ) ;
+#1068 = CARTESIAN_POINT ( 'NONE',  ( 9.028938118970357300, -1.862803752746379600E-012, 5.807842620094600500 ) ) ;
+#1069 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658942105300, -8.537024980200822600E-018, 5.809737332109096800 ) ) ;
+#1070 = CARTESIAN_POINT ( 'NONE',  ( 9.023486284166850200, -0.02882297820245921200, 5.852270203924351900 ) ) ;
+#1071 = CARTESIAN_POINT ( 'NONE',  ( 9.024611435176463900, 1.420697871824902900E-015, 5.852415085152057600 ) ) ;
+#1072 = CARTESIAN_POINT ( 'NONE',  ( 9.053270268388310200, -4.268512490100411300E-018, 5.856191714017577400 ) ) ;
+#1073 = CARTESIAN_POINT ( 'NONE',  ( 9.006140875011640300, -0.02871552117901642700, 5.939542338794956000 ) ) ;
+#1074 = CARTESIAN_POINT ( 'NONE',  ( 9.007332884334532600, 6.337905460665512700E-016, 5.939858114543436200 ) ) ;
+#1075 = CARTESIAN_POINT ( 'NONE',  ( 9.035155702560837600, -4.268512490100411300E-018, 5.947310172099189900 ) ) ;
+#1076 = CARTESIAN_POINT ( 'NONE',  ( 8.993172931546171300, -0.02866971517896104900, 5.982318139394560100 ) ) ;
+#1077 = CARTESIAN_POINT ( 'NONE',  ( 8.994381425494321300, -1.105721266064580700E-015, 5.982725988652826600 ) ) ;
+#1078 = CARTESIAN_POINT ( 'NONE',  ( 9.021613973792009100, -4.268512490100411300E-018, 5.991971470222400100 ) ) ;
+#1079 = CARTESIAN_POINT ( 'NONE',  ( 8.959142881233999500, -0.02859570130797342600, 6.064512074124606600 ) ) ;
+#1080 = CARTESIAN_POINT ( 'NONE',  ( 8.960348301934498500, 1.097184241084379900E-015, 6.065103744595476500 ) ) ;
+#1081 = CARTESIAN_POINT ( 'NONE',  ( 8.986079899082399800, -4.268512490100411300E-018, 6.077788909305960300 ) ) ;
+#1082 = CARTESIAN_POINT ( 'NONE',  ( 8.938081613191553000, -0.02856749526140318200, 6.103928182262571100 ) ) ;
+#1083 = CARTESIAN_POINT ( 'NONE',  ( 8.939267480533532200, 3.470962256744255800E-013, 6.104611536574715600 ) ) ;
+#1084 = CARTESIAN_POINT ( 'NONE',  ( 8.964088429017929000, -4.268512490100411300E-018, 6.118942934959708400 ) ) ;
+#1085 = CARTESIAN_POINT ( 'NONE',  ( 8.888672656731097600, -0.02852976445936258900, 6.177890130798661300 ) ) ;
+#1086 = CARTESIAN_POINT ( 'NONE',  ( 8.889786381686333200, -3.442101776670564300E-013, 6.178743046312111400 ) ) ;
+#1087 = CARTESIAN_POINT ( 'NONE',  ( 8.912498289937294900, -4.268512490100411300E-018, 6.196166534919623100 ) ) ;
+#1088 = CARTESIAN_POINT ( 'NONE',  ( 8.860326541808508000, -0.02852024063393165200, 6.212433792496433700 ) ) ;
+#1089 = CARTESIAN_POINT ( 'NONE',  ( 8.861387714326379900, -1.735495333505112200E-012, 6.213364517474683000 ) ) ;
+#1090 = CARTESIAN_POINT ( 'NONE',  ( 8.882901263869120700, -4.268512490100411300E-018, 6.232233834440322100 ) ) ;
+#1091 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1092 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1093 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -1.000000000000000000, 3.430000000000000200 ) ) ;
+#1094 = AXIS2_PLACEMENT_3D ( 'NONE', #1093, #1092, #1091 ) ;
+#1095 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757901300, -0.02895301509892497800, -6.442860934130886000 ) ) ;
+#1096 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757901300, -6.536159750466255300E-018, -6.443871995697245200 ) ) ;
+#1097 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757901300, -4.268512490100411300E-018, -6.472842658941458700 ) ) ;
+#1098 = CARTESIAN_POINT ( 'NONE',  ( 8.392776531016306100, -0.02888462579297916600, -6.442863322338074500 ) ) ;
+#1099 = CARTESIAN_POINT ( 'NONE',  ( 8.392842620094608500, -9.058174854220204000E-015, -6.443938118969710700 ) ) ;
+#1100 = CARTESIAN_POINT ( 'NONE',  ( 8.394737332109102100, -4.268512490100411300E-018, -6.472842658941458700 ) ) ;
+#1101 = CARTESIAN_POINT ( 'NONE',  ( 8.437270203924352800, -0.02882297820245921200, -6.438486284166847500 ) ) ;
+#1102 = CARTESIAN_POINT ( 'NONE',  ( 8.437415085152059300, -6.060805575936804800E-013, -6.439611435176460400 ) ) ;
+#1103 = CARTESIAN_POINT ( 'NONE',  ( 8.441191714017579200, -4.268512490100411300E-018, -6.468270268388307500 ) ) ;
+#1104 = CARTESIAN_POINT ( 'NONE',  ( 8.524542338794956800, -0.02871552117901642700, -6.421140875011637700 ) ) ;
+#1105 = CARTESIAN_POINT ( 'NONE',  ( 8.524858114543437900, 6.060714870046388800E-013, -6.422332884334530000 ) ) ;
+#1106 = CARTESIAN_POINT ( 'NONE',  ( 8.532310172099190700, -4.268512490100411300E-018, -6.450155702560835800 ) ) ;
+#1107 = CARTESIAN_POINT ( 'NONE',  ( 8.567318139394561900, -0.02866971517896104200, -6.408172931546168600 ) ) ;
+#1108 = CARTESIAN_POINT ( 'NONE',  ( 8.567725988652831900, -5.695277538087139600E-013, -6.409381425493676500 ) ) ;
+#1109 = CARTESIAN_POINT ( 'NONE',  ( 8.576971470222401800, -4.268512490100411300E-018, -6.436613973792006500 ) ) ;
+#1110 = CARTESIAN_POINT ( 'NONE',  ( 8.649512074124608300, -0.02859570130797342200, -6.374142881233996900 ) ) ;
+#1111 = CARTESIAN_POINT ( 'NONE',  ( 8.650103744595481800, 5.703184957475051400E-013, -6.375348301935139800 ) ) ;
+#1112 = CARTESIAN_POINT ( 'NONE',  ( 8.662788909305962900, -4.268512490100411300E-018, -6.401079899082397200 ) ) ;
+#1113 = CARTESIAN_POINT ( 'NONE',  ( 8.688928182262571900, -0.02856749526140318200, -6.353081613191551300 ) ) ;
+#1114 = CARTESIAN_POINT ( 'NONE',  ( 8.689611536574071600, 8.581787397217139900E-013, -6.354267480533530400 ) ) ;
+#1115 = CARTESIAN_POINT ( 'NONE',  ( 8.703942934959709300, -4.268512490100411300E-018, -6.379088429017927300 ) ) ;
+#1116 = CARTESIAN_POINT ( 'NONE',  ( 8.762890130798661300, -0.02852976445936258900, -6.303672656731095000 ) ) ;
+#1117 = CARTESIAN_POINT ( 'NONE',  ( 8.763743046312757900, -8.570289091696932200E-013, -6.304786381686332300 ) ) ;
+#1118 = CARTESIAN_POINT ( 'NONE',  ( 8.781166534919624000, -4.268512490100411300E-018, -6.327498289937292200 ) ) ;
+#1119 = CARTESIAN_POINT ( 'NONE',  ( 8.797433792496434500, -0.02852024063393165200, -6.275326541808505400 ) ) ;
+#1120 = CARTESIAN_POINT ( 'NONE',  ( 8.798364517474437800, -1.735338009208752400E-012, -6.276387714326621600 ) ) ;
+#1121 = CARTESIAN_POINT ( 'NONE',  ( 8.817233834440322900, -4.268512490100411300E-018, -6.297901263869118100 ) ) ;
+#1122 = DIRECTION ( 'NONE',  ( -8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1123 = AXIS2_PLACEMENT_3D ( 'NONE', #1014, #1122, #1012 ) ;
+#1124 = CYLINDRICAL_SURFACE ( 'NONE', #1123, 0.03000000000000049800 ) ;
+#1125 = CIRCLE ( 'NONE', #1011, 0.03000000000000049800 ) ;
+#1126 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152471300, -0.02852024063393165200, 6.243880167152469500 ) ) ;
+#1127 = CARTESIAN_POINT ( 'NONE',  ( 8.829876115901498700, 7.341841482972707300E-016, 6.244876115901497800 ) ) ;
+#1128 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154722700, -4.268512490100411300E-018, 6.265067549154720100 ) ) ;
+#1129 = LINE ( 'NONE', #1063, #1062 ) ;
+#1130 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 4.125210149214905200E-018, -1.181305626781721100E-016 ) ) ;
+#1131 = VECTOR ( 'NONE', #1130, 39.37007874015748100 ) ;
+#1132 = CARTESIAN_POINT ( 'NONE',  ( 9.239000000000000800, -4.233731657757700400, 6.296026828386775500 ) ) ;
+#1133 = LINE ( 'NONE', #1132, #1131 ) ;
+#1134 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205501500, -1.000000000000000000, 3.323057071958431100 ) ) ;
+#1135 =( BOUNDED_SURFACE ( )  B_SPLINE_SURFACE ( 3, 2, ( 
+ ( #1128, #1127, #1126 ),
+ ( #1090, #1089, #1088 ),
+ ( #1087, #1086, #1085 ),
+ ( #1084, #1083, #1082 ),
+ ( #1081, #1080, #1079 ),
+ ( #1078, #1077, #1076 ),
+ ( #1075, #1074, #1073 ),
+ ( #1072, #1071, #1070 ),
+ ( #1069, #1068, #1067 ),
+ ( #1066, #1065, #1064 ) ),
+ .UNSPECIFIED., .F., .F., .T. ) 
+ B_SPLINE_SURFACE_WITH_KNOTS ( ( 4, 2, 2, 2, 4 ),
+ ( 3, 3 ),
+ ( 0.0000000000000000000, 0.1961972939529591000, 0.3923945879059181900, 0.5885918818588773400, 0.7847891758118363800 ),
+ ( 0.0000000000000000000, 1.000000000000000000 ),
+ .UNSPECIFIED. ) 
+ GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_SURFACE ( (
+ ( 1.000000000000000000, 0.7243360104959070100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243361323173168600, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7242264651563249400, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7237921843464055800, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7234674561577721900, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7226144169631273400, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7220861205476509800, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7208449313801288400, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7201321617045766100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7193398003386386500, 1.000000000000000000) ) ) 
+ REPRESENTATION_ITEM ( '' )  SURFACE ( )  );
+#1136 = PLANE ( 'NONE',  #1094 ) ;
+#1137 = FACE_OUTER_BOUND ( 'NONE', #192, .T. ) ;
+#1138 = CARTESIAN_POINT ( 'NONE',  ( 0.3949999999999984100, -0.9700000000000000800, 6.409998849290252200 ) ) ;
+#1139 = CARTESIAN_POINT ( 'NONE',  ( 0.3818248243601907200, -2.479725591782271800, 6.357278069903831200 ) ) ;
+#1140 = CARTESIAN_POINT ( 'NONE',  ( 0.3352279281758370200, -3.547262795462386500, 6.319998849290253200 ) ) ;
+#1141 = CARTESIAN_POINT ( 'NONE',  ( 0.2825051412672416900, -3.547262795462427800, 6.319998849290253200 ) ) ;
+#1142 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1143 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 1.182746181908978700E-016 ) ) ;
+#1144 = FACE_OUTER_BOUND ( 'NONE', #200, .T. ) ;
+#1145 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1146 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1147 = CARTESIAN_POINT ( 'NONE',  ( -9.239000000000000800, -0.02999999999999999900, -6.472842658941460500 ) ) ;
+#1148 = AXIS2_PLACEMENT_3D ( 'NONE', #1147, #1146, #1145 ) ;
+#1149 = CYLINDRICAL_SURFACE ( 'NONE', #1148, 0.03000000000000049800 ) ;
+#1150 = FACE_OUTER_BOUND ( 'NONE', #180, .T. ) ;
+#1151 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1152 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1153 = AXIS2_PLACEMENT_3D ( 'NONE', #1036, #1152, #1151 ) ;
+#1154 = CIRCLE ( 'NONE', #1153, 0.03000000000000049800 ) ;
+#1155 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1156 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 1.182746181908978700E-016 ) ) ;
+#1157 = CARTESIAN_POINT ( 'NONE',  ( 9.239000000000000800, -0.02999999999999999900, 6.472842658941460500 ) ) ;
+#1158 = CARTESIAN_POINT ( 'NONE',  ( -9.035155702560837600, -4.268512490100411300E-018, -5.947310172099189900 ) ) ;
+#1159 = DIRECTION ( 'NONE',  ( 1.000000000000000000, -9.043632955459431600E-035, -1.182746181908978400E-016 ) ) ;
+#1160 = VECTOR ( 'NONE', #1159, 39.37007874015748100 ) ;
+#1161 = CARTESIAN_POINT ( 'NONE',  ( 8.349286233324264100, -0.02895301509892493600, 6.442860934130886900 ) ) ;
+#1162 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1163 =( BOUNDED_SURFACE ( )  B_SPLINE_SURFACE ( 3, 2, ( 
+ ( #1215, #1214, #1213 ),
+ ( #1212, #1211, #1210 ),
+ ( #1209, #1208, #1207 ),
+ ( #1206, #1205, #1204 ),
+ ( #1203, #1202, #1201 ),
+ ( #1200, #1199, #1198 ),
+ ( #1197, #1237, #1236 ),
+ ( #1235, #1234, #1233 ),
+ ( #1232, #1231, #1230 ),
+ ( #1229, #1228, #1227 ) ),
+ .UNSPECIFIED., .F., .F., .T. ) 
+ B_SPLINE_SURFACE_WITH_KNOTS ( ( 4, 2, 2, 2, 4 ),
+ ( 3, 3 ),
+ ( 9.619183076282621000E-017, 0.1961972939529592600, 0.3923945879059184100, 0.5885918818588775600, 0.7847891758118367100 ),
+ ( 0.0000000000000000000, 1.000000000000000000 ),
+ .UNSPECIFIED. ) 
+ GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_SURFACE ( (
+ ( 1.000000000000000000, 0.7243360104959070100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243361323158079600, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7242264651583058000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7237921843444580200, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7234674561539092800, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7226144169669913600, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7220861205392771200, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7208449313885217900, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7201321616982678800, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7193398003386509700, 1.000000000000000000) ) ) 
+ REPRESENTATION_ITEM ( '' )  SURFACE ( )  );
+#1164 = CARTESIAN_POINT ( 'NONE',  ( -9.053270268388308400, -4.268512490100411300E-018, -5.856191714017577400 ) ) ;
+#1165 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013792600, -4.233731657757700400, 6.296026828386775500 ) ) ;
+#1166 = CARTESIAN_POINT ( 'NONE',  ( -0.3049965729452837600, -0.9700000000000000800, 6.319998849290253200 ) ) ;
+#1167 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 3.035386659626944900E-015, -1.000000000000000000 ) ) ;
+#1168 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, -3.035386659626944900E-015 ) ) ;
+#1169 = CARTESIAN_POINT ( 'NONE',  ( -0.3950000000000000200, -0.9700000000000000800, 6.319998849290253200 ) ) ;
+#1170 = AXIS2_PLACEMENT_3D ( 'NONE', #1169, #1168, #1167 ) ;
+#1171 = PLANE ( 'NONE',  #1170 ) ;
+#1172 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1173 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1174 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697247900, -19685.03937007874300, 3.430000000000000200 ) ) ;
+#1175 = AXIS2_PLACEMENT_3D ( 'NONE', #1174, #1173, #1172 ) ;
+#1176 = FACE_OUTER_BOUND ( 'NONE', #151, .T. ) ;
+#1177 = CYLINDRICAL_SURFACE ( 'NONE', #1175, 0.1124999999999999600 ) ;
+#1178 = FACE_OUTER_BOUND ( 'NONE', #276, .T. ) ;
+#1179 = DIRECTION ( 'NONE',  ( -8.211145156790692900E-017, -3.849513439804000600E-034, -1.000000000000000000 ) ) ;
+#1180 = VECTOR ( 'NONE', #1179, 39.37007874015748100 ) ;
+#1181 = CARTESIAN_POINT ( 'NONE',  ( 9.027860934130886900, -0.02895301509892493600, -5.764286233324261500 ) ) ;
+#1182 = CARTESIAN_POINT ( 'NONE',  ( -9.007332884334530800, 6.060714870046388800E-013, -5.939858114543436200 ) ) ;
+#1183 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941460500, -4.268512490100411300E-018, -5.763275171757900500 ) ) ;
+#1184 = CARTESIAN_POINT ( 'NONE',  ( -8.959142881233999500, -0.02859570130797342200, -6.064512074124607500 ) ) ;
+#1185 = CYLINDRICAL_SURFACE ( 'NONE', #1188, 0.6800000000000003800 ) ;
+#1186 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1187 = VECTOR ( 'NONE', #1186, 39.37007874015748100 ) ;
+#1188 = AXIS2_PLACEMENT_3D ( 'NONE', #1003, #1143, #1142 ) ;
+#1189 = FACE_OUTER_BOUND ( 'NONE', #489, .T. ) ;
+#1190 = DIRECTION ( 'NONE',  ( 0.008726535498373953800, -0.9999619230641712000, 0.0000000000000000000 ) ) ;
+#1191 = VECTOR ( 'NONE', #1190, 39.37007874015748100 ) ;
+#1192 = CARTESIAN_POINT ( 'NONE',  ( -0.2825119952461826500, -3.546477407267574200, 6.319998849290253200 ) ) ;
+#1193 = LINE ( 'NONE', #1192, #1191 ) ;
+#1194 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1195 = VECTOR ( 'NONE', #1194, 39.37007874015748100 ) ;
+#1196 = CARTESIAN_POINT ( 'NONE',  ( -9.024611435176462100, -6.060805575936804800E-013, -5.852415085152058400 ) ) ;
+#1197 = CARTESIAN_POINT ( 'NONE',  ( -8.532310172099192500, -8.537024980200822600E-018, 6.450155702560835800 ) ) ;
+#1198 = CARTESIAN_POINT ( 'NONE',  ( -8.567318139394563700, -0.02866971517896104900, 6.408172931546169500 ) ) ;
+#1199 = CARTESIAN_POINT ( 'NONE',  ( -8.567725988653473100, -3.315455490688681600E-013, 6.409381425493677400 ) ) ;
+#1200 = CARTESIAN_POINT ( 'NONE',  ( -8.576971470222403600, -8.537024980200822600E-018, 6.436613973792006500 ) ) ;
+#1201 = CARTESIAN_POINT ( 'NONE',  ( -8.649512074124610100, -0.02859570130797342600, 6.374142881233997700 ) ) ;
+#1202 = CARTESIAN_POINT ( 'NONE',  ( -8.650103744594837000, 3.315290085829690000E-013, 6.375348301935141600 ) ) ;
+#1203 = CARTESIAN_POINT ( 'NONE',  ( -8.662788909305962900, -8.537024980200822600E-018, 6.401079899082397200 ) ) ;
+#1204 = CARTESIAN_POINT ( 'NONE',  ( -8.688928182262571900, -0.02856749526140318200, 6.353081613191551300 ) ) ;
+#1205 = CARTESIAN_POINT ( 'NONE',  ( -8.689611536574073400, 5.110026432520473200E-013, 6.354267480534174300 ) ) ;
+#1206 = CARTESIAN_POINT ( 'NONE',  ( -8.703942934959711100, -4.268512490100411300E-018, 6.379088429017927300 ) ) ;
+#1207 = CARTESIAN_POINT ( 'NONE',  ( -8.762890130798663100, -0.02852976445936258900, 6.303672656731095000 ) ) ;
+#1208 = CARTESIAN_POINT ( 'NONE',  ( -8.763743046312757900, -5.110106467129664400E-013, 6.304786381685685700 ) ) ;
+#1209 = CARTESIAN_POINT ( 'NONE',  ( -8.781166534919625700, -4.268512490100411300E-018, 6.327498289937292200 ) ) ;
+#1210 = CARTESIAN_POINT ( 'NONE',  ( -8.797433792496436300, -0.02852024063393165200, 6.275326541808505400 ) ) ;
+#1211 = CARTESIAN_POINT ( 'NONE',  ( -8.798364517475487600, 9.072365050190474800E-015, 6.276387714328153700 ) ) ;
+#1212 = CARTESIAN_POINT ( 'NONE',  ( -8.817233834440324700, -4.268512490100411300E-018, 6.297901263869118100 ) ) ;
+#1213 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393165200, 6.243880167152469500 ) ) ;
+#1214 = CARTESIAN_POINT ( 'NONE',  ( -8.829876115901498700, 7.341841482972707300E-016, 6.244876115901497800 ) ) ;
+#1215 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154722700, -4.268512490100411300E-018, 6.265067549154720100 ) ) ;
+#1216 = LINE ( 'NONE', #1181, #1180 ) ;
+#1217 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1218 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1219 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757901300, -0.02999999999999999900, -6.472842658941460500 ) ) ;
+#1220 = AXIS2_PLACEMENT_3D ( 'NONE', #1219, #1218, #1217 ) ;
+#1221 = CIRCLE ( 'NONE', #1220, 0.03000000000000049800 ) ;
+#1222 = CARTESIAN_POINT ( 'NONE',  ( 9.027860934130886900, -0.02895301509892491200, 5.763275171757900500 ) ) ;
+#1223 = CARTESIAN_POINT ( 'NONE',  ( -8.994381425493678300, -5.695274870266834200E-013, -5.982725988652830100 ) ) ;
+#1224 = CARTESIAN_POINT ( 'NONE',  ( -9.021613973792007400, -4.268512490100411300E-018, -5.991971470222401000 ) ) ;
+#1225 = CARTESIAN_POINT ( 'NONE',  ( -9.027860934130886900, -0.02895301509892497800, -5.763275171757900500 ) ) ;
+#1226 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697246100, -6.536159750466255300E-018, -5.763275171757900500 ) ) ;
+#1227 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757903100, -0.02895301509892497800, 6.442860934130886000 ) ) ;
+#1228 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757903100, -6.536159750466255300E-018, 6.443871995697245200 ) ) ;
+#1229 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757903100, -4.268512490100411300E-018, 6.472842658941458700 ) ) ;
+#1230 = CARTESIAN_POINT ( 'NONE',  ( -8.392776531016306100, -0.02888462579297916600, 6.442863322338074500 ) ) ;
+#1231 = CARTESIAN_POINT ( 'NONE',  ( -8.392842620094599600, -9.058174855265689300E-015, 6.443938118969718700 ) ) ;
+#1232 = CARTESIAN_POINT ( 'NONE',  ( -8.394737332109103900, -4.268512490100411300E-018, 6.472842658941458700 ) ) ;
+#1233 = CARTESIAN_POINT ( 'NONE',  ( -8.437270203924354600, -0.02882297820245921200, 6.438486284166847500 ) ) ;
+#1234 = CARTESIAN_POINT ( 'NONE',  ( -8.437415085152061100, -7.285598567205108700E-013, 6.439611435176460400 ) ) ;
+#1235 = CARTESIAN_POINT ( 'NONE',  ( -8.441191714017579200, -8.537024980200822600E-018, 6.468270268388307500 ) ) ;
+#1236 = CARTESIAN_POINT ( 'NONE',  ( -8.524542338794958600, -0.02871552117901642700, 6.421140875011637700 ) ) ;
+#1237 = CARTESIAN_POINT ( 'NONE',  ( -8.524858114543439700, 7.289498920492938200E-013, 6.422332884334530900 ) ) ;
+#1238 = FACE_OUTER_BOUND ( 'NONE', #258, .T. ) ;
+#1239 = CARTESIAN_POINT ( 'NONE',  ( -9.028938118969710700, -9.451724362673890300E-015, -5.807842620094600500 ) ) ;
+#1240 = CARTESIAN_POINT ( 'NONE',  ( -9.027863322338076200, -0.02888462579297916200, -5.807776531016307000 ) ) ;
+#1241 = CARTESIAN_POINT ( 'NONE',  ( -8.993172931546171300, -0.02866971517896104200, -5.982318139394561000 ) ) ;
+#1242 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941460500, -4.268512490100411300E-018, -5.809737332109099500 ) ) ;
+#1243 = CARTESIAN_POINT ( 'NONE',  ( -9.006140875011638500, -0.02871552117901642700, -5.939542338794956000 ) ) ;
+#1244 = CARTESIAN_POINT ( 'NONE',  ( -9.023486284166848400, -0.02882297820245921200, -5.852270203924351900 ) ) ;
+#1245 = CARTESIAN_POINT ( 'NONE',  ( -0.3950000000000000200, -3.547262795462427800, 6.319998849290253200 ) ) ;
+#1246 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 1.606969408037802200E-015 ) ) ;
+#1247 = DIRECTION ( 'NONE',  ( 1.000000000000000000, -1.836970198721029700E-016, 0.0000000000000000000 ) ) ;
+#1248 = AXIS2_PLACEMENT_3D ( 'NONE', #1255, #1247, #1246 ) ;
+#1249 = CIRCLE ( 'NONE', #1248, 0.6799999999999998300 ) ;
+#1250 = LINE ( 'NONE', #1245, #1195 ) ;
+#1251 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -0.9993908270190957600, -0.03489949670250096900 ) ) ;
+#1252 = DIRECTION ( 'NONE',  ( 1.182025684891692100E-016, -0.03489949670250096900, 0.9993908270190957600 ) ) ;
+#1253 = CARTESIAN_POINT ( 'NONE',  ( 9.239000000000000800, 0.007328894307525202200, 6.444127926325989200 ) ) ;
+#1254 = AXIS2_PLACEMENT_3D ( 'NONE', #1253, #1252, #1251 ) ;
+#1255 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013792600, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#1256 = PLANE ( 'NONE',  #1254 ) ;
+#1257 = FACE_BOUND ( 'NONE', #173, .T. ) ;
+#1258 = FACE_BOUND ( 'NONE', #254, .T. ) ;
+#1259 = FACE_BOUND ( 'NONE', #285, .T. ) ;
+#1260 = FACE_BOUND ( 'NONE', #226, .T. ) ;
+#1261 = FACE_OUTER_BOUND ( 'NONE', #272, .T. ) ;
+#1262 = FACE_BOUND ( 'NONE', #207, .T. ) ;
+#1263 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1264 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757903100, -0.02999999999999999900, 6.472842658941458700 ) ) ;
+#1265 = AXIS2_PLACEMENT_3D ( 'NONE', #1264, #1263, #1162 ) ;
+#1266 = CIRCLE ( 'NONE', #1265, 0.03000000000000049800 ) ;
+#1267 = LINE ( 'NONE', #1161, #1160 ) ;
+#1268 = CARTESIAN_POINT ( 'NONE',  ( 0.2825051412672416900, -3.547262795462427800, 6.319998849290253200 ) ) ;
+#1269 = DIRECTION ( 'NONE',  ( -0.9999619230641713100, 0.008726535498371384600, 0.0000000000000000000 ) ) ;
+#1270 = DIRECTION ( 'NONE',  ( 0.008726535498373953800, 0.9999619230641713100, 0.0000000000000000000 ) ) ;
+#1271 = CARTESIAN_POINT ( 'NONE',  ( 0.2824535476099492800, -3.553174843006800200, 6.409998849290253100 ) ) ;
+#1272 = CYLINDRICAL_SURFACE ( 'NONE', #1343, 0.09000000000000002400 ) ;
+#1273 = CARTESIAN_POINT ( 'NONE',  ( 0.3949999999999994600, -0.9699999999999998600, 6.357278069903829400 ) ) ;
+#1274 = CARTESIAN_POINT ( 'NONE',  ( 0.3949999999999984100, -0.9700000000000000800, 6.409998849290252200 ) ) ;
+#1275 = AXIS2_PLACEMENT_3D ( 'NONE', #1336, #1335, #1334 ) ;
+#1276 = LINE ( 'NONE', #1333, #1332 ) ;
+#1277 = PLANE ( 'NONE',  #1275 ) ;
+#1278 = FACE_OUTER_BOUND ( 'NONE', #328, .T. ) ;
+#1279 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941464000, -5.140000000000000600, 6.722842658941459600 ) ) ;
+#1280 = DIRECTION ( 'NONE',  ( 2.438118634263326100E-016, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1281 = VECTOR ( 'NONE', #1280, 39.37007874015748100 ) ;
+#1282 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941460500, -5.140000000000000600, -6.722842658941459600 ) ) ;
+#1283 = AXIS2_PLACEMENT_3D ( 'NONE', #1351, #1342, #1285 ) ;
+#1284 = FACE_OUTER_BOUND ( 'NONE', #309, .T. ) ;
+#1285 = DIRECTION ( 'NONE',  ( -0.9993908270190957600, 0.03489949670250094800, 0.0000000000000000000 ) ) ;
+#1286 = DIRECTION ( 'NONE',  ( -8.127062114211085800E-017, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1287 = VECTOR ( 'NONE', #1286, 39.37007874015748100 ) ;
+#1288 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -5.140000000000000600, -6.722842658941459600 ) ) ;
+#1289 = CARTESIAN_POINT ( 'NONE',  ( 9.239000000000000800, -1.000000000000000000, -6.408951226205498800 ) ) ;
+#1290 = LINE ( 'NONE', #1288, #1287 ) ;
+#1291 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1292 = VECTOR ( 'NONE', #1291, 39.37007874015748100 ) ;
+#1293 = CARTESIAN_POINT ( 'NONE',  ( 9.239000000000000800, -1.000000000000000000, -6.408951226205498800 ) ) ;
+#1294 = LINE ( 'NONE', #1293, #1292 ) ;
+#1295 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1296 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1297 = VECTOR ( 'NONE', #1296, 39.37007874015748100 ) ;
+#1298 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -5.140000000000000600, 6.722842658941459600 ) ) ;
+#1299 = LINE ( 'NONE', #1298, #1297 ) ;
+#1300 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1301 = VECTOR ( 'NONE', #1300, 39.37007874015748100 ) ;
+#1302 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941464000, -28.35367116821642200, 6.722842658941459600 ) ) ;
+#1303 = LINE ( 'NONE', #1302, #1301 ) ;
+#1304 = CARTESIAN_POINT ( 'NONE',  ( 0.3049965729452837600, -0.9700000000000000800, 6.319998849290253200 ) ) ;
+#1305 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1328, #1327, #1326, #1325 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( -3.357314426466473400E-013, 1.570796326794548800 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8047378541243679400, 0.8047378541243679400, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1306 = CARTESIAN_POINT ( 'NONE',  ( 0.3049965729452837600, -0.9700000000000000800, 6.319998849290253200 ) ) ;
+#1307 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1308 = VECTOR ( 'NONE', #1307, 39.37007874015748100 ) ;
+#1309 = CARTESIAN_POINT ( 'NONE',  ( -0.3950000000000000200, -0.9700000000000000800, 6.319998849290253200 ) ) ;
+#1310 = CARTESIAN_POINT ( 'NONE',  ( 8.215110872594742500E-016, -1.832598845202980000, 6.722842658941459600 ) ) ;
+#1311 = CARTESIAN_POINT ( 'NONE',  ( 0.3230000000000010100, -1.832598845202979800, 6.722842658941459600 ) ) ;
+#1312 = CARTESIAN_POINT ( 'NONE',  ( 0.3230000000000010100, -2.155795728011499400, 6.722842658941459600 ) ) ;
+#1313 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1314 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1315 = AXIS2_PLACEMENT_3D ( 'NONE', #1314, #1313, #1295 ) ;
+#1316 = PLANE ( 'NONE',  #1315 ) ;
+#1317 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1318 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1319 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1320 = AXIS2_PLACEMENT_3D ( 'NONE', #1319, #1318, #1317 ) ;
+#1321 = CIRCLE ( 'NONE', #1320, 0.1124999999999994200 ) ;
+#1322 = FACE_OUTER_BOUND ( 'NONE', #349, .T. ) ;
+#1323 = CARTESIAN_POINT ( 'NONE',  ( -1.863057071958406300, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1324 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1362, #1361, #1360, #1359 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883495800, 3.141592653589793100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8729642442192320200, 0.8729642442192320200, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1325 = CARTESIAN_POINT ( 'NONE',  ( -0.3049965729452837600, -0.9700000000000000800, 6.319998849290253200 ) ) ;
+#1326 = CARTESIAN_POINT ( 'NONE',  ( -0.3577193598538785900, -0.9699999999999998600, 6.319998849290254100 ) ) ;
+#1327 = CARTESIAN_POINT ( 'NONE',  ( -0.3949999999999994600, -0.9699999999999998600, 6.357278069903829400 ) ) ;
+#1328 = CARTESIAN_POINT ( 'NONE',  ( -0.3949999999999984100, -0.9700000000000000800, 6.409998849290252200 ) ) ;
+#1329 = LINE ( 'NONE', #1309, #1308 ) ;
+#1330 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941460500, -5.140000000000000600, -6.722842658941459600 ) ) ;
+#1331 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1332 = VECTOR ( 'NONE', #1331, 39.37007874015748100 ) ;
+#1333 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, 0.0000000000000000000, -6.722842658941459600 ) ) ;
+#1334 = DIRECTION ( 'NONE',  ( -2.438118634263326100E-016, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1335 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, -2.438118634263326100E-016 ) ) ;
+#1336 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941460500, -28.35367116821642200, -6.722842658941459600 ) ) ;
+#1337 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1338 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1339 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, 0.0000000000000000000, 6.722842658941459600 ) ) ;
+#1340 = AXIS2_PLACEMENT_3D ( 'NONE', #1339, #1338, #1337 ) ;
+#1341 = PLANE ( 'NONE',  #1340 ) ;
+#1342 = DIRECTION ( 'NONE',  ( 0.03487826274237462700, 0.9987827659587184000, 0.03487826274237462000 ) ) ;
+#1343 = AXIS2_PLACEMENT_3D ( 'NONE', #1271, #1270, #1269 ) ;
+#1344 = CARTESIAN_POINT ( 'NONE',  ( 8.030662965144006600E-016, -2.155795728011499400, 6.722842658941459600 ) ) ;
+#1345 = FACE_OUTER_BOUND ( 'NONE', #759, .T. ) ;
+#1346 = FACE_BOUND ( 'NONE', #322, .T. ) ;
+#1347 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941464000, 0.0000000000000000000, 6.722842658941459600 ) ) ;
+#1348 = DIRECTION ( 'NONE',  ( -2.438118634263326100E-016, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1349 = VECTOR ( 'NONE', #1348, 39.37007874015748100 ) ;
+#1350 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941460500, 0.0000000000000000000, -6.722842658941459600 ) ) ;
+#1351 = CARTESIAN_POINT ( 'NONE',  ( 8.350624183372851000, 0.06204553422895969800, 5.765624183372849200 ) ) ;
+#1352 = CARTESIAN_POINT ( 'NONE',  ( 0.3577193598538785900, -0.9699999999999998600, 6.319998849290254100 ) ) ;
+#1353 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1274, #1273, #1352, #1304 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( -3.357314426466473400E-013, 1.570796326794548800 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8047378541243679400, 0.8047378541243679400, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1354 = LINE ( 'NONE', #1282, #1281 ) ;
+#1355 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1356 = VECTOR ( 'NONE', #1355, 39.37007874015748100 ) ;
+#1357 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941460500, -28.35367116821642200, -6.722842658941459600 ) ) ;
+#1358 = LINE ( 'NONE', #1357, #1356 ) ;
+#1359 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -3.221578494327425300, -6.331371995697249000 ) ) ;
+#1360 = CARTESIAN_POINT ( 'NONE',  ( -1.919551729465960800, -3.221578494330243000, -6.331371995697249000 ) ) ;
+#1361 = CARTESIAN_POINT ( 'NONE',  ( -1.878716560194607400, -2.373289266357263600, -6.360994908289625500 ) ) ;
+#1362 = CARTESIAN_POINT ( 'NONE',  ( -1.863057071958406300, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1363 = LINE ( 'NONE', #1350, #1349 ) ;
+#1364 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1344, #1312, #1311, #1310 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.141592653589790000, 6.283185307179582700 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.3333333333333334800, 0.3333333333333334800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1365 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -28.35367116821642200, -6.722842658941459600 ) ) ;
+#1366 = CYLINDRICAL_SURFACE ( 'NONE', #1520, 0.1125000000000005000 ) ;
+#1367 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1368 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1369 = AXIS2_PLACEMENT_3D ( 'NONE', #1372, #1368, #1367 ) ;
+#1370 = CYLINDRICAL_SURFACE ( 'NONE', #1369, 0.1124999999999994200 ) ;
+#1371 = FACE_OUTER_BOUND ( 'NONE', #402, .T. ) ;
+#1372 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -19685.03937007874300, -6.443871995697247900 ) ) ;
+#1373 = FACE_OUTER_BOUND ( 'NONE', #399, .T. ) ;
+#1374 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757901300, 0.0000000000000000000, -6.472842658941458700 ) ) ;
+#1375 = AXIS2_PLACEMENT_3D ( 'NONE', #1424, #1423, #1422 ) ;
+#1376 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205501500, -1.000000000000000000, 3.536942928041569600 ) ) ;
+#1377 = CARTESIAN_POINT ( 'NONE',  ( 8.868507622714288300, -4.592234802298245100, 3.495981012728961400 ) ) ;
+#1378 = CARTESIAN_POINT ( 'NONE',  ( 8.868507622714288300, -4.592234802298246000, 3.364018987271038900 ) ) ;
+#1379 = CARTESIAN_POINT ( 'NONE',  ( 8.993951226205501500, -1.000000000000000000, 3.323057071958431100 ) ) ;
+#1380 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1430, #1429, #1464, #1463 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.552713678800500900E-015, 3.141592653589796700 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.3333333333333333100, 0.3333333333333333100, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1381 = CARTESIAN_POINT ( 'NONE',  ( 8.215110872594742500E-016, -1.832598845202980000, 6.722842658941459600 ) ) ;
+#1382 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1379, #1378, #1377, #1376 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883567000, 4.396767997296019600 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5402712266173461700, 0.5402712266173461700, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1383 = CYLINDRICAL_SURFACE ( 'NONE', #1375, 0.6800000000000003800 ) ;
+#1384 = FACE_OUTER_BOUND ( 'NONE', #488, .T. ) ;
+#1385 = CARTESIAN_POINT ( 'NONE',  ( -0.2825051412672416900, -3.547262795462427800, 6.319998849290253200 ) ) ;
+#1386 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1387 = VECTOR ( 'NONE', #1386, 39.37007874015748100 ) ;
+#1388 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -28.35367116821642200, 6.722842658941459600 ) ) ;
+#1389 = LINE ( 'NONE', #1388, #1387 ) ;
+#1390 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, 0.0000000000000000000, -6.722842658941459600 ) ) ;
+#1391 = DIRECTION ( 'NONE',  ( 8.127062114211087000E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1392 = VECTOR ( 'NONE', #1391, 39.37007874015748100 ) ;
+#1393 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, 0.0000000000000000000, -6.722842658941459600 ) ) ;
+#1394 = LINE ( 'NONE', #1393, #1392 ) ;
+#1395 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1396 = VECTOR ( 'NONE', #1395, 39.37007874015748100 ) ;
+#1397 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -28.35367116821642200, -6.722842658941459600 ) ) ;
+#1398 = LINE ( 'NONE', #1397, #1396 ) ;
+#1399 = DIRECTION ( 'NONE',  ( -8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1400 = VECTOR ( 'NONE', #1399, 39.37007874015748100 ) ;
+#1401 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205499700, -1.000000000000000000, -6.653999999999999900 ) ) ;
+#1402 = LINE ( 'NONE', #1401, #1400 ) ;
+#1403 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205501500, -1.000000000000000000, 0.1074687855058586200 ) ) ;
+#1404 = CARTESIAN_POINT ( 'NONE',  ( -8.867617353472629900, -4.617728777792366100, 0.06641801873736240300 ) ) ;
+#1405 = CARTESIAN_POINT ( 'NONE',  ( -8.867617353472629900, -4.617728777792366100, -0.06641801873736238900 ) ) ;
+#1406 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205501500, -1.000000000000000000, -0.1074687855058586200 ) ) ;
+#1407 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1406, #1405, #1404, #1403 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.884972798286152400, 4.398212508893434100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5393555722222839200, 0.5393555722222839200, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1408 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1409 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1410 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -19685.03937007874300, 0.0000000000000000000 ) ) ;
+#1411 = AXIS2_PLACEMENT_3D ( 'NONE', #1410, #1409, #1408 ) ;
+#1412 = CYLINDRICAL_SURFACE ( 'NONE', #1411, 0.1130000000000000000 ) ;
+#1413 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1493, #1492, #1491, #1465 ),
+ .UNSPECIFIED., .F., .F. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 0.0000000000000000000, 3.141592653589790000 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.3333333333333343700, 0.3333333333333343700, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1414 = CARTESIAN_POINT ( 'NONE',  ( 8.030662965144006600E-016, -2.155795728011499400, 6.722842658941459600 ) ) ;
+#1415 = CARTESIAN_POINT ( 'NONE',  ( -2.076942928041595400, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1416 = CARTESIAN_POINT ( 'NONE',  ( -2.061283439805394700, -2.373289266357264900, -6.360994908289625500 ) ) ;
+#1417 = CARTESIAN_POINT ( 'NONE',  ( -2.020448270534041000, -3.221578494330242100, -6.331371995697247200 ) ) ;
+#1418 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -3.221578494327425300, -6.331371995697249000 ) ) ;
+#1419 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1418, #1417, #1416, #1415 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.141592653589793100, 4.396767997296089800 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8729642442192322400, 0.8729642442192322400, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1420 = CARTESIAN_POINT ( 'NONE',  ( -2.076942928041595400, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1421 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -3.221578494327425300, -6.331371995697249000 ) ) ;
+#1422 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1423 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1424 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013790900, -4.210000000000000000, -6.653999999999999900 ) ) ;
+#1425 = FACE_OUTER_BOUND ( 'NONE', #359, .T. ) ;
+#1426 = DIRECTION ( 'NONE',  ( 8.127062114211085800E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1427 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 8.127062114211085800E-017 ) ) ;
+#1428 = PLANE ( 'NONE',  #1466 ) ;
+#1429 = CARTESIAN_POINT ( 'NONE',  ( -0.3229999999999992300, -2.141728112193491900, 6.319998849290249700 ) ) ;
+#1430 = CARTESIAN_POINT ( 'NONE',  ( 7.554200987373374400E-016, -2.141728112193492400, 6.319998849290250600 ) ) ;
+#1431 = CARTESIAN_POINT ( 'NONE',  ( 9.307842658941460500, 0.0000000000000000000, -6.722842658941459600 ) ) ;
+#1432 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941460500, 0.0000000000000000000, -5.764286233324257000 ) ) ;
+#1433 = LINE ( 'NONE', #1432, #1187 ) ;
+#1434 = VECTOR ( 'NONE', #1632, 39.37007874015748100 ) ;
+#1435 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1436 = VECTOR ( 'NONE', #1435, 39.37007874015748100 ) ;
+#1437 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -19685.03937007874300, -6.331371995697249000 ) ) ;
+#1438 = LINE ( 'NONE', #1437, #1436 ) ;
+#1439 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1440 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1441 = AXIS2_PLACEMENT_3D ( 'NONE', #1447, #1440, #1439 ) ;
+#1442 = CIRCLE ( 'NONE', #1441, 0.1124999999999994200 ) ;
+#1443 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -0.9993908270190958700, -0.03489949670249911000 ) ) ;
+#1444 = DIRECTION ( 'NONE',  ( 1.182025684891692100E-016, -0.03489949670250097600, 0.9993908270190957600 ) ) ;
+#1445 = AXIS2_PLACEMENT_3D ( 'NONE', #1499, #1444, #1443 ) ;
+#1446 = CYLINDRICAL_SURFACE ( 'NONE', #1445, 0.1615000000000000600 ) ;
+#1447 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1448 = DIRECTION ( 'NONE',  ( 1.182025684891692100E-016, -0.03489949670250097600, 0.9993908270190957600 ) ) ;
+#1449 = VECTOR ( 'NONE', #1448, 39.37007874015748100 ) ;
+#1450 = CARTESIAN_POINT ( 'NONE',  ( -9.031335959523181000E-016, -1.652037490927117800, -7.702905811561940700 ) ) ;
+#1451 = LINE ( 'NONE', #1450, #1449 ) ;
+#1452 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1453 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1454 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -28.35367116821642200, -6.722842658941459600 ) ) ;
+#1455 = AXIS2_PLACEMENT_3D ( 'NONE', #1454, #1453, #1452 ) ;
+#1456 = PLANE ( 'NONE',  #1455 ) ;
+#1457 = FACE_OUTER_BOUND ( 'NONE', #375, .T. ) ;
+#1458 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, 0.0000000000000000000, 6.722842658941459600 ) ) ;
+#1459 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1460 = VECTOR ( 'NONE', #1459, 39.37007874015748100 ) ;
+#1461 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -5.140000000000000600, -6.722842658941459600 ) ) ;
+#1462 = LINE ( 'NONE', #1461, #1460 ) ;
+#1463 = CARTESIAN_POINT ( 'NONE',  ( 7.738648894824105400E-016, -1.818531229384972700, 6.319998849290250600 ) ) ;
+#1464 = CARTESIAN_POINT ( 'NONE',  ( -0.3229999999999992300, -1.818531229384972200, 6.319998849290249700 ) ) ;
+#1465 = CARTESIAN_POINT ( 'NONE',  ( 8.030662965144006600E-016, -2.155795728011499400, 6.722842658941459600 ) ) ;
+#1466 = AXIS2_PLACEMENT_3D ( 'NONE', #1365, #1427, #1426 ) ;
+#1467 = PLANE ( 'NONE',  #1510 ) ;
+#1468 = FACE_OUTER_BOUND ( 'NONE', #418, .T. ) ;
+#1469 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1470 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1471 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1472 = AXIS2_PLACEMENT_3D ( 'NONE', #1471, #1470, #1469 ) ;
+#1473 = CIRCLE ( 'NONE', #1472, 0.1124999999999994200 ) ;
+#1474 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1475 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1476 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1477 = AXIS2_PLACEMENT_3D ( 'NONE', #1476, #1475, #1474 ) ;
+#1478 = PLANE ( 'NONE',  #1477 ) ;
+#1479 = FACE_OUTER_BOUND ( 'NONE', #441, .T. ) ;
+#1480 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1481 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1482 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1483 = AXIS2_PLACEMENT_3D ( 'NONE', #1482, #1481, #1480 ) ;
+#1484 = CIRCLE ( 'NONE', #1483, 0.1125000000000005000 ) ;
+#1485 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205501500, -1.000000000000000000, -0.1074687855058586200 ) ) ;
+#1486 = CARTESIAN_POINT ( 'NONE',  ( 7.738648894824105400E-016, -1.818531229384972700, 6.319998849290250600 ) ) ;
+#1487 = DIRECTION ( 'NONE',  ( 1.182025684891692100E-016, -0.03489949670250097600, 0.9993908270190957600 ) ) ;
+#1488 = VECTOR ( 'NONE', #1487, 39.37007874015748100 ) ;
+#1489 = CARTESIAN_POINT ( 'NONE',  ( -8.833555501460883000E-016, -1.329234253799949700, -7.691633274127033500 ) ) ;
+#1490 = LINE ( 'NONE', #1489, #1488 ) ;
+#1491 = CARTESIAN_POINT ( 'NONE',  ( -0.3229999999999985100, -2.155795728011499400, 6.722842658941459600 ) ) ;
+#1492 = CARTESIAN_POINT ( 'NONE',  ( -0.3229999999999990700, -1.832598845202980900, 6.722842658941459600 ) ) ;
+#1493 = CARTESIAN_POINT ( 'NONE',  ( 8.215110872594742500E-016, -1.832598845202980000, 6.722842658941459600 ) ) ;
+#1494 = FACE_OUTER_BOUND ( 'NONE', #396, .T. ) ;
+#1495 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1496 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1497 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -19685.03937007874300, -6.443871995697247900 ) ) ;
+#1498 = AXIS2_PLACEMENT_3D ( 'NONE', #1497, #1496, #1495 ) ;
+#1499 = CARTESIAN_POINT ( 'NONE',  ( -9.031335959523181000E-016, -1.490635872363533800, -7.697269542844487100 ) ) ;
+#1500 = CARTESIAN_POINT ( 'NONE',  ( 7.554200987373374400E-016, -2.141728112193492400, 6.319998849290250600 ) ) ;
+#1501 = CYLINDRICAL_SURFACE ( 'NONE', #1498, 0.1125000000000005000 ) ;
+#1502 = FACE_OUTER_BOUND ( 'NONE', #424, .T. ) ;
+#1503 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1504 = VECTOR ( 'NONE', #1503, 39.37007874015748100 ) ;
+#1505 = CARTESIAN_POINT ( 'NONE',  ( -9.239000000000000800, -1.000000000000000000, -6.408951226205498800 ) ) ;
+#1506 = LINE ( 'NONE', #1505, #1504 ) ;
+#1507 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1508 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1509 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1510 = AXIS2_PLACEMENT_3D ( 'NONE', #1509, #1508, #1507 ) ;
+#1511 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1512 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1513 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1514 = AXIS2_PLACEMENT_3D ( 'NONE', #1513, #1512, #1511 ) ;
+#1515 = PLANE ( 'NONE',  #1514 ) ;
+#1516 = FACE_OUTER_BOUND ( 'NONE', #474, .T. ) ;
+#1517 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1518 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1519 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -19685.03937007874300, -6.443871995697247900 ) ) ;
+#1520 = AXIS2_PLACEMENT_3D ( 'NONE', #1519, #1518, #1517 ) ;
+#1521 = FACE_OUTER_BOUND ( 'NONE', #353, .T. ) ;
+#1522 = FACE_OUTER_BOUND ( 'NONE', #447, .T. ) ;
+#1523 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013790900, -4.233731657757700400, -6.296026828386775500 ) ) ;
+#1524 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1525 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1526 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1527 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -28.35367116821642200, 6.722842658941459600 ) ) ;
+#1528 = AXIS2_PLACEMENT_3D ( 'NONE', #1527, #1526, #1525 ) ;
+#1529 = PLANE ( 'NONE',  #1528 ) ;
+#1530 = CIRCLE ( 'NONE', #1559, 0.6799999999999998300 ) ;
+#1531 = FACE_OUTER_BOUND ( 'NONE', #316, .T. ) ;
+#1532 = FACE_BOUND ( 'NONE', #320, .T. ) ;
+#1533 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1534 = VECTOR ( 'NONE', #1533, 39.37007874015748100 ) ;
+#1535 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, 0.0000000000000000000, 6.722842658941459600 ) ) ;
+#1536 = LINE ( 'NONE', #1535, #1534 ) ;
+#1537 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 1.182746181908978700E-016 ) ) ;
+#1538 = VECTOR ( 'NONE', #1537, 39.37007874015748100 ) ;
+#1539 = CARTESIAN_POINT ( 'NONE',  ( -8.349286233324258800, 0.0000000000000000000, 6.472842658941462300 ) ) ;
+#1540 = LINE ( 'NONE', #1539, #1538 ) ;
+#1541 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154722700, -2.134256245050205600E-018, 6.265067549154720100 ) ) ;
+#1542 = CARTESIAN_POINT ( 'NONE',  ( 8.984887711145187700, -4.268512490100411300E-018, 6.130247387164254200 ) ) ;
+#1543 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, -4.268512490100411300E-018, 5.954055750277971600 ) ) ;
+#1544 = VECTOR ( 'NONE', #1590, 39.37007874015748100 ) ;
+#1545 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1546 = CARTESIAN_POINT ( 'NONE',  ( -9.239000000000000800, -1.000000000000000000, -6.408951226205498800 ) ) ;
+#1547 = LINE ( 'NONE', #1546, #1608 ) ;
+#1548 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -3.221578494327425300, -6.331371995697249000 ) ) ;
+#1549 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1548, #1588, #1587, #1586 ),
+ .UNSPECIFIED., .F., .F. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.141592653589793100, 4.396767997296089800 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8729642442192322400, 0.8729642442192322400, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1550 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1551 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1552 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013792600, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#1553 = AXIS2_PLACEMENT_3D ( 'NONE', #1552, #1551, #1550 ) ;
+#1554 = SPHERICAL_SURFACE ( 'NONE', #1553, 0.6800000000000001600 ) ;
+#1555 = FACE_OUTER_BOUND ( 'NONE', #479, .T. ) ;
+#1556 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1557 = DIRECTION ( 'NONE',  ( 1.000000000000000000, -1.836970198721029700E-016, 0.0000000000000000000 ) ) ;
+#1558 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013790900, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#1559 = AXIS2_PLACEMENT_3D ( 'NONE', #1558, #1557, #1556 ) ;
+#1560 = PLANE ( 'NONE',  #1604 ) ;
+#1561 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1562 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1563 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1564 = AXIS2_PLACEMENT_3D ( 'NONE', #1615, #1563, #1562 ) ;
+#1565 = CIRCLE ( 'NONE', #1564, 0.1125000000000005000 ) ;
+#1566 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -5.140000000000000600, -6.722842658941459600 ) ) ;
+#1567 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -3.221578494327425300, -6.331371995697247200 ) ) ;
+#1568 = CARTESIAN_POINT ( 'NONE',  ( -5.969551729465959700, -3.221578494330258100, -6.331371995697249000 ) ) ;
+#1569 = CARTESIAN_POINT ( 'NONE',  ( -5.928716560194607700, -2.373289266357275600, -6.360994908289625500 ) ) ;
+#1570 = CARTESIAN_POINT ( 'NONE',  ( -5.913057071958405700, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1571 = CYLINDRICAL_SURFACE ( 'NONE', #1601, 0.6800000000000003800 ) ;
+#1572 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, -4.268512490100411300E-018, 5.763275171757900500 ) ) ;
+#1573 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1572, #1543, #1542, #1541 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 5.498396131367750100, 6.283185307179586200 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1574 = CARTESIAN_POINT ( 'NONE',  ( -9.307842658941460500, -5.140000000000000600, 6.722842658941459600 ) ) ;
+#1575 = CARTESIAN_POINT ( 'NONE',  ( -0.3949999999999984100, -0.9700000000000000800, 6.409998849290252200 ) ) ;
+#1576 = CARTESIAN_POINT ( 'NONE',  ( -0.3818248243601907200, -2.479725591782271800, 6.357278069903831200 ) ) ;
+#1577 = CARTESIAN_POINT ( 'NONE',  ( -0.3352279281758370200, -3.547262795462386500, 6.319998849290253200 ) ) ;
+#1578 = CARTESIAN_POINT ( 'NONE',  ( -0.2825051412672416900, -3.547262795462427800, 6.319998849290253200 ) ) ;
+#1579 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1580 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154722700, -2.134256245050205600E-018, 6.265067549154720100 ) ) ;
+#1581 = CARTESIAN_POINT ( 'NONE',  ( -8.715247387164254200, -4.268512490100411300E-018, 6.399887711145186000 ) ) ;
+#1582 = CARTESIAN_POINT ( 'NONE',  ( -8.539055750277974300, -4.268512490100411300E-018, 6.472842658941458700 ) ) ;
+#1583 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757903100, 0.0000000000000000000, 6.472842658941458700 ) ) ;
+#1584 = CARTESIAN_POINT ( 'NONE',  ( 6.126942928041595200, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1585 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1596, #1595, #1594, #1593 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.141592653589793100, 4.396767997296091600 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8729642442192318000, 0.8729642442192318000, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1586 = CARTESIAN_POINT ( 'NONE',  ( 2.076942928041595400, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1587 = CARTESIAN_POINT ( 'NONE',  ( 2.061283439805394700, -2.373289266357264900, -6.360994908289625500 ) ) ;
+#1588 = CARTESIAN_POINT ( 'NONE',  ( 2.020448270534041000, -3.221578494330242100, -6.331371995697247200 ) ) ;
+#1589 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1570, #1569, #1568, #1567 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883495800, 3.141592653589793100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8729642442192320200, 0.8729642442192320200, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1590 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1591 = LINE ( 'NONE', #1289, #1434 ) ;
+#1592 = CARTESIAN_POINT ( 'NONE',  ( -8.860326541808156300, -0.02852024063390920900, 6.212433792496788100 ) ) ;
+#1593 = CARTESIAN_POINT ( 'NONE',  ( 6.126942928041595200, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1594 = CARTESIAN_POINT ( 'NONE',  ( 6.111283439805394100, -2.373289266357274200, -6.360994908289625500 ) ) ;
+#1595 = CARTESIAN_POINT ( 'NONE',  ( 6.070448270534041200, -3.221578494330258600, -6.331371995697246300 ) ) ;
+#1596 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -3.221578494327425300, -6.331371995697247200 ) ) ;
+#1597 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -1.000000000000000000, -6.331371995697249000 ) ) ;
+#1598 = LINE ( 'NONE', #1607, #1544 ) ;
+#1599 = CARTESIAN_POINT ( 'NONE',  ( -5.913057071958405700, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1600 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941460500, 0.0000000000000000000, -5.763275171757900500 ) ) ;
+#1601 = AXIS2_PLACEMENT_3D ( 'NONE', #1606, #1605, #1545 ) ;
+#1602 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1603 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1604 = AXIS2_PLACEMENT_3D ( 'NONE', #1561, #1603, #1602 ) ;
+#1605 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1606 = CARTESIAN_POINT ( 'NONE',  ( -9.239000000000000800, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#1607 = CARTESIAN_POINT ( 'NONE',  ( 8.349286233324258800, 0.0000000000000000000, -6.472842658941460500 ) ) ;
+#1608 = VECTOR ( 'NONE', #1579, 39.37007874015748100 ) ;
+#1609 = VECTOR ( 'NONE', #1524, 39.37007874015748100 ) ;
+#1610 = CARTESIAN_POINT ( 'NONE',  ( -9.239000000000000800, -4.233731657757700400, -6.296026828386775500 ) ) ;
+#1611 = LINE ( 'NONE', #1610, #1609 ) ;
+#1612 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, -4.268512490100411300E-018, 5.763275171757900500 ) ) ;
+#1613 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1583, #1582, #1581, #1580 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 5.498396131367749200, 6.283185307179586200 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1614 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757903100, 0.0000000000000000000, 6.472842658941458700 ) ) ;
+#1615 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1616 = FACE_OUTER_BOUND ( 'NONE', #490, .T. ) ;
+#1617 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1578, #1577, #1576, #1575 ),
+ .UNSPECIFIED., .F., .F. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.141897390914960100, 4.712693717709849600 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8047378541243667100, 0.8047378541243667100, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1618 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154722700, -4.268512490100411300E-018, 6.265067549154721000 ) ) ;
+#1619 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1620 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1621 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1622 = AXIS2_PLACEMENT_3D ( 'NONE', #1621, #1620, #1619 ) ;
+#1623 = CIRCLE ( 'NONE', #1622, 0.1125000000000005000 ) ;
+#1624 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -1.000000000000000000, -6.331371995697247200 ) ) ;
+#1625 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1626 = VECTOR ( 'NONE', #1625, 39.37007874015748100 ) ;
+#1627 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -19685.03937007874300, -6.331371995697247200 ) ) ;
+#1628 = LINE ( 'NONE', #1627, #1626 ) ;
+#1629 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -19685.03937007874300, -6.443871995697247900 ) ) ;
+#1630 = CYLINDRICAL_SURFACE ( 'NONE', #1648, 0.1124999999999994200 ) ;
+#1631 = FACE_OUTER_BOUND ( 'NONE', #496, .T. ) ;
+#1632 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1633 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -3.221578494327425300, -6.331371995697247200 ) ) ;
+#1634 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1646, #1645, #1644, #1643 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883495800, 3.141592653589793100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8729642442192320200, 0.8729642442192320200, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1635 = CARTESIAN_POINT ( 'NONE',  ( 5.913057071958405700, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1636 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1637 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1638 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1639 = AXIS2_PLACEMENT_3D ( 'NONE', #1638, #1637, #1636 ) ;
+#1640 = CIRCLE ( 'NONE', #1639, 0.1130000000000000000 ) ;
+#1641 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205501500, -1.000000000000000000, 0.1074687855058586200 ) ) ;
+#1642 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1643 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -3.221578494327425300, -6.331371995697247200 ) ) ;
+#1644 = CARTESIAN_POINT ( 'NONE',  ( 5.969551729465959700, -3.221578494330258100, -6.331371995697249000 ) ) ;
+#1645 = CARTESIAN_POINT ( 'NONE',  ( 5.928716560194607700, -2.373289266357275600, -6.360994908289625500 ) ) ;
+#1646 = CARTESIAN_POINT ( 'NONE',  ( 5.913057071958405700, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1647 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1648 = AXIS2_PLACEMENT_3D ( 'NONE', #1629, #1647, #1642 ) ;
+#1649 = CARTESIAN_POINT ( 'NONE',  ( 2.076942928041595400, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1650 = CARTESIAN_POINT ( 'NONE',  ( -9.027860934130886900, -0.02895301509892497800, 5.763275171757900500 ) ) ;
+#1651 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, 1.050987809671910700E-015, 5.763275171757900500 ) ) ;
+#1652 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941460500, -4.268512490100411300E-018, 5.763275171757900500 ) ) ;
+#1653 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393165200, -6.243880167152468600 ) ) ;
+#1654 = CARTESIAN_POINT ( 'NONE',  ( -8.829876115901498700, 7.341841482972707300E-016, -6.244876115901495200 ) ) ;
+#1655 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154722700, -4.268512490100411300E-018, -6.265067549154719200 ) ) ;
+#1656 = CARTESIAN_POINT ( 'NONE',  ( -8.797433792496789800, -0.02852024063384186700, -6.275326541808157200 ) ) ;
+#1657 = CARTESIAN_POINT ( 'NONE',  ( -8.798364517477631700, -2.884271714542191200E-015, -6.276387714328585300 ) ) ;
+#1658 = CARTESIAN_POINT ( 'NONE',  ( -8.817233834441978500, -4.268512490100411300E-018, -6.297901263870040900 ) ) ;
+#1659 = CARTESIAN_POINT ( 'NONE',  ( -8.762890130798101800, -0.02852976445935391500, -6.303672656731470700 ) ) ;
+#1660 = CARTESIAN_POINT ( 'NONE',  ( -8.763743046311649500, -3.481744775161584000E-013, -6.304786381686852800 ) ) ;
+#1661 = CARTESIAN_POINT ( 'NONE',  ( -8.781166534919171000, -4.268512490100411300E-018, -6.327498289937810000 ) ) ;
+#1662 = AXIS2_PLACEMENT_3D ( 'NONE', #1698, #1723, #1722 ) ;
+#1663 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152469500, -0.02852024063393165200, -6.243880167152471300 ) ) ;
+#1664 = CARTESIAN_POINT ( 'NONE',  ( 8.829876115901495100, 7.341841482972707300E-016, -6.244876115901498700 ) ) ;
+#1665 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154719200, -4.268512490100411300E-018, -6.265067549154721000 ) ) ;
+#1666 = CARTESIAN_POINT ( 'NONE',  ( -8.688928182263127900, -0.02856749526141186300, -6.353081613191180000 ) ) ;
+#1667 = CARTESIAN_POINT ( 'NONE',  ( -8.689611536575172900, 3.481664740552379200E-013, -6.354267480533010800 ) ) ;
+#1668 = CARTESIAN_POINT ( 'NONE',  ( -8.703942934960158700, -4.268512490100411300E-018, -6.379088429017413000 ) ) ;
+#1669 = CARTESIAN_POINT ( 'NONE',  ( -8.649512074124958300, -0.02859570130800041800, -6.374142881233850300 ) ) ;
+#1670 = CARTESIAN_POINT ( 'NONE',  ( -8.650103744594961300, -2.367316718365650300E-013, -6.375348301933799500 ) ) ;
+#1671 = CARTESIAN_POINT ( 'NONE',  ( -8.662788909306090800, -4.268512490100411300E-018, -6.401079899081699900 ) ) ;
+#1672 = FACE_OUTER_BOUND ( 'NONE', #551, .T. ) ;
+#1673 = DIRECTION ( 'NONE',  ( -0.7071067811865474600, 0.0000000000000000000, 0.7071067811865474600 ) ) ;
+#1674 = DIRECTION ( 'NONE',  ( -0.7071067811865474600, 0.0000000000000000000, -0.7071067811865476800 ) ) ;
+#1675 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154722700, -0.03000000000000000600, 6.265067549154720100 ) ) ;
+#1676 = CARTESIAN_POINT ( 'NONE',  ( 9.006140875011679400, -0.02871552117899312300, -5.939542338794747200 ) ) ;
+#1677 = CARTESIAN_POINT ( 'NONE',  ( 9.007332884335193400, 4.859894290929243100E-013, -5.939858114542707000 ) ) ;
+#1678 = CARTESIAN_POINT ( 'NONE',  ( 9.035155702561498400, -4.268512490100411300E-018, -5.947310172099102000 ) ) ;
+#1679 = CARTESIAN_POINT ( 'NONE',  ( 9.023486284166804000, -0.02882297820248251200, -5.852270203924565100 ) ) ;
+#1680 = CARTESIAN_POINT ( 'NONE',  ( 9.024611435175797800, -4.859984996819680300E-013, -5.852415085152792100 ) ) ;
+#1681 = CARTESIAN_POINT ( 'NONE',  ( 9.053270268387645800, -4.268512490100411300E-018, -5.856191714017670700 ) ) ;
+#1682 = CARTESIAN_POINT ( 'NONE',  ( 9.027863322338076200, -0.02888462579297940500, -5.807776531016148900 ) ) ;
+#1683 = CARTESIAN_POINT ( 'NONE',  ( 1.878716560194607400, -2.373289266357263600, -6.360994908289625500 ) ) ;
+#1684 = CARTESIAN_POINT ( 'NONE',  ( -9.021613973791417600, -4.268512490100411300E-018, 5.991971470222272200 ) ) ;
+#1685 = CARTESIAN_POINT ( 'NONE',  ( -9.006140875011681100, -0.02871552117899312300, 5.939542338794747200 ) ) ;
+#1686 = CARTESIAN_POINT ( 'NONE',  ( -9.007332884335193400, -1.204800468678981200E-013, 5.939858114542707800 ) ) ;
+#1687 = CARTESIAN_POINT ( 'NONE',  ( -9.035155702561500100, -4.268512490100411300E-018, 5.947310172099102000 ) ) ;
+#1688 = CARTESIAN_POINT ( 'NONE',  ( -9.023486284166805800, -0.02882297820248251200, 5.852270203924565100 ) ) ;
+#1689 = CARTESIAN_POINT ( 'NONE',  ( -9.024611435175797800, 1.204709762788572000E-013, 5.852415085152792100 ) ) ;
+#1690 = CARTESIAN_POINT ( 'NONE',  ( -9.053270268387647600, -4.268512490100411300E-018, 5.856191714017670700 ) ) ;
+#1691 = CARTESIAN_POINT ( 'NONE',  ( -9.027863322338078000, -0.02888462579295692300, 5.807776531016144400 ) ) ;
+#1692 = CARTESIAN_POINT ( 'NONE',  ( -9.028938118970355500, -1.870355634773170500E-012, 5.807842620094050700 ) ) ;
+#1693 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658942105300, -4.268512490100411300E-018, 5.809737332109031100 ) ) ;
+#1694 = CARTESIAN_POINT ( 'NONE',  ( -6.126942928041595200, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1695 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -3.221578494327425300, -6.331371995697249000 ) ) ;
+#1696 = CARTESIAN_POINT ( 'NONE',  ( 1.919551729465960800, -3.221578494330243000, -6.331371995697249000 ) ) ;
+#1697 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1755, #1683, #1696, #1695 ),
+ .UNSPECIFIED., .F., .F. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883495800, 3.141592653589793100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8729642442192320200, 0.8729642442192320200, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1698 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -19685.03937007874300, -6.443871995697247900 ) ) ;
+#1699 = CARTESIAN_POINT ( 'NONE',  ( -8.861387714328264700, -1.739794188783267500E-012, 6.213364517477311100 ) ) ;
+#1700 = CARTESIAN_POINT ( 'NONE',  ( -8.882901263869076300, -4.268512490100411300E-018, 6.232233834441012200 ) ) ;
+#1701 = CARTESIAN_POINT ( 'NONE',  ( -8.888672656731472400, -0.02852976445935391500, 6.177890130798101800 ) ) ;
+#1702 = CARTESIAN_POINT ( 'NONE',  ( -8.889786381687498500, 5.056534357639989500E-013, 6.178743046312294300 ) ) ;
+#1703 = CARTESIAN_POINT ( 'NONE',  ( -8.912498289937811800, -4.268512490100411300E-018, 6.196166534919170100 ) ) ;
+#1704 = CARTESIAN_POINT ( 'NONE',  ( -8.938081613191181800, -0.02856749526141186300, 6.103928182263127100 ) ) ;
+#1705 = CARTESIAN_POINT ( 'NONE',  ( -8.939267480532368600, -5.056614392249157400E-013, 6.104611536574527300 ) ) ;
+#1706 = CARTESIAN_POINT ( 'NONE',  ( -8.964088429017415600, -4.268512490100411300E-018, 6.118942934960157800 ) ) ;
+#1707 = CARTESIAN_POINT ( 'NONE',  ( -8.959142881234042100, -0.02859570130794620100, 6.064512074124502700 ) ) ;
+#1708 = CARTESIAN_POINT ( 'NONE',  ( -8.960348301935091800, -2.368887554479025400E-013, 6.065103744594959600 ) ) ;
+#1709 = CARTESIAN_POINT ( 'NONE',  ( -8.986079899082989500, -4.268512490100411300E-018, 6.077788909306089900 ) ) ;
+#1710 = CARTESIAN_POINT ( 'NONE',  ( -8.993172931546126800, -0.02866971517898827400, 5.982318139394665800 ) ) ;
+#1711 = CARTESIAN_POINT ( 'NONE',  ( -8.994381425493729800, 2.376800309507549600E-013, 5.982725988653348800 ) ) ;
+#1712 = CYLINDRICAL_SURFACE ( 'NONE', #1750, 0.1124999999999994200 ) ;
+#1713 = CARTESIAN_POINT ( 'NONE',  ( -1.970000000000000900, -19685.03937007874300, -6.443871995697247900 ) ) ;
+#1714 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1715 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1716 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#1717 = AXIS2_PLACEMENT_3D ( 'NONE', #1716, #1715, #1714 ) ;
+#1718 = CIRCLE ( 'NONE', #1717, 0.1125000000000005000 ) ;
+#1719 = FACE_OUTER_BOUND ( 'NONE', #525, .T. ) ;
+#1720 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -1.000000000000000000, -6.331371995697247200 ) ) ;
+#1721 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1767, #1766, #1765, #1764 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 0.0000000000000000000, 0.7847891758118364900 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1722 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1723 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1724 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1725 = VECTOR ( 'NONE', #1724, 39.37007874015748100 ) ;
+#1726 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -19685.03937007874300, -6.331371995697247200 ) ) ;
+#1727 = LINE ( 'NONE', #1726, #1725 ) ;
+#1728 = CARTESIAN_POINT ( 'NONE',  ( 8.860326541808156300, -0.02852024063384186700, -6.212433792496791600 ) ) ;
+#1729 = CARTESIAN_POINT ( 'NONE',  ( 8.861387714328586200, -2.884271714542289000E-015, -6.213364517477630000 ) ) ;
+#1730 = CARTESIAN_POINT ( 'NONE',  ( 8.882901263870040900, -4.268512490100411300E-018, -6.232233834441977600 ) ) ;
+#1731 = CARTESIAN_POINT ( 'NONE',  ( 8.888672656731472400, -0.02852976445935391500, -6.177890130798101800 ) ) ;
+#1732 = CARTESIAN_POINT ( 'NONE',  ( 8.889786381687498500, 5.056534357639989500E-013, -6.178743046312294300 ) ) ;
+#1733 = CARTESIAN_POINT ( 'NONE',  ( 8.912498289937811800, -4.268512490100411300E-018, -6.196166534919170100 ) ) ;
+#1734 = CARTESIAN_POINT ( 'NONE',  ( 8.938081613191180000, -0.02856749526141186300, -6.103928182263127100 ) ) ;
+#1735 = CARTESIAN_POINT ( 'NONE',  ( 8.939267480532366900, -5.056614392249157400E-013, -6.104611536574527300 ) ) ;
+#1736 = CARTESIAN_POINT ( 'NONE',  ( 8.964088429017413900, -4.268512490100411300E-018, -6.118942934960157800 ) ) ;
+#1737 = CYLINDRICAL_SURFACE ( 'NONE', #1662, 0.1124999999999994200 ) ;
+#1738 =( BOUNDED_SURFACE ( )  B_SPLINE_SURFACE ( 3, 2, ( 
+ ( #1763, #1754, #1753 ),
+ ( #1752, #1751, #1682 ),
+ ( #1681, #1680, #1679 ),
+ ( #1678, #1677, #1676 ),
+ ( #1761, #1760, #1759 ),
+ ( #1758, #1757, #1756 ),
+ ( #1736, #1735, #1734 ),
+ ( #1733, #1732, #1731 ),
+ ( #1730, #1729, #1728 ),
+ ( #1665, #1664, #1663 ) ),
+ .UNSPECIFIED., .F., .F., .F. ) 
+ B_SPLINE_SURFACE_WITH_KNOTS ( ( 4, 2, 2, 2, 4 ),
+ ( 3, 3 ),
+ ( 5.498396131367750100, 5.694593425320709600, 5.890790719273668200, 6.086988013226626700, 6.283185307179586200 ),
+ ( 0.0000000000000000000, 1.000000000000000000 ),
+ .UNSPECIFIED. ) 
+ GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_SURFACE ( (
+ ( 1.000000000000000000, 0.7193398003386509700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7201321617003245700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7208449313857745500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7220861205420290300, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7226144169604372700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7234674561604542700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7237921843561765400, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7242264651465870600, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243361323246055900, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243360104959070100, 1.000000000000000000) ) ) 
+ REPRESENTATION_ITEM ( '' )  SURFACE ( )  );
+#1739 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, 0.0000000000000000000, -5.763275171757900500 ) ) ;
+#1740 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154720900, -2.134256245050205600E-018, -6.265067549154720100 ) ) ;
+#1741 = CARTESIAN_POINT ( 'NONE',  ( -8.567318139394211900, -0.02866971517893404700, -6.408172931546315200 ) ) ;
+#1742 = CARTESIAN_POINT ( 'NONE',  ( -8.567725988653350600, 2.375224137753560600E-013, -6.409381425495016800 ) ) ;
+#1743 =( BOUNDED_SURFACE ( )  B_SPLINE_SURFACE ( 3, 2, ( 
+ ( #1652, #1651, #1650 ),
+ ( #1693, #1692, #1691 ),
+ ( #1690, #1689, #1688 ),
+ ( #1687, #1686, #1685 ),
+ ( #1684, #1711, #1710 ),
+ ( #1709, #1708, #1707 ),
+ ( #1706, #1705, #1704 ),
+ ( #1703, #1702, #1701 ),
+ ( #1700, #1699, #1592 ),
+ ( #1618, #1834, #1875 ) ),
+ .UNSPECIFIED., .F., .F., .T. ) 
+ B_SPLINE_SURFACE_WITH_KNOTS ( ( 4, 2, 2, 2, 4 ),
+ ( 3, 3 ),
+ ( 5.498396131367750100, 5.694593425320709600, 5.890790719273668200, 6.086988013226626700, 6.283185307179586200 ),
+ ( 0.0000000000000000000, 1.000000000000000000 ),
+ .UNSPECIFIED. ) 
+ GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_SURFACE ( (
+ ( 1.000000000000000000, 0.7193398003386386500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7201321617055963500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7208449313787666000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7220861205490369800, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7226144169604366000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7234674561604536000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7237921843561765400, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7242264651465870600, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243361323246319000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243360104958985700, 1.000000000000000000) ) ) 
+ REPRESENTATION_ITEM ( '' )  SURFACE ( )  );
+#1744 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757901300, -0.02895301509892491200, -6.442860934130886000 ) ) ;
+#1745 = AXIS2_PLACEMENT_3D ( 'NONE', #1675, #1674, #1673 ) ;
+#1746 = CIRCLE ( 'NONE', #1745, 0.03000000000000068900 ) ;
+#1747 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393166600, 6.243880167152471300 ) ) ;
+#1748 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1749 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1750 = AXIS2_PLACEMENT_3D ( 'NONE', #1713, #1749, #1748 ) ;
+#1751 = CARTESIAN_POINT ( 'NONE',  ( 9.028938118969710700, 6.231430537700375100E-016, -5.807842620094053400 ) ) ;
+#1752 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, -4.268512490100411300E-018, -5.809737332109032900 ) ) ;
+#1753 = CARTESIAN_POINT ( 'NONE',  ( 9.027860934130886900, -0.02895301509892497800, -5.763275171757900500 ) ) ;
+#1754 = CARTESIAN_POINT ( 'NONE',  ( 9.028871995697246100, -6.536159750466255300E-018, -5.763275171757900500 ) ) ;
+#1755 = CARTESIAN_POINT ( 'NONE',  ( 1.863057071958406300, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1756 = CARTESIAN_POINT ( 'NONE',  ( 8.959142881233852100, -0.02859570130800041800, -6.064512074124957400 ) ) ;
+#1757 = CARTESIAN_POINT ( 'NONE',  ( 8.960348301933800400, -2.368887554479025900E-013, -6.065103744594959600 ) ) ;
+#1758 = CARTESIAN_POINT ( 'NONE',  ( 8.986079899081701700, -4.268512490100411300E-018, -6.077788909306089900 ) ) ;
+#1759 = CARTESIAN_POINT ( 'NONE',  ( 8.993172931546316900, -0.02866971517893404700, -5.982318139394212000 ) ) ;
+#1760 = CARTESIAN_POINT ( 'NONE',  ( 8.994381425495019400, 2.376800309507549600E-013, -5.982725988653350600 ) ) ;
+#1761 = CARTESIAN_POINT ( 'NONE',  ( 9.021613973792703700, -4.268512490100411300E-018, -5.991971470222272200 ) ) ;
+#1762 = FACE_OUTER_BOUND ( 'NONE', #513, .T. ) ;
+#1763 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, -4.268512490100411300E-018, -5.763275171757900500 ) ) ;
+#1764 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, 0.0000000000000000000, -5.763275171757900500 ) ) ;
+#1765 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941458700, -4.268512490100411300E-018, -5.954055750277971600 ) ) ;
+#1766 = CARTESIAN_POINT ( 'NONE',  ( 8.984887711145187700, -4.268512490100411300E-018, -6.130247387164254200 ) ) ;
+#1767 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154720900, -2.134256245050205600E-018, -6.265067549154720100 ) ) ;
+#1768 = CARTESIAN_POINT ( 'NONE',  ( -8.576971470222273900, -4.268512490100411300E-018, -6.436613973792703700 ) ) ;
+#1769 = CARTESIAN_POINT ( 'NONE',  ( -8.524542338794749000, -0.02871552117899312300, -6.421140875011679400 ) ) ;
+#1770 = FACE_OUTER_BOUND ( 'NONE', #542, .T. ) ;
+#1771 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1772 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1773 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757901300, -0.02999999999999999900, -6.472842658941458700 ) ) ;
+#1774 = AXIS2_PLACEMENT_3D ( 'NONE', #1773, #1772, #1771 ) ;
+#1775 = CIRCLE ( 'NONE', #1774, 0.03000000000000049800 ) ;
+#1776 = FACE_OUTER_BOUND ( 'NONE', #530, .T. ) ;
+#1777 =( GEOMETRIC_REPRESENTATION_CONTEXT ( 3 ) GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT ( ( #1848 ) ) GLOBAL_UNIT_ASSIGNED_CONTEXT ( ( #1851, #1850, #1849 ) ) REPRESENTATION_CONTEXT ( 'NONE', 'WORKASPACE' ) );
+#1778 = CARTESIAN_POINT ( 'NONE',  ( -8.524858114542707800, 4.859894290929243100E-013, -6.422332884335191700 ) ) ;
+#1779 = CARTESIAN_POINT ( 'NONE',  ( -8.532310172099101900, -4.268512490100411300E-018, -6.450155702561497500 ) ) ;
+#1780 = CARTESIAN_POINT ( 'NONE',  ( -8.437270203924565900, -0.02882297820248251200, -6.438486284166804000 ) ) ;
+#1781 = CARTESIAN_POINT ( 'NONE',  ( -8.437415085152792900, -4.859984996819680300E-013, -6.439611435175796900 ) ) ;
+#1782 = CARTESIAN_POINT ( 'NONE',  ( -8.441191714017671500, -4.268512490100411300E-018, -6.468270268387645000 ) ) ;
+#1783 = CARTESIAN_POINT ( 'NONE',  ( -8.392776531016142600, -0.02888462579297941500, -6.442863322338074500 ) ) ;
+#1784 = CARTESIAN_POINT ( 'NONE',  ( -8.392842620094054200, 1.016692562220352400E-015, -6.443938118969709800 ) ) ;
+#1785 = CARTESIAN_POINT ( 'NONE',  ( -8.394737332109032800, -4.268512490100411300E-018, -6.472842658941458700 ) ) ;
+#1786 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757901300, -0.02895301509892497800, -6.442860934130886000 ) ) ;
+#1787 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757901300, -6.536159750466255300E-018, -6.443871995697245200 ) ) ;
+#1788 = FACE_OUTER_BOUND ( 'NONE', #639, .T. ) ;
+#1789 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205501500, -1.000000000000000000, 3.536942928041569600 ) ) ;
+#1790 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205501500, -1.000000000000000000, 3.323057071958431100 ) ) ;
+#1791 = DIRECTION ( 'NONE',  ( -8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1792 = VECTOR ( 'NONE', #1791, 39.37007874015748100 ) ;
+#1793 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205499700, -1.000000000000000000, -6.653999999999999900 ) ) ;
+#1794 = LINE ( 'NONE', #1793, #1792 ) ;
+#1795 = CIRCLE ( 'NONE', #1832, 0.03000000000000068900 ) ;
+#1796 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941462200, 0.0000000000000000000, 5.763275171757900500 ) ) ;
+#1797 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941460500, -4.268512490100411300E-018, 5.954055750277971600 ) ) ;
+#1798 = CARTESIAN_POINT ( 'NONE',  ( -8.984887711145187700, -4.268512490100411300E-018, 6.130247387164254200 ) ) ;
+#1799 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154722700, -2.134256245050205600E-018, 6.265067549154720100 ) ) ;
+#1800 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154722700, -2.134256245050205600E-018, 6.265067549154720100 ) ) ;
+#1801 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1799, #1798, #1797, #1796 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 0.0000000000000000000, 0.7847891758118363800 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1802 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941462200, 0.0000000000000000000, 5.763275171757900500 ) ) ;
+#1803 = CARTESIAN_POINT ( 'NONE',  ( -8.699756631724982400, -0.02852024063393166600, -6.373003702579959300 ) ) ;
+#1804 = CARTESIAN_POINT ( 'NONE',  ( -8.531004405408619800, -0.02867219838543305600, -6.442870740466607200 ) ) ;
+#1805 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757901300, -0.02895301509892491200, -6.442860934130886000 ) ) ;
+#1806 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757903100, -0.02895301509892497800, 6.442860934130886000 ) ) ;
+#1807 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757903100, -1.080467224056666800E-017, 6.443871995697245200 ) ) ;
+#1808 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757903100, -8.537024980200822600E-018, 6.472842658941458700 ) ) ;
+#1809 = CARTESIAN_POINT ( 'NONE',  ( 8.524542338794123700, -0.02871552117899829600, 6.421140875011803800 ) ) ;
+#1810 = CARTESIAN_POINT ( 'NONE',  ( 8.524858114542059400, -1.225301410363413200E-013, 6.422332884335191700 ) ) ;
+#1811 = CARTESIAN_POINT ( 'NONE',  ( 8.532310172099098400, -8.537024980200822600E-018, 6.450155702561498400 ) ) ;
+#1812 = CARTESIAN_POINT ( 'NONE',  ( 8.437270203925180600, -0.02882297820247734600, 6.438486284166681500 ) ) ;
+#1813 = CARTESIAN_POINT ( 'NONE',  ( 8.437415085153434200, 1.225128002043497400E-013, 6.439611435175797800 ) ) ;
+#1814 = CARTESIAN_POINT ( 'NONE',  ( 8.441191714017668000, -8.537024980200822600E-018, 6.468270268387645800 ) ) ;
+#1815 = CARTESIAN_POINT ( 'NONE',  ( 8.392776531015682600, -0.02888462579298622600, 6.442863322338074500 ) ) ;
+#1816 = CARTESIAN_POINT ( 'NONE',  ( 8.392842620093571100, 9.198253826462365900E-015, 6.443938118969715100 ) ) ;
+#1817 = CARTESIAN_POINT ( 'NONE',  ( 8.394737332109038200, -8.537024980200822600E-018, 6.472842658941458700 ) ) ;
+#1818 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1819 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1820 = AXIS2_PLACEMENT_3D ( 'NONE', #1894, #1819, #1818 ) ;
+#1821 = CIRCLE ( 'NONE', #1820, 0.03000000000000049800 ) ;
+#1822 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393166600, 6.243880167152471300 ) ) ;
+#1823 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152473000, -0.02852024063393165200, 6.243880167152469500 ) ) ;
+#1824 = CARTESIAN_POINT ( 'NONE',  ( 8.829876115901500500, -4.802076551362963100E-018, 6.244876115901496000 ) ) ;
+#1825 = CARTESIAN_POINT ( 'NONE',  ( 9.027870740466609000, -0.02867219838543305600, -5.946004405408619000 ) ) ;
+#1826 = CARTESIAN_POINT ( 'NONE',  ( 9.027860934130886900, -0.02895301509892491900, -5.763275171757900500 ) ) ;
+#1827 = CARTESIAN_POINT ( 'NONE',  ( 9.027860934130886900, -0.02895301509892491900, -5.763275171757900500 ) ) ;
+#1828 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1826, #1825, #1873, #1872 ),
+ .UNSPECIFIED., .F., .F. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 5.498396131367750100, 6.283185307179586200 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1829 = DIRECTION ( 'NONE',  ( 0.7071067811865474600, 0.0000000000000000000, -0.7071067811865474600 ) ) ;
+#1830 = DIRECTION ( 'NONE',  ( 0.7071067811865475700, 0.0000000000000000000, 0.7071067811865475700 ) ) ;
+#1831 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154720900, -0.03000000000000000600, -6.265067549154720100 ) ) ;
+#1832 = AXIS2_PLACEMENT_3D ( 'NONE', #1831, #1830, #1829 ) ;
+#1833 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152471300, -0.02852024063393166600, -6.243880167152471300 ) ) ;
+#1834 = CARTESIAN_POINT ( 'NONE',  ( -8.829876115901498700, 1.469702206747697900E-015, 6.244876115901497800 ) ) ;
+#1835 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757901300, -4.268512490100411300E-018, -6.472842658941458700 ) ) ;
+#1836 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1837 = DIRECTION ( 'NONE',  ( -8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1838 = AXIS2_PLACEMENT_3D ( 'NONE', #1840, #1837, #1836 ) ;
+#1839 = CYLINDRICAL_SURFACE ( 'NONE', #1838, 0.6800000000000003800 ) ;
+#1840 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013790900, -4.210000000000000000, -6.653999999999999900 ) ) ;
+#1841 = FACE_OUTER_BOUND ( 'NONE', #633, .T. ) ;
+#1842 =( BOUNDED_SURFACE ( )  B_SPLINE_SURFACE ( 3, 2, ( 
+ ( #1835, #1787, #1786 ),
+ ( #1785, #1784, #1783 ),
+ ( #1782, #1781, #1780 ),
+ ( #1779, #1778, #1769 ),
+ ( #1768, #1742, #1741 ),
+ ( #1671, #1670, #1669 ),
+ ( #1668, #1667, #1666 ),
+ ( #1661, #1660, #1659 ),
+ ( #1658, #1657, #1656 ),
+ ( #1655, #1654, #1653 ) ),
+ .UNSPECIFIED., .F., .F., .T. ) 
+ B_SPLINE_SURFACE_WITH_KNOTS ( ( 4, 2, 2, 2, 4 ),
+ ( 3, 3 ),
+ ( 5.498396131367750100, 5.694593425320709600, 5.890790719273668200, 6.086988013226626700, 6.283185307179586200 ),
+ ( 0.0000000000000000000, 1.000000000000000000 ),
+ .UNSPECIFIED. ) 
+ GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_SURFACE ( (
+ ( 1.000000000000000000, 0.7193398003386509700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7201321617003310100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7208449313857745500, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7220861205420290300, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7226144169604367100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7234674561604537100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7237921843464210100, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7242264651563425900, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243361323172836700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243360104959070100, 1.000000000000000000) ) ) 
+ REPRESENTATION_ITEM ( '' )  SURFACE ( )  );
+#1843 =( BOUNDED_SURFACE ( )  B_SPLINE_SURFACE ( 3, 2, ( 
+ ( #1808, #1807, #1806 ),
+ ( #1817, #1816, #1815 ),
+ ( #1814, #1813, #1812 ),
+ ( #1811, #1810, #1809 ),
+ ( #1891, #1890, #1889 ),
+ ( #1888, #1887, #1886 ),
+ ( #1885, #1884, #1883 ),
+ ( #1882, #1881, #1880 ),
+ ( #1879, #1878, #1877 ),
+ ( #1876, #1824, #1823 ) ),
+ .UNSPECIFIED., .F., .F., .T. ) 
+ B_SPLINE_SURFACE_WITH_KNOTS ( ( 4, 2, 2, 2, 4 ),
+ ( 3, 3 ),
+ ( 5.498396131367749200, 5.694593425320707800, 5.890790719273667300, 6.086988013226626700, 6.283185307179586200 ),
+ ( 0.0000000000000000000, 1.000000000000000000 ),
+ .UNSPECIFIED. ) 
+ GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_SURFACE ( (
+ ( 1.000000000000000000, 0.7193398003386509700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7201321617055004300, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7208449313788976000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7220861205489059700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7226144169604413700, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7234674561604583800, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7237921843600984000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7242264651426521000, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243361323275607800, 1.000000000000000000),
+ ( 1.000000000000000000, 0.7243360104959154500, 1.000000000000000000) ) ) 
+ REPRESENTATION_ITEM ( '' )  SURFACE ( )  );
+#1844 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154722700, -2.134256245050205600E-018, 6.265067549154720100 ) ) ;
+#1845 = CARTESIAN_POINT ( 'NONE',  ( -8.958003702579960100, -0.02852024063393166300, 6.114756631724981500 ) ) ;
+#1846 = CARTESIAN_POINT ( 'NONE',  ( -9.027870740466609000, -0.02867219838543305300, 5.946004405408619000 ) ) ;
+#1847 = CARTESIAN_POINT ( 'NONE',  ( -9.027860934130886900, -0.02895301509892490500, 5.763275171757900500 ) ) ;
+#1848 = UNCERTAINTY_MEASURE_WITH_UNIT (LENGTH_MEASURE( 1.000000000000000100E-005 ), #1851, 'distance_accuracy_value', 'NONE');
+#1849 =( NAMED_UNIT ( * ) SI_UNIT ( $, .STERADIAN. ) SOLID_ANGLE_UNIT ( ) );
+#1850 =( NAMED_UNIT ( * ) PLANE_ANGLE_UNIT ( ) SI_UNIT ( $, .RADIAN. ) );
+#1851 =( CONVERSION_BASED_UNIT ( 'INCH', #1852 ) LENGTH_UNIT ( ) NAMED_UNIT ( #1853 ) );
+#1852 = LENGTH_MEASURE_WITH_UNIT ( LENGTH_MEASURE( 0.02539999999999999900 ), #1854 );
+#1853 = DIMENSIONAL_EXPONENTS ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ;
+#1854 =( LENGTH_UNIT ( ) NAMED_UNIT ( * ) SI_UNIT ( $, .METRE. ) );
+#1855 = MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION (  '', ( #1857 ), #1777 ) ;
+#1856 = PRESENTATION_LAYER_ASSIGNMENT (  '', '', ( #1857 ) ) ;
+#1857 = STYLED_ITEM ( 'NONE', ( #1860 ), #563 ) ;
+#1858 = FACE_OUTER_BOUND ( 'NONE', #544, .T. ) ;
+#1859 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1805, #1804, #1803, #1874 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 5.498396131367750100, 6.283185307179586200 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1860 = PRESENTATION_STYLE_ASSIGNMENT (( #1861 ) ) ;
+#1861 = SURFACE_STYLE_USAGE ( .BOTH. , #1862 ) ;
+#1862 = SURFACE_SIDE_STYLE ('',( #1863 ) ) ;
+#1863 = SURFACE_STYLE_FILL_AREA ( #1864 ) ;
+#1864 = FILL_AREA_STYLE ('',( #1871 ) ) ;
+#1865 = COLOUR_RGB ( '',0.5019607843137254800, 0.5019607843137254800, 0.5019607843137254800 ) ;
+#1866 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1867 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1868 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941460500, -0.02999999999999999900, -5.763275171757900500 ) ) ;
+#1869 = AXIS2_PLACEMENT_3D ( 'NONE', #1868, #1867, #1866 ) ;
+#1870 = CIRCLE ( 'NONE', #1869, 0.03000000000000049800 ) ;
+#1871 = FILL_AREA_STYLE_COLOUR ( '', #1865 ) ;
+#1872 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152471300, -0.02852024063393166600, -6.243880167152471300 ) ) ;
+#1873 = CARTESIAN_POINT ( 'NONE',  ( 8.958003702579961900, -0.02852024063393166600, -6.114756631724982400 ) ) ;
+#1874 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393166600, -6.243880167152471300 ) ) ;
+#1875 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393165200, 6.243880167152471300 ) ) ;
+#1876 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154722700, -4.268512490100411300E-018, 6.265067549154720100 ) ) ;
+#1877 = CARTESIAN_POINT ( 'NONE',  ( 8.797433792496599700, -0.02852024063393165600, 6.275326541808342800 ) ) ;
+#1878 = CARTESIAN_POINT ( 'NONE',  ( 8.798364517475292200, 2.355060442867017500E-015, 6.276387714327703400 ) ) ;
+#1879 = CARTESIAN_POINT ( 'NONE',  ( 8.817233834440443700, -4.268512490100411300E-018, 6.297901263868999100 ) ) ;
+#1880 = CARTESIAN_POINT ( 'NONE',  ( 8.762890130798403700, -0.02852976445937978700, 6.303672656731266400 ) ) ;
+#1881 = CARTESIAN_POINT ( 'NONE',  ( 8.763743046312946200, 8.471656654806402600E-013, 6.304786381686206200 ) ) ;
+#1882 = CARTESIAN_POINT ( 'NONE',  ( 8.781166534919176300, -4.268512490100411300E-018, 6.327498289937162600 ) ) ;
+#1883 = CARTESIAN_POINT ( 'NONE',  ( 8.688928182262836600, -0.02856749526138598400, 6.353081613191377200 ) ) ;
+#1884 = CARTESIAN_POINT ( 'NONE',  ( 8.689611536573890400, -8.460158349286193800E-013, 6.354267480533651200 ) ) ;
+#1885 = CARTESIAN_POINT ( 'NONE',  ( 8.703942934960164000, -4.268512490100411300E-018, 6.379088429018055200 ) ) ;
+#1886 = CARTESIAN_POINT ( 'NONE',  ( 8.649512074124960000, -0.02859570130800041800, 6.374142881233850300 ) ) ;
+#1887 = CARTESIAN_POINT ( 'NONE',  ( 8.650103744594961300, -2.371318448825129700E-013, 6.375348301933799500 ) ) ;
+#1888 = CARTESIAN_POINT ( 'NONE',  ( 8.662788909306092600, -4.268512490100411300E-018, 6.401079899081699900 ) ) ;
+#1889 = CARTESIAN_POINT ( 'NONE',  ( 8.567318139394211900, -0.02866971517893404700, 6.408172931546315200 ) ) ;
+#1890 = CARTESIAN_POINT ( 'NONE',  ( 8.567725988653350600, 2.371222407294102300E-013, 6.409381425495016800 ) ) ;
+#1891 = CARTESIAN_POINT ( 'NONE',  ( 8.576971470222273900, -4.268512490100411300E-018, 6.436613973792703700 ) ) ;
+#1892 = CARTESIAN_POINT ( 'NONE',  ( -9.027860934130886900, -0.02895301509892490500, 5.763275171757900500 ) ) ;
+#1893 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1847, #1846, #1845, #1822 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 5.498396131367749200, 6.283185307179587100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732176600, 0.9493306762732176600, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1894 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941462200, -0.02999999999999995400, 5.763275171757900500 ) ) ;
+#1895 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1996, #1995, #1994, #2023 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.884972798286152400, 4.398212508893434100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5393555722222839200, 0.5393555722222839200, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1896 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1897 = VECTOR ( 'NONE', #1896, 39.37007874015748100 ) ;
+#1898 = CARTESIAN_POINT ( 'NONE',  ( -9.238999999999999000, -4.889999999999999700, -5.616441066013789100 ) ) ;
+#1899 = LINE ( 'NONE', #1898, #1897 ) ;
+#1900 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757901300, -4.268512490100411300E-018, -6.472842658941458700 ) ) ;
+#1901 = CARTESIAN_POINT ( 'NONE',  ( -8.539055750277972500, -4.268512490100411300E-018, -6.472842658941458700 ) ) ;
+#1902 = CARTESIAN_POINT ( 'NONE',  ( -8.715247387164252400, -4.268512490100411300E-018, -6.399887711145186000 ) ) ;
+#1903 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205501500, -1.000000000000000000, 3.536942928041569600 ) ) ;
+#1904 = CARTESIAN_POINT ( 'NONE',  ( -8.868507622714288300, -4.592234802298245100, 3.495981012728961400 ) ) ;
+#1905 = CARTESIAN_POINT ( 'NONE',  ( -8.868507622714288300, -4.592234802298246000, 3.364018987271038900 ) ) ;
+#1906 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205501500, -1.000000000000000000, 3.323057071958431100 ) ) ;
+#1907 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1908 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1909 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013790900, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#1910 = AXIS2_PLACEMENT_3D ( 'NONE', #1909, #1908, #1907 ) ;
+#1911 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013792600, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#1912 = SPHERICAL_SURFACE ( 'NONE', #1910, 0.6800000000000001600 ) ;
+#1913 = FACE_OUTER_BOUND ( 'NONE', #620, .T. ) ;
+#1914 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.03489949670250135100, 0.9993908270190957600 ) ) ;
+#1915 = DIRECTION ( 'NONE',  ( 0.03487826274237462700, 0.9987827659587184000, -0.03487826274237462700 ) ) ;
+#1916 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013790900, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#1917 = AXIS2_PLACEMENT_3D ( 'NONE', #1916, #1915, #1914 ) ;
+#1918 = CIRCLE ( 'NONE', #1917, 0.6800000000000002700 ) ;
+#1919 = CARTESIAN_POINT ( 'NONE',  ( 8.881026828386776400, -4.233731657757700400, -5.616441066013790000 ) ) ;
+#1920 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#1921 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1922 = CARTESIAN_POINT ( 'NONE',  ( -5.100000000000000500, -1.000000000000000000, 6.443871995697250600 ) ) ;
+#1923 = AXIS2_PLACEMENT_3D ( 'NONE', #1922, #1921, #1920 ) ;
+#1924 = SPHERICAL_SURFACE ( 'NONE', #1947, 0.6800000000000001600 ) ;
+#1925 = FACE_OUTER_BOUND ( 'NONE', #588, .T. ) ;
+#1926 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1927 = VECTOR ( 'NONE', #1926, 39.37007874015748100 ) ;
+#1928 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154720900, -2.134256245050205600E-018, -6.265067549154720100 ) ) ;
+#1929 = CARTESIAN_POINT ( 'NONE',  ( -8.348275171757901300, -4.268512490100411300E-018, -6.472842658941458700 ) ) ;
+#1930 = CARTESIAN_POINT ( 'NONE',  ( -9.238999999999999000, -4.889999999999999700, 5.616441066013790000 ) ) ;
+#1931 = LINE ( 'NONE', #1930, #2017 ) ;
+#1932 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013792600, -4.889999999999999700, 5.616441066013790000 ) ) ;
+#1933 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1934 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1935 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1936 = CARTESIAN_POINT ( 'NONE',  ( -9.238999999999999000, -4.889999999999999700, 6.654000000000001700 ) ) ;
+#1937 = AXIS2_PLACEMENT_3D ( 'NONE', #1936, #1935, #1934 ) ;
+#1938 = PLANE ( 'NONE',  #1937 ) ;
+#1939 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1940 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154720900, -2.134256245050205600E-018, -6.265067549154720100 ) ) ;
+#1941 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013790900, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#1942 = AXIS2_PLACEMENT_3D ( 'NONE', #1941, #2030, #2029 ) ;
+#1943 = CIRCLE ( 'NONE', #1942, 0.6799999999999998300 ) ;
+#1944 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1945 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1946 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013790900, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#1947 = AXIS2_PLACEMENT_3D ( 'NONE', #1946, #1945, #1944 ) ;
+#1948 = DIRECTION ( 'NONE',  ( -0.7071067811865474600, 0.0000000000000000000, -0.7071067811865474600 ) ) ;
+#1949 = DIRECTION ( 'NONE',  ( 0.7071067811865475700, 0.0000000000000000000, -0.7071067811865475700 ) ) ;
+#1950 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154720900, -0.03000000000000000600, -6.265067549154720100 ) ) ;
+#1951 = AXIS2_PLACEMENT_3D ( 'NONE', #1950, #1949, #1948 ) ;
+#1952 = CIRCLE ( 'NONE', #1951, 0.03000000000000068900 ) ;
+#1953 = CARTESIAN_POINT ( 'NONE',  ( -8.828880167152471300, -0.02852024063393166600, -6.243880167152471300 ) ) ;
+#1954 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1955 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1956 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -19685.03937007874300, -3.529999999999999800 ) ) ;
+#1957 = AXIS2_PLACEMENT_3D ( 'NONE', #1956, #1955, #1954 ) ;
+#1958 = PLANE ( 'NONE',  #1923 ) ;
+#1959 = FACE_OUTER_BOUND ( 'NONE', #613, .T. ) ;
+#1960 = CYLINDRICAL_SURFACE ( 'NONE', #1957, 0.1130000000000001300 ) ;
+#1961 = FACE_OUTER_BOUND ( 'NONE', #728, .T. ) ;
+#1962 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1963 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1964 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -1.000000000000000000, -3.529999999999999800 ) ) ;
+#1965 = AXIS2_PLACEMENT_3D ( 'NONE', #1964, #1963, #1962 ) ;
+#1966 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1906, #1905, #1904, #1903 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 1.886417309883567000, 4.396767997296019600 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.5402712266173461700, 0.5402712266173461700, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#1967 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1968 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1969 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -19685.03937007874300, 3.430000000000000200 ) ) ;
+#1970 = AXIS2_PLACEMENT_3D ( 'NONE', #1969, #1968, #1967 ) ;
+#1971 = CYLINDRICAL_SURFACE ( 'NONE', #1970, 0.1124999999999999600 ) ;
+#1972 = FACE_OUTER_BOUND ( 'NONE', #628, .T. ) ;
+#1973 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1974 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#1975 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -1.000000000000000000, 3.430000000000000200 ) ) ;
+#1976 = AXIS2_PLACEMENT_3D ( 'NONE', #1975, #1974, #1973 ) ;
+#1977 = CIRCLE ( 'NONE', #1976, 0.1124999999999999600 ) ;
+#1978 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#1979 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#1980 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013790900, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#1981 = AXIS2_PLACEMENT_3D ( 'NONE', #1980, #1979, #1978 ) ;
+#1982 = CIRCLE ( 'NONE', #1981, 0.6800000000000003800 ) ;
+#1983 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 1.606969408037802200E-015 ) ) ;
+#1984 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 1.836970198721029700E-016, 0.0000000000000000000 ) ) ;
+#1985 = AXIS2_PLACEMENT_3D ( 'NONE', #1911, #1984, #1983 ) ;
+#1986 = CIRCLE ( 'NONE', #1985, 0.6799999999999998300 ) ;
+#1987 = CARTESIAN_POINT ( 'NONE',  ( -8.881026828386778100, -4.233731657757700400, 5.616441066013790000 ) ) ;
+#1988 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -3.221578494327425300, -6.331371995697249000 ) ) ;
+#1989 = CARTESIAN_POINT ( 'NONE',  ( 1.863057071958406300, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#1990 = VECTOR ( 'NONE', #1933, 39.37007874015748100 ) ;
+#1991 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013790900, -4.889999999999999700, 6.654000000000001700 ) ) ;
+#1992 = LINE ( 'NONE', #1991, #1990 ) ;
+#1993 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013790900, -4.889999999999999700, -5.616441066013790000 ) ) ;
+#1994 = CARTESIAN_POINT ( 'NONE',  ( -8.867617353472629900, -4.617728777792371500, -3.463581981262637400 ) ) ;
+#1995 = CARTESIAN_POINT ( 'NONE',  ( -8.867617353472629900, -4.617728777792371500, -3.596418018737362700 ) ) ;
+#1996 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205499700, -1.000000000000000000, -3.637468785505858300 ) ) ;
+#1997 = PLANE ( 'NONE',  #2022 ) ;
+#1998 = FACE_OUTER_BOUND ( 'NONE', #608, .T. ) ;
+#1999 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#2000 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013790900, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#2001 = AXIS2_PLACEMENT_3D ( 'NONE', #2000, #1999, #1939 ) ;
+#2002 = CIRCLE ( 'NONE', #2001, 0.6800000000000003800 ) ;
+#2003 = FACE_OUTER_BOUND ( 'NONE', #602, .T. ) ;
+#2004 = CARTESIAN_POINT ( 'NONE',  ( -8.881026828386776400, -4.233731657757700400, -5.616441066013790000 ) ) ;
+#2005 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.03489949670250135100, 0.9993908270190957600 ) ) ;
+#2006 = DIRECTION ( 'NONE',  ( 0.03487826274237462700, -0.9987827659587184000, 0.03487826274237462700 ) ) ;
+#2007 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#2008 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#2009 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013792600, -4.210000000000000000, 5.616441066013790000 ) ) ;
+#2010 = AXIS2_PLACEMENT_3D ( 'NONE', #2009, #2008, #2007 ) ;
+#2011 = CIRCLE ( 'NONE', #2010, 0.6800000000000003800 ) ;
+#2012 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013790900, -4.889999999999999700, -5.616441066013790000 ) ) ;
+#2013 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013790900, -4.889999999999999700, 6.654000000000001700 ) ) ;
+#2014 = LINE ( 'NONE', #2013, #1927 ) ;
+#2015 = CARTESIAN_POINT ( 'NONE',  ( 8.201441066013792600, -4.889999999999999700, 5.616441066013790000 ) ) ;
+#2016 = DIRECTION ( 'NONE',  ( -1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#2017 = VECTOR ( 'NONE', #2016, 39.37007874015748100 ) ;
+#2018 = CIRCLE ( 'NONE', #1965, 0.1130000000000001300 ) ;
+#2019 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#2020 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#2021 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -1.000000000000000000, 3.430000000000000200 ) ) ;
+#2022 = AXIS2_PLACEMENT_3D ( 'NONE', #2021, #2020, #2019 ) ;
+#2023 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205499700, -1.000000000000000000, -3.422531214494141300 ) ) ;
+#2024 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #1940, #1902, #1901, #1900 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 0.0000000000000000000, 0.7847891758118364900 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#2025 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013790900, -4.210000000000000000, -5.616441066013790000 ) ) ;
+#2026 = AXIS2_PLACEMENT_3D ( 'NONE', #2025, #2006, #2005 ) ;
+#2027 = CIRCLE ( 'NONE', #2026, 0.6800000000000002700 ) ;
+#2028 = CARTESIAN_POINT ( 'NONE',  ( -8.201441066013790900, -4.233731657757700400, -6.296026828386775500 ) ) ;
+#2029 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#2030 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 1.836970198721029700E-016, 0.0000000000000000000 ) ) ;
+#2031 = UNCERTAINTY_MEASURE_WITH_UNIT (LENGTH_MEASURE( 1.000000000000000100E-005 ), #2034, 'distance_accuracy_value', 'NONE');
+#2032 =( NAMED_UNIT ( * ) SI_UNIT ( $, .STERADIAN. ) SOLID_ANGLE_UNIT ( ) );
+#2033 =( NAMED_UNIT ( * ) PLANE_ANGLE_UNIT ( ) SI_UNIT ( $, .RADIAN. ) );
+#2034 =( CONVERSION_BASED_UNIT ( 'INCH', #2043 ) LENGTH_UNIT ( ) NAMED_UNIT ( #2044 ) );
+#2035 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #2037, 'design' ) ;
+#2036 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #2037 ) ;
+#2037 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#2038 = PRODUCT ( '1520-CASE-BOT-US', '1520-CASE-BOT-US', '', ( #2039 ) ) ;
+#2039 = PRODUCT_CONTEXT ( 'NONE', #2041, 'mechanical' ) ;
+#2040 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #2041 ) ;
+#2041 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#2042 = DIRECTION ( 'NONE',  ( 1.182025684891692100E-016, -0.03489949670250097600, 0.9993908270190957600 ) ) ;
+#2043 = LENGTH_MEASURE_WITH_UNIT ( LENGTH_MEASURE( 0.02539999999999999900 ), #2045 );
+#2044 = DIMENSIONAL_EXPONENTS ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ;
+#2045 =( LENGTH_UNIT ( ) NAMED_UNIT ( * ) SI_UNIT ( $, .METRE. ) );
+#2046 = CARTESIAN_POINT ( 'NONE',  ( -8.850067549154720900, -2.134256245050205600E-018, -6.265067549154720100 ) ) ;
+#2047 = CARTESIAN_POINT ( 'NONE',  ( -8.984887711145187700, -4.268512490100411300E-018, -6.130247387164254200 ) ) ;
+#2048 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941458700, -4.268512490100411300E-018, -5.954055750277971600 ) ) ;
+#2049 = CARTESIAN_POINT ( 'NONE',  ( -9.057842658941460500, 0.0000000000000000000, -5.763275171757900500 ) ) ;
+#2050 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #2049, #2048, #2047, #2046 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 5.498396131367750100, 6.283185307179586200 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#2051 = CARTESIAN_POINT ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#2052 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154720900, -2.134256245050205600E-018, -6.265067549154720100 ) ) ;
+#2053 = CARTESIAN_POINT ( 'NONE',  ( 8.715247387164252400, -4.268512490100411300E-018, -6.399887711145186000 ) ) ;
+#2054 = CARTESIAN_POINT ( 'NONE',  ( 8.539055750277972500, -4.268512490100411300E-018, -6.472842658941458700 ) ) ;
+#2055 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757901300, 0.0000000000000000000, -6.472842658941458700 ) ) ;
+#2056 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#2057 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#2058 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205499700, -1.000000000000000000, -3.422531214494141300 ) ) ;
+#2059 = DIRECTION ( 'NONE',  ( -8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#2060 = VECTOR ( 'NONE', #2059, 39.37007874015748100 ) ;
+#2061 = FACE_OUTER_BOUND ( 'NONE', #758, .T. ) ;
+#2062 = CARTESIAN_POINT ( 'NONE',  ( -6.126942928041595200, -1.000000000000000000, -6.408951226205578800 ) ) ;
+#2063 = CARTESIAN_POINT ( 'NONE',  ( -6.111283439805394100, -2.373289266357274200, -6.360994908289625500 ) ) ;
+#2064 = CARTESIAN_POINT ( 'NONE',  ( -6.070448270534041200, -3.221578494330258600, -6.331371995697246300 ) ) ;
+#2065 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -3.221578494327425300, -6.331371995697247200 ) ) ;
+#2066 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #2065, #2064, #2063, #2062 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.141592653589793100, 4.396767997296091600 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.8729642442192318000, 0.8729642442192318000, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#2067 = PLANE ( 'NONE',  #2090 ) ;
+#2068 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -3.221578494327425300, -6.331371995697247200 ) ) ;
+#2069 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#2070 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #2116, #2115, #2114, #2113 ),
+ .UNSPECIFIED., .F., .F. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 5.498396131367749200, 6.283185307179585300 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#2071 = DIRECTION ( 'NONE',  ( 0.7071067811865474600, 0.0000000000000000000, 0.7071067811865474600 ) ) ;
+#2072 = DIRECTION ( 'NONE',  ( -0.7071067811865474600, 0.0000000000000000000, 0.7071067811865476800 ) ) ;
+#2073 = AXIS2_PLACEMENT_3D ( 'NONE', #2079, #2072, #2071 ) ;
+#2074 = CIRCLE ( 'NONE', #2073, 0.03000000000000068900 ) ;
+#2075 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152471300, -0.02852024063393166600, 6.243880167152471300 ) ) ;
+#2076 = CARTESIAN_POINT ( 'NONE',  ( -8.881026828386776400, -4.233731657757700400, -6.653999999999999900 ) ) ;
+#2077 = LINE ( 'NONE', #2076, #2141 ) ;
+#2078 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #2145, #2144, #2143, #2142 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 9.619183076282621000E-017, 0.7847891758118367100 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#2079 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154722700, -0.03000000000000000600, 6.265067549154720100 ) ) ;
+#2080 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757903100, 0.0000000000000000000, 6.472842658941460500 ) ) ;
+#2081 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205499700, -1.000000000000000000, -3.637468785505858300 ) ) ;
+#2082 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #2055, #2054, #2053, #2052 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 5.498396131367750100, 6.283185307179586200 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.9493306762732178800, 0.9493306762732178800, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#2083 = DIRECTION ( 'NONE',  ( 8.211145156790692900E-017, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#2084 = VECTOR ( 'NONE', #2083, 39.37007874015748100 ) ;
+#2085 = CARTESIAN_POINT ( 'NONE',  ( 9.057842658941462200, 0.0000000000000000000, 5.764286233324257000 ) ) ;
+#2086 = LINE ( 'NONE', #2085, #2084 ) ;
+#2087 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#2088 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#2089 = CARTESIAN_POINT ( 'NONE',  ( -9.238999999999999000, -5.139999999999999700, 6.654000000000001700 ) ) ;
+#2090 = AXIS2_PLACEMENT_3D ( 'NONE', #2089, #2088, #2087 ) ;
+#2091 = AXIS2_PLACEMENT_3D ( 'NONE', #2111, #2057, #2056 ) ;
+#2092 = CARTESIAN_POINT ( 'NONE',  ( -8.993951226205499700, -1.000000000000000000, -6.653999999999999900 ) ) ;
+#2093 = LINE ( 'NONE', #2092, #2060 ) ;
+#2094 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -1.000000000000000000, -6.331371995697249000 ) ) ;
+#2095 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#2096 = VECTOR ( 'NONE', #2095, 39.37007874015748100 ) ;
+#2097 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -19685.03937007874300, -6.331371995697249000 ) ) ;
+#2098 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#2099 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#2100 = CARTESIAN_POINT ( 'NONE',  ( 6.020000000000000500, -19685.03937007874300, -6.443871995697247900 ) ) ;
+#2101 = AXIS2_PLACEMENT_3D ( 'NONE', #2100, #2099, #2098 ) ;
+#2102 = LINE ( 'NONE', #2097, #2096 ) ;
+#2103 = CYLINDRICAL_SURFACE ( 'NONE', #2101, 0.1125000000000005000 ) ;
+#2104 = FACE_OUTER_BOUND ( 'NONE', #502, .T. ) ;
+#2105 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#2106 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#2107 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757903100, -0.02999999999999996100, 6.472842658941460500 ) ) ;
+#2108 = AXIS2_PLACEMENT_3D ( 'NONE', #2107, #2106, #2105 ) ;
+#2109 = CIRCLE ( 'NONE', #2108, 0.03000000000000049800 ) ;
+#2110 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -0.9993908270190958700, -0.03489949670249911000 ) ) ;
+#2111 = CARTESIAN_POINT ( 'NONE',  ( -9.028871995697247900, -1.000000000000000000, -3.529999999999999800 ) ) ;
+#2112 = PLANE ( 'NONE',  #2091 ) ;
+#2113 = CARTESIAN_POINT ( 'NONE',  ( 8.828880167152471300, -0.02852024063393166600, 6.243880167152471300 ) ) ;
+#2114 = CARTESIAN_POINT ( 'NONE',  ( 8.699756631724982400, -0.02852024063393166600, 6.373003702579959300 ) ) ;
+#2115 = CARTESIAN_POINT ( 'NONE',  ( 8.531004405408619800, -0.02867219838543305600, 6.442870740466607200 ) ) ;
+#2116 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757903100, -0.02895301509892492200, 6.442860934130886000 ) ) ;
+#2117 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757903100, -0.02895301509892492200, 6.442860934130886000 ) ) ;
+#2118 = AXIS2_PLACEMENT_3D ( 'NONE', #2119, #2042, #2110 ) ;
+#2119 = CARTESIAN_POINT ( 'NONE',  ( -9.031335959523181000E-016, -1.490635872363533800, -7.697269542844487100 ) ) ;
+#2120 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 1.000000000000000000, 0.0000000000000000000 ) ) ;
+#2121 = CARTESIAN_POINT ( 'NONE',  ( -6.020000000000000500, -19685.03937007874300, -6.443871995697247900 ) ) ;
+#2122 = AXIS2_PLACEMENT_3D ( 'NONE', #2121, #2120, #2069 ) ;
+#2123 = CYLINDRICAL_SURFACE ( 'NONE', #2122, 0.1125000000000005000 ) ;
+#2124 = FACE_OUTER_BOUND ( 'NONE', #749, .T. ) ;
+#2125 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;
+#2126 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, -1.000000000000000000, 0.0000000000000000000 ) ) ;
+#2127 = CARTESIAN_POINT ( 'NONE',  ( 1.970000000000000900, -1.000000000000000000, -6.443871995697247900 ) ) ;
+#2128 = AXIS2_PLACEMENT_3D ( 'NONE', #2127, #2126, #2125 ) ;
+#2129 = CIRCLE ( 'NONE', #2128, 0.1124999999999994200 ) ;
+#2130 = CARTESIAN_POINT ( 'NONE',  ( 7.554200987373374400E-016, -2.141728112193492400, 6.319998849290250600 ) ) ;
+#2131 = CARTESIAN_POINT ( 'NONE',  ( 0.3230000000000007900, -2.141728112193491900, 6.319998849290249700 ) ) ;
+#2132 = CARTESIAN_POINT ( 'NONE',  ( 0.3230000000000007900, -1.818531229384972200, 6.319998849290249700 ) ) ;
+#2133 = CARTESIAN_POINT ( 'NONE',  ( 7.738648894824105400E-016, -1.818531229384972700, 6.319998849290250600 ) ) ;
+#2134 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #2137 ) ;
+#2135 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #2038 ) ) ;
+#2136 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #2038, .NOT_KNOWN. ) ;
+#2137 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #2136, #2035 ) ;
+#2138 = FACE_OUTER_BOUND ( 'NONE', #599, .T. ) ;
+#2139 =( BOUNDED_CURVE ( )  B_SPLINE_CURVE ( 3, ( #2133, #2132, #2131, #2130 ),
+ .UNSPECIFIED., .F., .T. ) 
+ B_SPLINE_CURVE_WITH_KNOTS ( ( 4, 4 ),
+ ( 3.141592653589796700, 6.283185307179589800 ),
+ .UNSPECIFIED. ) 
+ CURVE ( )  GEOMETRIC_REPRESENTATION_ITEM ( )  RATIONAL_B_SPLINE_CURVE ( ( 1.000000000000000000, 0.3333333333333333100, 0.3333333333333333100, 1.000000000000000000 ) ) 
+ REPRESENTATION_ITEM ( '' )  );
+#2140 = DIRECTION ( 'NONE',  ( 8.201144188335078300E-017, 2.863902657694357800E-018, -1.000000000000000000 ) ) ;
+#2141 = VECTOR ( 'NONE', #2140, 39.37007874015748100 ) ;
+#2142 = CARTESIAN_POINT ( 'NONE',  ( 8.348275171757903100, 0.0000000000000000000, 6.472842658941460500 ) ) ;
+#2143 = CARTESIAN_POINT ( 'NONE',  ( 8.539055750277972500, -4.268512490100411300E-018, 6.472842658941458700 ) ) ;
+#2144 = CARTESIAN_POINT ( 'NONE',  ( 8.715247387164254200, -4.268512490100411300E-018, 6.399887711145186000 ) ) ;
+#2145 = CARTESIAN_POINT ( 'NONE',  ( 8.850067549154722700, -2.134256245050205600E-018, 6.265067549154720100 ) ) ;
+#2146 = CYLINDRICAL_SURFACE ( 'NONE', #2118, 0.1615000000000000600 ) ;
+#2147 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;
+#2148 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 1.000000000000000000 ) ) ;
+#2149 = AXIS2_PLACEMENT_3D ( 'NONE', #2051, #2148, #2147 ) ;
+#2150 = SHAPE_DEFINITION_REPRESENTATION ( #2134, #2151 ) ;
+#2151 = ADVANCED_BREP_SHAPE_REPRESENTATION ( '1520-CASE-BOT-US', ( #563, #2149 ), #2152 ) ;
+#2152 =( GEOMETRIC_REPRESENTATION_CONTEXT ( 3 ) GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT ( ( #2031 ) ) GLOBAL_UNIT_ASSIGNED_CONTEXT ( ( #2034, #2033, #2032 ) ) REPRESENTATION_CONTEXT ( 'NONE', 'WORKASPACE' ) );
+ENDSEC;
+END-ISO-10303-21;
